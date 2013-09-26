@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="players">
+    <instance source="file:/G:/workspace3/roadrunnertest/examples/fifaworldcup.yahoo.com/Cannavaro_xy_.xhtml" name="Cannavaro_xy_">
+      <and>
+        <attribute label="_A_"><link target="http://rd.yahoo.com/M%3d216402.1753500.3271926.1678991/D%3dfifaen/S%3d81113675:LW/A%3d883010/R%3d0/*http://fifaworldcup.yahoo.com/en/e/gz/"/></attribute>
+        <attribute label="_B_"><link target="http://rd.yahoo.com/M%3d222224.1918333.3410151.1678992/D%3dfifaen/S%3d81113675:W/A%3d1099011/R%3d0/*http://webevents.broadcast.com/fifa/mastercard/"/></attribute>
+        <attribute label="_C_"><image source="Cannavaro_files/westmodule_pelewebca.gif"/></attribute>
+        <subtree>
+<TD class="mininav" width="100%">
+<A class="navlink" href="http://rd.yahoo.com/M=222203.1961514.3524652.1820840/D=fifaen/S=81113675:WT/A=964094/R=0/*http://en.games.fifaworldcup.yahoo.com/p">
+<!--BB:24,778,174,812-->Win Tickets with the Budweiser Challenge</A>
+</TD>        </subtree>
+        <attribute label="_D_"><link target="http://rd.yahoo.com/M%3d217448.2072831.3537627.1820840/D%3dfifaen/S%3d81113675:WT/A%3d1067829/R%3d0/*http://english.tour2korea.com/member/T1/WCEvent/main.html"/></attribute>
+        <attribute label="_E_"><image source="Cannavaro_files/ITA.gif"/></attribute>
+        <attribute label="TM"> Italy (ITA)</attribute>
+        <attribute label="_G_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+        <attribute label="_H_"><link target="http://fifaworldcup.yahoo.com/en/t/t/news/ita.html"/></attribute>
+        <attribute label="_I_"><link target="http://fifaworldcup.yahoo.com/en/t/t/p/ita.html"/></attribute>
+        <attribute label="_J_"><link target="http://fifaworldcup.yahoo.com/en/t/t/c/ita.html"/></attribute>
+        <attribute label="_K_"><link target="http://fifaworldcup.yahoo.com/en/t/t/h/ita.html"/></attribute>
+        <attribute label="_L_"><link target="http://fifaworldcup.yahoo.com/en/t/t/g/ita.html"/></attribute>
+        <attribute label="_M_"><image source="Cannavaro_files/155957.jpg"/></attribute>
+        <attribute label="_N_">5 CANNAVARO Fabio</attribute>
+        <attribute label="Birth Date">  13 September 1973</attribute>
+        <attribute label="Height">  175 cm</attribute>
+        <attribute label="Weight">  72 kg</attribute>
+        <attribute label="Position">  DF</attribute>
+        <attribute label="Current Club">  Parma (ITA)</attribute>
+        <attribute label="Int'l Goals">  0 (as of 27 May 2002)</attribute>
+        <attribute label="Int'l Caps">  58 (as of 27 May 2002)</attribute>
+        <attribute label="First Int'l Cap">  Northern Ireland (22 January 1997)</attribute>
+        <subtree>
+<TD class="text">
+<SPAN class="hls">
+<!--BB:182,591,225,610-->Profile:</SPAN>
+<BR/>
+<!--BB:182,610,579,762-->Fabio Cannavaro is widely regarded as one of the best defenders in the world. The centre back made his debut in Serie A for Napoli on 7 March 1993. After the 1994/1995 season he moved to Parma where he won the UEFA Cup, the Coppa Italia and the Italian Super Cup in 1999. Cannavaro played in the 1996 Olympic Games in Atlanta and the 1998 FIFA World Cup France™. He was also a member of the Italian team that lost the EURO 2000 final against France. </TD>        </subtree>
+        <plus>
+          <and>
+            <attribute label="_W_">3 July 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+            <attribute label="_Y_">Italy</attribute>
+            <attribute label="_Z_">-</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/fra.html"/></attribute>
+                <attribute label="_B1_">France</attribute>
+              </and>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8781.html"/></attribute>
+                <attribute label="_B1_">0-0</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">27 June 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+            <attribute label="_Y_">Italy</attribute>
+            <attribute label="_Z_">- Norway</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8774.html"/></attribute>
+                <attribute label="_B1_">1-0 (1-0)</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">23 June 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+            <attribute label="_Y_">Italy</attribute>
+            <attribute label="_Z_">- Austria</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8757.html"/></attribute>
+                <attribute label="_B1_">2-1 (0-0)</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">17 June 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+            <attribute label="_Y_">Italy</attribute>
+            <attribute label="_Z_">-</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/cmr.html"/></attribute>
+                <attribute label="_B1_">Cameroon</attribute>
+              </and>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8744.html"/></attribute>
+                <attribute label="_B1_">3-0 (1-0)</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">11 June 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+            <attribute label="_Y_">Italy</attribute>
+            <attribute label="_Z_">- Chile</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8726.html"/></attribute>
+                <attribute label="_B1_">2-2 (1-1)</attribute>
+              </and>
+            </plus>
+          </and>
+        </plus>
+        <attribute label="_C1_"><link target="http://rd.yahoo.com/M%3d216402.1753502.3271850.1690486/D%3dfifaen/S%3d81113675:TE/A%3d881672/R%3d0/*http://fifaworldcup.yahoo.com/en/e/gz/"/></attribute>
+        <attribute label="Matches">ITA</attribute>
+        <attribute label="_E1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ecu.html"/></attribute>
+        <attribute label="_F1_">ECU</attribute>
+        <attribute label="_G1_">03 Jun /</attribute>
+        <attribute label="_H1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/sapporo.html"/></attribute>
+        <attribute label="_I1_">Sapporo</attribute>
+        <attribute label="_J1_">ITA</attribute>
+        <attribute label="_K1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/cro.html"/></attribute>
+        <attribute label="_L1_">CRO</attribute>
+        <attribute label="_M1_">08 Jun /</attribute>
+        <attribute label="_N1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/ibaraki.html"/></attribute>
+        <attribute label="_O1_">Ibaraki</attribute>
+        <attribute label="_P1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/mex.html"/></attribute>
+        <attribute label="_Q1_">MEX</attribute>
+        <attribute label="_R1_">ITA</attribute>
+        <attribute label="_S1_">13 Jun /</attribute>
+        <attribute label="_T1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/oita.html"/></attribute>
+        <attribute label="_U1_">Oita</attribute>
+        <attribute label="_V1_"><link target="http://rd.yahoo.com/M%3d222280.1918559.3410322.1679019/D%3dfifaen/S%3d81113675:E/A%3d1065944/R%3d0/*http://english.tour2korea.com/member/T1/WCEvent/main.html"/></attribute>
+        <attribute label="_W1_"><image source="Cannavaro_files/eng12090.gif"/></attribute>
+        <attribute label="_X1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/159304/index.html"/></attribute>
+        <attribute label="_Y1_">BUFFON Gianluigi</attribute>
+        <attribute label="_Z1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/91469/index.html"/></attribute>
+        <attribute label="GK">PANUCCI Christian</attribute>
+        <attribute label="_B2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/174730/index.html"/></attribute>
+        <attribute label="_C2_">MALDINI Paolo</attribute>
+        <attribute label="_D2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177880/index.html"/></attribute>
+        <attribute label="_E2_">COCO Francesco</attribute>
+        <attribute label="_F2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155957/index.html"/></attribute>
+        <attribute label="_G2_">CANNAVARO Fabio</attribute>
+        <attribute label="_H2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177884/index.html"/></attribute>
+        <attribute label="_I2_">ZANETTI Cristiano</attribute>
+        <attribute label="_J2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155963/index.html"/></attribute>
+        <attribute label="_K2_">DEL PIERO Alessandro</attribute>
+        <attribute label="_L2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177845/index.html"/></attribute>
+        <attribute label="_M2_">GATTUSO Gennaro</attribute>
+        <attribute label="_N2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155969/index.html"/></attribute>
+        <attribute label="_O2_">INZAGHI Filippo</attribute>
+        <attribute label="_P2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/165247/index.html"/></attribute>
+        <attribute label="_Q2_">TOTTI Francesco</attribute>
+        <attribute label="_R2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/187163/index.html"/></attribute>
+        <attribute label="_S2_">DONI Cristiano</attribute>
+        <attribute label="_T2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177879/index.html"/></attribute>
+        <attribute label="_U2_">ABBIATI Christian</attribute>
+        <attribute label="_V2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155971/index.html"/></attribute>
+        <attribute label="_W2_">NESTA Alessandro</attribute>
+        <attribute label="_X2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/170774/index.html"/></attribute>
+        <attribute label="_Y2_">DI BIAGIO Luigi</attribute>
+        <attribute label="_Z2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/169641/index.html"/></attribute>
+        <attribute label="_A3_">IULIANO Mark</attribute>
+        <attribute label="_B3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155964/index.html"/></attribute>
+        <attribute label="_C3_">DI LIVIO Angelo</attribute>
+        <attribute label="_D3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155978/index.html"/></attribute>
+        <attribute label="_E3_">TOMMASI Damiano</attribute>
+        <attribute label="_F3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177676/index.html"/></attribute>
+        <attribute label="_G3_">DELVECCHIO Marco</attribute>
+        <attribute label="_H3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177655/index.html"/></attribute>
+        <attribute label="_I3_">ZAMBROTTA Gianluca</attribute>
+        <attribute label="_J3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177662/index.html"/></attribute>
+        <attribute label="_K3_">MONTELLA Vincenzo</attribute>
+        <attribute label="_L3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155979/index.html"/></attribute>
+        <attribute label="_M3_">VIERI Christian</attribute>
+        <attribute label="_N3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155977/index.html"/></attribute>
+        <attribute label="_O3_">TOLDO Francesco</attribute>
+        <attribute label="_P3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/184451/index.html"/></attribute>
+        <attribute label="_Q3_">MATERAZZI Marco</attribute>
+        <attribute label="_R3_"><link target="http://fifaworldcup.yahoo.com/en/020530/1/mtl.html"/></attribute>
+        <attribute label="_S3_"><image source="Cannavaro_files/336232509.jpg"/></attribute>
+        <attribute label="Photo Gallery">Belgium's Branko Strupar</attribute>
+        <attribute label="_U3_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/fr98/p/ita.html"/></attribute>
+        <attribute label="_V3_"><image source="Cannavaro_files/ita.jpg"/></attribute>
+        <attribute label="_W3_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/fr98/p/ita.html"/></attribute>
+      </and>
+    </instance>
+    <instance source="file:/G:/workspace3/roadrunnertest/examples/fifaworldcup.yahoo.com/Nesta_xy_.xhtml" name="Nesta_xy_">
+      <and>
+        <attribute label="_A_"><link target="http://rd.yahoo.com/M%3d216402.1753500.3271926.1678991/D%3dfifaen/S%3d81113675:LW/A%3d883010/R%3d0/*http://fifaworldcup.yahoo.com/en/e/gz/"/></attribute>
+        <attribute label="_B_"><link target="http://rd.yahoo.com/M%3d222280.1918566.3410329.1678992/D%3dfifaen/S%3d81113675:W/A%3d1065944/R%3d0/*http://english.tour2korea.com/member/T1/WCEvent/main.html"/></attribute>
+        <attribute label="_C_"><image source="Nesta_files/eng12090.gif"/></attribute>
+        <subtree>
+<TD class="mininav" width="100%">
+<A class="navlink" href="http://rd.yahoo.com/M=222203.1961514.3524652.1820840/D=fifaen/S=81113675:WT/A=964094/R=0/*http://en.games.fifaworldcup.yahoo.com/p">
+<!--BB:24,778,174,812-->Win Tickets with the Budweiser Challenge</A>
+</TD>        </subtree>
+        <attribute label="_D_"><link target="http://rd.yahoo.com/M%3d217448.2054767.3522783.1820840/D%3dfifaen/S%3d81113675:WT/A%3d1067829/R%3d0/*http://english.tour2korea.com/member/T1/WCEvent/main.html"/></attribute>
+        <attribute label="_E_"><image source="Nesta_files/ITA.gif"/></attribute>
+        <attribute label="TM"> Italy (ITA)</attribute>
+        <attribute label="_G_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+        <attribute label="_H_"><link target="http://fifaworldcup.yahoo.com/en/t/t/news/ita.html"/></attribute>
+        <attribute label="_I_"><link target="http://fifaworldcup.yahoo.com/en/t/t/p/ita.html"/></attribute>
+        <attribute label="_J_"><link target="http://fifaworldcup.yahoo.com/en/t/t/c/ita.html"/></attribute>
+        <attribute label="_K_"><link target="http://fifaworldcup.yahoo.com/en/t/t/h/ita.html"/></attribute>
+        <attribute label="_L_"><link target="http://fifaworldcup.yahoo.com/en/t/t/g/ita.html"/></attribute>
+        <attribute label="_M_"><image source="Nesta_files/155971.jpg"/></attribute>
+        <attribute label="_N_">13 NESTA Alessandro</attribute>
+        <attribute label="Birth Date">  19 March 1976</attribute>
+        <attribute label="Height">  187 cm</attribute>
+        <attribute label="Weight">  79 kg</attribute>
+        <attribute label="Position">  DF</attribute>
+        <attribute label="Current Club">  Lazio Rome (ITA)</attribute>
+        <attribute label="Int'l Goals">  0 (as of 27 May 2002)</attribute>
+        <attribute label="Int'l Caps">  43 (as of 27 May 2002)</attribute>
+        <attribute label="First Int'l Cap">  Moldova ( 5 October 1996)</attribute>
+        <subtree>
+<TD class="text">
+<SPAN class="hls">
+<!--BB:182,591,225,610-->Profile:</SPAN>
+<BR/>
+<!--BB:182,610,579,686-->In Alessandro Nesta, Italian supporters can find a bit of solace. Along with Paolo Maldini and Fabio Cannavaro, Nesta forms Italy's rock-solid defence. Nesta has what the other two have: FIFA World Cup<SUP>
+<!--BB:205,667,219,686-->TM</SUP>
+<!--BB:182,667,579,705--> experience. The trio will be counted upon to lead Italy deep into the 2002 FIFA World Cup Korea/Japan.<BR/>
+<BR/>
+<!--BB:182,724,579,781-->The Lazio's defender is just 26 years old and is seen by many as the heir apparent to Maldini, as the Lazio product has continued to evolve into a world-class defender.<BR/>
+<BR/>
+<!--BB:182,800,579,876-->Nesta made his debut with Lazio at the age of 17. Soon, he was part of a side that would finish in the top six it Italy's Serie A every single season. Not until 2000, though, would he celebrate a Scudetto with the Roman club.<BR/>
+<BR/>
+<!--BB:182,895,579,1009-->Nesta's defensive skills earned him a quick call-up to the national team. He made the trip with the Azzurri to the UEFA European Championship England 1996 but did not play a game. Soon after making his senior debut against Moldova a few months later, Nesta and Cannavaro would prove to be the best young defenders in the Italy squad, and Nesta quickly earned the respect of his comrades.<BR/>
+<BR/>
+<!--BB:182,1028,579,1104-->""Alessandro has won a lot over the last few years and has picked up a lot of experience very quickly,"" Cannavaro said. ""He makes very few mistakes. He's always there to help out, and he's used to winning under pressure.""<BR/>
+<BR/>
+<!--BB:182,1123,579,1237-->Nesta's ball control is as good as many of the forwards he shuts down in Serie A. His vision when he moves the ball out of Italy's third is extraordinary. At Euro 2000, Nesta was a major part of Italy's run to the final match. Though the Italians ultimately succumbed to an outstanding France side, Nesta and the Italian defence nearly carried Italy to the title.<BR/>
+<BR/>
+<!--BB:182,1256,579,1332-->The Azzurri's defender will have the task of stopping tough Ecuadorian, Croatian, and Mexican strikers in the group stage in Japan this summer, but if his history holds form, Nesta will come out on top. </TD>        </subtree>
+        <plus>
+          <and>
+            <attribute label="_W_">17 June 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+            <attribute label="_Y_">Italy</attribute>
+            <attribute label="_Z_">-</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/cmr.html"/></attribute>
+                <attribute label="_B1_">Cameroon</attribute>
+              </and>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8744.html"/></attribute>
+                <attribute label="_B1_">3-0 (1-0)</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">11 June 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+            <attribute label="_Y_">Italy</attribute>
+            <attribute label="_Z_">- Chile</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8726.html"/></attribute>
+                <attribute label="_B1_">2-2 (1-1)</attribute>
+              </and>
+            </plus>
+          </and>
+        </plus>
+        <attribute label="_C1_"><link target="http://rd.yahoo.com/M%3d216402.1753502.3271850.1690486/D%3dfifaen/S%3d81113675:TE/A%3d881672/R%3d0/*http://fifaworldcup.yahoo.com/en/e/gz/"/></attribute>
+        <attribute label="Matches">ITA</attribute>
+        <attribute label="_E1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ecu.html"/></attribute>
+        <attribute label="_F1_">ECU</attribute>
+        <attribute label="_G1_">03 Jun /</attribute>
+        <attribute label="_H1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/sapporo.html"/></attribute>
+        <attribute label="_I1_">Sapporo</attribute>
+        <attribute label="_J1_">ITA</attribute>
+        <attribute label="_K1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/cro.html"/></attribute>
+        <attribute label="_L1_">CRO</attribute>
+        <attribute label="_M1_">08 Jun /</attribute>
+        <attribute label="_N1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/ibaraki.html"/></attribute>
+        <attribute label="_O1_">Ibaraki</attribute>
+        <attribute label="_P1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/mex.html"/></attribute>
+        <attribute label="_Q1_">MEX</attribute>
+        <attribute label="_R1_">ITA</attribute>
+        <attribute label="_S1_">13 Jun /</attribute>
+        <attribute label="_T1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/oita.html"/></attribute>
+        <attribute label="_U1_">Oita</attribute>
+        <attribute label="_V1_"><link target="http://rd.yahoo.com/M%3d216402.1753503.3271319.1679019/D%3dfifaen/S%3d81113675:E/A%3d882964/R%3d0/*http://fifaworldcup.com/"/></attribute>
+        <attribute label="_W1_"><image source="Nesta_files/en_120x90w.gif"/></attribute>
+        <attribute label="_X1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/159304/index.html"/></attribute>
+        <attribute label="_Y1_">BUFFON Gianluigi</attribute>
+        <attribute label="_Z1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/91469/index.html"/></attribute>
+        <attribute label="GK">PANUCCI Christian</attribute>
+        <attribute label="_B2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/174730/index.html"/></attribute>
+        <attribute label="_C2_">MALDINI Paolo</attribute>
+        <attribute label="_D2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177880/index.html"/></attribute>
+        <attribute label="_E2_">COCO Francesco</attribute>
+        <attribute label="_F2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155957/index.html"/></attribute>
+        <attribute label="_G2_">CANNAVARO Fabio</attribute>
+        <attribute label="_H2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177884/index.html"/></attribute>
+        <attribute label="_I2_">ZANETTI Cristiano</attribute>
+        <attribute label="_J2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155963/index.html"/></attribute>
+        <attribute label="_K2_">DEL PIERO Alessandro</attribute>
+        <attribute label="_L2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177845/index.html"/></attribute>
+        <attribute label="_M2_">GATTUSO Gennaro</attribute>
+        <attribute label="_N2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155969/index.html"/></attribute>
+        <attribute label="_O2_">INZAGHI Filippo</attribute>
+        <attribute label="_P2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/165247/index.html"/></attribute>
+        <attribute label="_Q2_">TOTTI Francesco</attribute>
+        <attribute label="_R2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/187163/index.html"/></attribute>
+        <attribute label="_S2_">DONI Cristiano</attribute>
+        <attribute label="_T2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177879/index.html"/></attribute>
+        <attribute label="_U2_">ABBIATI Christian</attribute>
+        <attribute label="_V2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155971/index.html"/></attribute>
+        <attribute label="_W2_">NESTA Alessandro</attribute>
+        <attribute label="_X2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/170774/index.html"/></attribute>
+        <attribute label="_Y2_">DI BIAGIO Luigi</attribute>
+        <attribute label="_Z2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/169641/index.html"/></attribute>
+        <attribute label="_A3_">IULIANO Mark</attribute>
+        <attribute label="_B3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155964/index.html"/></attribute>
+        <attribute label="_C3_">DI LIVIO Angelo</attribute>
+        <attribute label="_D3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155978/index.html"/></attribute>
+        <attribute label="_E3_">TOMMASI Damiano</attribute>
+        <attribute label="_F3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177676/index.html"/></attribute>
+        <attribute label="_G3_">DELVECCHIO Marco</attribute>
+        <attribute label="_H3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177655/index.html"/></attribute>
+        <attribute label="_I3_">ZAMBROTTA Gianluca</attribute>
+        <attribute label="_J3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177662/index.html"/></attribute>
+        <attribute label="_K3_">MONTELLA Vincenzo</attribute>
+        <attribute label="_L3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155979/index.html"/></attribute>
+        <attribute label="_M3_">VIERI Christian</attribute>
+        <attribute label="_N3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/155977/index.html"/></attribute>
+        <attribute label="_O3_">TOLDO Francesco</attribute>
+        <attribute label="_P3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/184451/index.html"/></attribute>
+        <attribute label="_Q3_">MATERAZZI Marco</attribute>
+        <attribute label="_R3_"><link target="http://fifaworldcup.yahoo.com/en/020530/1/mtl.html"/></attribute>
+        <attribute label="_S3_"><image source="Nesta_files/336232509.jpg"/></attribute>
+        <attribute label="Photo Gallery">Belgium's Branko Strupar</attribute>
+        <attribute label="_U3_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/fr98/p/ita.html"/></attribute>
+        <attribute label="_V3_"><image source="Nesta_files/ita.jpg"/></attribute>
+        <attribute label="_W3_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/fr98/p/ita.html"/></attribute>
+      </and>
+    </instance>
+    <instance source="file:/G:/workspace3/roadrunnertest/examples/fifaworldcup.yahoo.com/Zidane_xy_.xhtml" name="Zidane_xy_">
+      <and>
+        <attribute label="_A_"><link target="http://rd.yahoo.com/M%3d216402.1753500.3271926.1678991/D%3dfifaen/S%3d80467784:LW/A%3d883010/R%3d0/*http://fifaworldcup.yahoo.com/en/e/gz/"/></attribute>
+        <attribute label="_B_"><link target="http://rd.yahoo.com/M%3d216402.1753501.3271317.1678992/D%3dfifaen/S%3d80467784:W/A%3d882964/R%3d0/*http://fifaworldcup.com/"/></attribute>
+        <attribute label="_C_"><image source="Zidane_files/en_120x90w.gif"/></attribute>
+        <subtree>
+<TD class="mininav" width="100%">
+<A href="http://rd.yahoo.com/M=217448.2054767.3522783.1820840/D=fifaen/S=80467784:WT/A=1067829/R=0/*http://english.tour2korea.com/member/T1/WCEvent/main.html" target="_blank">
+<!--BB:24,778,174,812-->For more on Destination Korea, Click Here!</A>
+</TD>        </subtree>
+        <attribute label="_D_"><link target="http://rd.yahoo.com/M%3d217448.2072831.3537627.1820840/D%3dfifaen/S%3d80467784:WT/A%3d1067829/R%3d0/*http://english.tour2korea.com/member/T1/WCEvent/main.html"/></attribute>
+        <attribute label="_E_"><image source="Zidane_files/FRA.gif"/></attribute>
+        <attribute label="TM"> France (FRA)</attribute>
+        <attribute label="_G_"><link target="http://fifaworldcup.yahoo.com/en/t/t/fra.html"/></attribute>
+        <attribute label="_H_"><link target="http://fifaworldcup.yahoo.com/en/t/t/news/fra.html"/></attribute>
+        <attribute label="_I_"><link target="http://fifaworldcup.yahoo.com/en/t/t/p/fra.html"/></attribute>
+        <attribute label="_J_"><link target="http://fifaworldcup.yahoo.com/en/t/t/c/fra.html"/></attribute>
+        <attribute label="_K_"><link target="http://fifaworldcup.yahoo.com/en/t/t/h/fra.html"/></attribute>
+        <attribute label="_L_"><link target="http://fifaworldcup.yahoo.com/en/t/t/g/fra.html"/></attribute>
+        <attribute label="_M_"><image source="Zidane_files/163331.jpg"/></attribute>
+        <attribute label="_N_">10 ZIDANE Zinedine</attribute>
+        <attribute label="Birth Date">  23 June 1972</attribute>
+        <attribute label="Height">  185 cm</attribute>
+        <attribute label="Weight">  80 kg</attribute>
+        <attribute label="Position">  MF</attribute>
+        <attribute label="Current Club">  Real Madrid (ESP)</attribute>
+        <attribute label="Int'l Goals">  19 (as of 27 May 2002)</attribute>
+        <attribute label="Int'l Caps">  74 (as of 27 May 2002)</attribute>
+        <attribute label="First Int'l Cap">  Czech Republic (17 August 1994)</attribute>
+        <subtree>
+<TD class="text">
+<SPAN class="hls">
+<!--BB:182,591,225,610-->Profile:</SPAN>
+<BR/>
+<!--BB:182,610,579,667-->Zinédine Zidane learned to play football in the backstreets of Marseilles. The son of Algerian immigrants, he was discovered by a talent-scout at 14 and signed as a schoolboy with Cannes FC.<BR/>
+<BR/>
+<!--BB:182,686,579,800-->""Zizou"" was barely 17 when he made his debut for Cannes in the French first division. By the 1990/1 season he had become a regular in the side, although he could do nothing to prevent Cannes from being relegated at the end of the 1991/2 season. He responded by packing his bags and seeking a fresh challenge with Girondins de Bordeaux.<BR/>
+<BR/>
+<!--BB:182,819,579,971-->With Zidane in their ranks, Bordeaux were consistent contenders for the French championship, though his first major achievement came in the UEFA Cup at the end of the 1995/6 season, when Bordeaux reached the final before losing out to mighty Bayern Munich. By this time Zidane was already being compared to the legendary Michel Platini, a player he had watched at close range when he was a ball-boy at the UEFA European Championship 1984.<BR/>
+<BR/>
+<!--BB:182,990,579,1066-->His dazzling entrance onto the international stage was a foretaste of greater things to come. He came on as a substitute against the Czech Republic with France trailing 2-0 and salvaged his side a draw, scoring two memorable goals.<BR/>
+<BR/>
+<!--BB:182,1085,579,1294-->But his real breakthrough with ""Les Bleus"" came in the 1995/6 European Championship season. National coach Aimé Jacquet placed his trust in Zidane because the midfielder had the two qualities Jacquet most admired in a footballer: brilliant ball-control and outstanding work-rate. After a series of consistently brilliant performances for both club and country, Zidane was swamped with offers to join Europe's top clubs in the spring of 1996. He eventually decided on a move to the Italian club Juventus during the close season. His first success in Italy came at the 1996 FIFA Club World Championship, when ""Juve"" overcame South American champions River Plate.<BR/>
+<BR/>
+<!--BB:182,1313,579,1389-->This was followed by the 1997 and 1998 Italian league titles, before Zidane was handed the chance to grasp the most prestigious prize of all in front of his home fans at the FIFA World Cup France 98<SUP>
+<!--BB:267,1370,281,1389-->TM</SUP>
+<!--BB:281,1370,285,1389-->.<BR/>
+<BR/>
+<!--BB:182,1408,579,1522-->The rest, of course, is history. Zidane chose the Final against Brazil in Paris to score his first two FIFA World Cup goals and become the toast of the tournament. In the summer of 2000, France added the European Championship to their accolades, prompting national coaches from around the globe to name Zidane World Footballer of the Year for the second time in three years.<BR/>
+<BR/>
+<!--BB:182,1541,579,1617-->A year later, Zidane moved to Spanish club Real Madrid for a world record transfer fee of £47.2 million where he continutes to play magical football. His annual income is estimated at approximately £5 million. </TD>        </subtree>
+        <plus>
+          <and>
+            <attribute label="_W_">12 July 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/bra.html"/></attribute>
+            <attribute label="_Y_">Brazil</attribute>
+            <attribute label="_Z_">-</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/fra.html"/></attribute>
+                <attribute label="_B1_">France</attribute>
+              </and>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8788.html"/></attribute>
+                <attribute label="_B1_">0-3 (0-2)</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">8 July 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/fra.html"/></attribute>
+            <attribute label="_Y_">France</attribute>
+            <attribute label="_Z_">-</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/cro.html"/></attribute>
+                <attribute label="_B1_">Croatia</attribute>
+              </and>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8786.html"/></attribute>
+                <attribute label="_B1_">2-1 (0-0)</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">3 July 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ita.html"/></attribute>
+            <attribute label="_Y_">Italy</attribute>
+            <attribute label="_Z_">-</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/fra.html"/></attribute>
+                <attribute label="_B1_">France</attribute>
+              </and>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8781.html"/></attribute>
+                <attribute label="_B1_">0-0</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">18 June 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/fra.html"/></attribute>
+            <attribute label="_Y_">France</attribute>
+            <attribute label="_Z_">-</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/ksa.html"/></attribute>
+                <attribute label="_B1_">Saudi Arabia</attribute>
+              </and>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8745.html"/></attribute>
+                <attribute label="_B1_">4-0 (1-0)</attribute>
+              </and>
+            </plus>
+          </and>
+          <and>
+            <attribute label="_W_">12 June 1998</attribute>
+            <attribute label="_X_"><link target="http://fifaworldcup.yahoo.com/en/t/t/fra.html"/></attribute>
+            <attribute label="_Y_">France</attribute>
+            <attribute label="_Z_">-</attribute>
+            <plus>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/rsa.html"/></attribute>
+                <attribute label="_B1_">South Africa</attribute>
+              </and>
+              <and>
+                <attribute label="_A1_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/pwc/mr//8730.html"/></attribute>
+                <attribute label="_B1_">3-0 (1-0)</attribute>
+              </and>
+            </plus>
+          </and>
+        </plus>
+        <attribute label="_C1_"><link target="http://rd.yahoo.com/M%3d216402.1753502.3271850.1690486/D%3dfifaen/S%3d80467784:TE/A%3d881672/R%3d0/*http://fifaworldcup.yahoo.com/en/e/gz/"/></attribute>
+        <attribute label="Matches">FRA</attribute>
+        <attribute label="_E1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/sen.html"/></attribute>
+        <attribute label="_F1_">SEN</attribute>
+        <attribute label="_G1_">31 May /</attribute>
+        <attribute label="_H1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/seoul.html"/></attribute>
+        <attribute label="_I1_">Seoul</attribute>
+        <attribute label="_J1_">FRA</attribute>
+        <attribute label="_K1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/uru.html"/></attribute>
+        <attribute label="_L1_">URU</attribute>
+        <attribute label="_M1_">06 Jun /</attribute>
+        <attribute label="_N1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/busan.html"/></attribute>
+        <attribute label="_O1_">Busan</attribute>
+        <attribute label="_P1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/den.html"/></attribute>
+        <attribute label="_Q1_">DEN</attribute>
+        <attribute label="_R1_">FRA</attribute>
+        <attribute label="_S1_">11 Jun /</attribute>
+        <attribute label="_T1_"><link target="http://fifaworldcup.yahoo.com/en/da/v/incheon.html"/></attribute>
+        <attribute label="_U1_">Incheon</attribute>
+        <attribute label="_V1_"><link target="http://rd.yahoo.com/M%3d224128.1977587.3460321.1670265/D%3dfifaen/S%3d80467784:E/A%3d1090164/R%3d0/*http://promo.yahoo.com/fifa/mastercard/en"/></attribute>
+        <attribute label="_W1_"><image source="Zidane_files/eastmodule_eshops_fs.gif"/></attribute>
+        <attribute label="_X1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177708/index.html"/></attribute>
+        <attribute label="_Y1_">RAME Ulrich</attribute>
+        <attribute label="_Z1_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/170703/index.html"/></attribute>
+        <attribute label="GK">CANDELA Vincent</attribute>
+        <attribute label="_B2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/166722/index.html"/></attribute>
+        <attribute label="_C2_">LIZARAZU Bixente</attribute>
+        <attribute label="_D2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/170707/index.html"/></attribute>
+        <attribute label="_E2_">VIEIRA Patrick</attribute>
+        <attribute label="_F2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/181319/index.html"/></attribute>
+        <attribute label="_G2_">CHRISTANVAL Philippe</attribute>
+        <attribute label="_H2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/95664/index.html"/></attribute>
+        <attribute label="_I2_">DJORKAEFF Youri</attribute>
+        <attribute label="_J2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/181293/index.html"/></attribute>
+        <attribute label="_K2_">MAKELELE Claude</attribute>
+        <attribute label="_L2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/95650/index.html"/></attribute>
+        <attribute label="_M2_">DESAILLY Marcel</attribute>
+        <attribute label="_N2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/180749/index.html"/></attribute>
+        <attribute label="_O2_">CISSE Djibril</attribute>
+        <attribute label="_P2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/163331/index.html"/></attribute>
+        <attribute label="_Q2_">ZIDANE Zinedine</attribute>
+        <attribute label="_R2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177719/index.html"/></attribute>
+        <attribute label="_S2_">WILTORD Sylvain</attribute>
+        <attribute label="_T2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/170711/index.html"/></attribute>
+        <attribute label="_U2_">HENRY Thierry</attribute>
+        <attribute label="_V2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/181333/index.html"/></attribute>
+        <attribute label="_W2_">SILVESTRE Mikael</attribute>
+        <attribute label="_X2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/170704/index.html"/></attribute>
+        <attribute label="_Y2_">BOGHOSSIAN Alain</attribute>
+        <attribute label="_Z2_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/163666/index.html"/></attribute>
+        <attribute label="_A3_">THURAM Lilian</attribute>
+        <attribute label="_B3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/96075/index.html"/></attribute>
+        <attribute label="_C3_">BARTHEZ Fabien</attribute>
+        <attribute label="_D3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/95448/index.html"/></attribute>
+        <attribute label="_E3_">PETIT Emmanuel</attribute>
+        <attribute label="_F3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/170702/index.html"/></attribute>
+        <attribute label="_G3_">LEBOEUF Frank</attribute>
+        <attribute label="_H3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/181292/index.html"/></attribute>
+        <attribute label="_I3_">SAGNOL Willy</attribute>
+        <attribute label="_J3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/170709/index.html"/></attribute>
+        <attribute label="_K3_">TREZEGUET David</attribute>
+        <attribute label="_L3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/160559/index.html"/></attribute>
+        <attribute label="_M3_">DUGARRY Christophe</attribute>
+        <attribute label="_N3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/177720/index.html"/></attribute>
+        <attribute label="_O3_">MICOUD Johan</attribute>
+        <attribute label="_P3_"><link target="http://fifaworldcup.yahoo.com/en/t/t/pl/182640/index.html"/></attribute>
+        <attribute label="_Q3_">COUPET Gregory</attribute>
+        <attribute label="_R3_"><link target="http://fifaworldcup.yahoo.com/en/020530/1/mzl.html"/></attribute>
+        <attribute label="_S3_"><image source="Zidane_files/1141817365.jpg"/></attribute>
+        <attribute label="Photo Gallery">Emmanuel Olisadebe of Poland</attribute>
+        <attribute label="_U3_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/fr98/p/fra.html"/></attribute>
+        <attribute label="_V3_"><image source="Zidane_files/fra.jpg"/></attribute>
+        <attribute label="_W3_"><link target="http://fifaworldcup.yahoo.com/en/pf/h/fr98/p/fra.html"/></attribute>
+      </and>
+    </instance>
+</dataset>

@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="jdsmall">
+    <instance source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/1.html-to.xhtml" name="1.html-to">
+      <and>
+        <subtree>
+<UL class="list-h clearfix">
+<LI sku="764147">
+<DIV class="p-img"><A href="http://item.jd.com/764147.html" onclick="searchlog(1,764147,0,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img12.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" title="绚丽夺目一如既往,配备高分辨率Retina显示屏,全新A6X速度提升2倍 " width="160"/></A>
+<DIV class="pi2" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764147.html" onclick="searchlog(1,764147,0,1)" target="_blank" title="绚丽夺目一如既往,配备高分辨率Retina显示屏,全新A6X速度提升2倍 ">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代
+<FONT class="skcolor_ljg">iPad</FONT> MD513CH/A 9.7英寸平板电脑 （16G
+WIFI版）白色<FONT class="adwords" name="764147" style="color:#ff0000;margin-left:5px;">绚丽夺目一如既往,配备高分辨率Retina显示屏,全新A6X速度提升2倍</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764147">￥3599.00</STRONG>
+<SPAN id="p764147"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764147.html#comments-list" onclick="searchlog(1,764147,0,3)" target="_blank">已有21234人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764147&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764147,0,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764147" onclick="searchlog(1,764147,0,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764147" onclick="searchlog(1,764147,0,6)" skuid="764147">对比</A></DIV>
+</LI>
+<LI sku="764148">
+<DIV class="p-img"><A href="http://item.jd.com/764148.html" onclick="searchlog(1,764148,1,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" title="绚丽夺目一如既往，配备高分辨率Retina显示屏，全新A6X速度提升2倍 " width="160"/></A>
+<DIV class="pi3" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764148.html" onclick="searchlog(1,764148,1,1)" target="_blank" title="绚丽夺目一如既往，配备高分辨率Retina显示屏，全新A6X速度提升2倍 ">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代
+<FONT class="skcolor_ljg">iPad</FONT> MD510CH/A 9.7英寸平板电脑 （16G
+WIFI版）黑色<FONT class="adwords" name="764148" style="color:#ff0000;margin-left:5px;">绚丽夺目一如既往，配备高分辨率Retina显示屏，全新A6X速度提升2倍</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764148">￥3599.00</STRONG>
+<SPAN id="p764148"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764148.html#comments-list" onclick="searchlog(1,764148,1,3)" target="_blank">已有11996人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764148&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764148,1,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764148" onclick="searchlog(1,764148,1,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764148" onclick="searchlog(1,764148,1,6)" skuid="764148">对比</A></DIV>
+</LI>
+<LI sku="764145">
+<DIV class="p-img"><A href="http://item.jd.com/764145.html" onclick="searchlog(1,764145,2,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" width="160"/></A>
+<DIV class="pi3" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764145.html" onclick="searchlog(1,764145,2,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD514CH/A 9.7英寸平板电脑 （32G WIFI版）白色<FONT class="adwords" name="764145" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_764145">￥4388.00</STRONG>
+<SPAN id="p764145"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764145.html#comments-list" onclick="searchlog(1,764145,2,3)" target="_blank">已有2157人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764145&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764145,2,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764145" onclick="searchlog(1,764145,2,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764145" onclick="searchlog(1,764145,2,6)" skuid="764145">对比</A></DIV>
+</LI>
+<LI sku="389283">
+<DIV class="p-img"><A href="http://item.jd.com/389283.html" onclick="searchlog(1,389283,3,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/3205/f52b94b1-51f1-4707-90b4-d1439e1a6a3c.jpg" title="经典ipad 2 限量供应！" width="160"/></A>
+<DIV class="pi8" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/389283.html" onclick="searchlog(1,389283,3,1)" target="_blank" title="经典ipad 2 限量供应！">苹果（Apple）<FONT class="skcolor_ljg">iPad</FONT> 2 MC979CH/A 9.7英寸平板电脑 （16G
+WIFI版）白色<FONT class="adwords" name="389283" style="color:#ff0000;margin-left:5px;">经典ipad 2 限量供应！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_389283">￥2799.00</STRONG>
+<SPAN id="p389283"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/389283.html#comments-list" onclick="searchlog(1,389283,3,3)" target="_blank">已有32108人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=389283&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,389283,3,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll389283" onclick="searchlog(1,389283,3,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_389283" onclick="searchlog(1,389283,3,6)" skuid="389283">对比</A></DIV>
+</LI>
+<LI sku="764135">
+<DIV class="p-img"><A href="http://item.jd.com/764135.html" onclick="searchlog(1,764135,4,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！ " width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764135.html" onclick="searchlog(1,764135,4,1)" target="_blank" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！ ">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD525CH/A 9.7英寸平板电脑 （16G WIFI+Cellular版）白色<FONT class="adwords" name="764135" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764135">￥4599.00</STRONG>
+<SPAN id="p764135"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764135.html#comments-list" onclick="searchlog(1,764135,4,3)" target="_blank">已有786人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764135&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764135,4,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764135" onclick="searchlog(1,764135,4,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764135" onclick="searchlog(1,764135,4,6)" skuid="764135">对比</A></DIV>
+</LI>
+<LI sku="386364">
+<DIV class="p-img"><A href="http://item.jd.com/386364.html" onclick="searchlog(1,386364,5,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img14.360buyimg.com/n2/4815/2183d9fa-d724-4abc-9e8c-8c7edd10bdd8.jpg" title="经典ipad 2 限量供应！" width="160"/></A>
+<DIV class="pi8" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/386364.html" onclick="searchlog(1,386364,5,1)" target="_blank" title="经典ipad 2 限量供应！">苹果（Apple）<FONT class="skcolor_ljg">iPad</FONT> 2 MC769CH/A 9.7英寸平板电脑 （16G
+WIFI版）黑色<FONT class="adwords" name="386364" style="color:#ff0000;margin-left:5px;">经典ipad 2 限量供应！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_386364">￥2699.00</STRONG>
+<SPAN id="p386364"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/386364.html#comments-list" onclick="searchlog(1,386364,5,3)" target="_blank">已有27547人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=386364&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,386364,5,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll386364" onclick="searchlog(1,386364,5,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_386364" onclick="searchlog(1,386364,5,6)" skuid="386364">对比</A></DIV>
+</LI>
+<LI sku="764136">
+<DIV class="p-img"><A href="http://item.jd.com/764136.html" onclick="searchlog(1,764136,6,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！ " width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764136.html" onclick="searchlog(1,764136,6,1)" target="_blank" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！ ">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD522CH/A 9.7英寸平板电脑 （16G WIFI+Cellular版）黑色<FONT class="adwords" name="764136" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764136">￥4688.00</STRONG>
+<SPAN id="p764136"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764136.html#comments-list" onclick="searchlog(1,764136,6,3)" target="_blank">已有396人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764136&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764136,6,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764136" onclick="searchlog(1,764136,6,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764136" onclick="searchlog(1,764136,6,6)" skuid="764136">对比</A></DIV>
+</LI>
+<LI sku="764146">
+<DIV class="p-img"><A href="http://item.jd.com/764146.html" onclick="searchlog(1,764146,7,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764146.html" onclick="searchlog(1,764146,7,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD511CH/A 9.7英寸平板电脑 （32G WIFI版）黑色<FONT class="adwords" name="764146" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_764146">￥4438.00</STRONG>
+<SPAN id="p764146"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764146.html#comments-list" onclick="searchlog(1,764146,7,3)" target="_blank">已有472人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764146&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764146,7,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764146" onclick="searchlog(1,764146,7,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764146" onclick="searchlog(1,764146,7,6)" skuid="764146">对比</A></DIV>
+</LI>
+<LI sku="764150">
+<DIV class="p-img"><A href="http://item.jd.com/764150.html" onclick="searchlog(1,764150,8,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" title="没有Wifi 也能上网，随时随地 畅游网络！出门在外“好帮手”！ " width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764150.html" onclick="searchlog(1,764150,8,1)" target="_blank" title="没有Wifi 也能上网，随时随地 畅游网络！出门在外“好帮手”！ ">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD523CH/A 9.7英寸平板电脑 （32G WIFI+Cellular版）黑色<FONT class="adwords" name="764150" style="color:#ff0000;margin-left:5px;">没有Wifi 也能上网，随时随地 畅游网络！出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764150">￥5388.00</STRONG>
+<SPAN id="p764150"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764150.html#comments-list" onclick="searchlog(1,764150,8,3)" target="_blank">已有256人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764150&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764150,8,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764150" onclick="searchlog(1,764150,8,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764150" onclick="searchlog(1,764150,8,6)" skuid="764150">对比</A></DIV>
+</LI>
+<LI sku="764144">
+<DIV class="p-img"><A href="http://item.jd.com/764144.html" onclick="searchlog(1,764144,9,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img14.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764144.html" onclick="searchlog(1,764144,9,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD512CH/A 9.7英寸平板电脑 （64G WIFI版）黑色<FONT class="adwords" name="764144" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_764144">￥5288.00</STRONG>
+<SPAN id="p764144"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764144.html#comments-list" onclick="searchlog(1,764144,9,3)" target="_blank">已有133人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764144&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764144,9,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764144" onclick="searchlog(1,764144,9,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764144" onclick="searchlog(1,764144,9,6)" skuid="764144">对比</A></DIV>
+</LI>
+<LI sku="764143">
+<DIV class="p-img"><A href="http://item.jd.com/764143.html" onclick="searchlog(1,764143,10,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764143.html" onclick="searchlog(1,764143,10,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD515CH/A 9.7英寸平板电脑 （64G WIFI版）白色<FONT class="adwords" name="764143" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_764143">￥5288.00</STRONG>
+<SPAN id="p764143"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764143.html#comments-list" onclick="searchlog(1,764143,10,3)" target="_blank">已有263人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764143&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764143,10,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764143" onclick="searchlog(1,764143,10,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764143" onclick="searchlog(1,764143,10,6)" skuid="764143">对比</A></DIV>
+</LI>
+<LI sku="764149">
+<DIV class="p-img"><A href="http://item.jd.com/764149.html" onclick="searchlog(1,764149,11,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img14.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！ " width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764149.html" onclick="searchlog(1,764149,11,1)" target="_blank" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！ ">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD526CH/A 9.7英寸平板电脑 （32G WIFI+Cellular版）白色<FONT class="adwords" name="764149" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764149">￥5288.00</STRONG>
+<SPAN id="p764149"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764149.html#comments-list" onclick="searchlog(1,764149,11,3)" target="_blank">已有398人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764149&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764149,11,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764149" onclick="searchlog(1,764149,11,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764149" onclick="searchlog(1,764149,11,6)" skuid="764149">对比</A></DIV>
+</LI>
+<LI sku="381815">
+<DIV class="p-img"><A href="http://item.jd.com/381815.html" onclick="searchlog(1,381815,12,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/448/4b5ad952-b7f0-4dec-83fa-c43bc7a0b47e.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/381815.html" onclick="searchlog(1,381815,12,1)" target="_blank">苹果（Apple）MC704 USB 以太网转接器<FONT class="adwords" name="381815" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_381815">￥185.00</STRONG>
+<SPAN id="p381815"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/381815.html#comments-list" onclick="searchlog(1,381815,12,3)" target="_blank">已有2757人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=381815&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,381815,12,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll381815" onclick="searchlog(1,381815,12,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_381815" onclick="searchlog(1,381815,12,6)" skuid="381815">对比</A></DIV>
+</LI>
+<LI sku="764141">
+<DIV class="p-img"><A href="http://item.jd.com/764141.html" onclick="searchlog(1,764141,13,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764141.html" onclick="searchlog(1,764141,13,1)" target="_blank" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD524CH/A 9.7英寸平板电脑 （64G WIFI+Cellular版）黑色<FONT class="adwords" name="764141" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764141">￥5999.00</STRONG>
+<SPAN id="p764141"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764141.html#comments-list" onclick="searchlog(1,764141,13,3)" target="_blank">已有127人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="764141" data-type="2" href="#none" id="store764141" onclick="searchlog(1,764141,13,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll764141" onclick="searchlog(1,764141,13,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764141" onclick="searchlog(1,764141,13,6)" skuid="764141">对比</A></DIV>
+</LI>
+<LI sku="221869">
+<DIV class="p-img"><A href="http://item.jd.com/221869.html" onclick="searchlog(1,221869,14,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img14.360buyimg.com/n2/642/8a80738f-d151-4d81-b0cc-faf93f9b264a.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/221869.html" onclick="searchlog(1,221869,14,1)" target="_blank">苹果（Apple）内耳耳机（带麦克风）MA850FE/B<FONT class="adwords" name="221869" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_221869">￥488.00</STRONG>
+<SPAN id="p221869"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/221869.html#comments-list" onclick="searchlog(1,221869,14,3)" target="_blank">已有698人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=221869&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,221869,14,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll221869" onclick="searchlog(1,221869,14,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_221869" onclick="searchlog(1,221869,14,6)" skuid="221869">对比</A></DIV>
+</LI>
+<LI sku="739101">
+<DIV class="p-img"><A href="http://item.jd.com/739101.html" onclick="searchlog(1,739101,15,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/g7/M03/08/0C/rBEHZVBziAMIAAAAAABUEjw0EYQAABo1gF1VYEAAFQq465.jpg" title="劲爆特价！完美超越iphone 4代的耳机 超强重低音 佩戴舒适 支持线控通话 兼容iphone4/4S" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/739101.html" onclick="searchlog(1,739101,15,1)" target="_blank" title="劲爆特价！完美超越iphone 4代的耳机 超强重低音 佩戴舒适 支持线控通话 兼容iphone4/4S">苹果（APPLE）带线控和麦克风的
+Apple EarPods MD827FE/A 低频流行人声塞<FONT class="adwords" name="739101" style="color:#ff0000;margin-left:5px;">劲爆特价！完美超越iphone 4代的耳机 超强重低音 佩戴舒适 支持线控通话
+兼容iphone4/4S</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_739101">￥175.00</STRONG>
+<SPAN id="p739101"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/739101.html#comments-list" onclick="searchlog(1,739101,15,3)" target="_blank">已有14567人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=739101&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,739101,15,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll739101" onclick="searchlog(1,739101,15,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_739101" onclick="searchlog(1,739101,15,6)" skuid="739101">对比</A></DIV>
+</LI>
+<LI sku="332281">
+<DIV class="p-img"><A href="http://item.jd.com/332281.html" onclick="searchlog(1,332281,16,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/4700/9eb839e2-f47e-4613-81ed-c1ce74a800a9.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/332281.html" onclick="searchlog(1,332281,16,1)" target="_blank">苹果（Apple）MD007CH/A iMac 延保服务<FONT class="adwords" name="332281" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_332281">￥988.00</STRONG>
+<SPAN id="p332281"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/332281.html#comments-list" onclick="searchlog(1,332281,16,3)" target="_blank">已有39人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=332281&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,332281,16,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll332281" onclick="searchlog(1,332281,16,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_332281" onclick="searchlog(1,332281,16,6)" skuid="332281">对比</A></DIV>
+</LI>
+<LI sku="273538">
+<DIV class="p-img"><A href="http://item.jd.com/273538.html" onclick="searchlog(1,273538,17,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/2871/5deff6bd-75b0-414b-9c59-baf1c4ec8e2d.jpg" title="新款升级版，重新到货！原装品质，安全呵护！" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/273538.html" onclick="searchlog(1,273538,17,1)" target="_blank" title="新款升级版，重新到货！原装品质，安全呵护！">苹果（Apple）MA591FE/C 30-pin to USB
+线缆<FONT class="adwords" name="273538" style="color:#ff0000;margin-left:5px;">新款升级版，重新到货！原装品质，安全呵护！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_273538">￥129.00</STRONG>
+<SPAN id="p273538"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/273538.html#comments-list" onclick="searchlog(1,273538,17,3)" target="_blank">已有1301人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=273538&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,273538,17,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll273538" onclick="searchlog(1,273538,17,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_273538" onclick="searchlog(1,273538,17,6)" skuid="273538">对比</A></DIV>
+</LI>
+<LI sku="396043">
+<DIV class="p-img"><A href="http://item.jd.com/396043.html" onclick="searchlog(1,396043,18,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/1867/b5a923aa-9b1c-4072-b4e8-4d9bc116deb1.jpg" title="商务、家用，路路畅通！" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/396043.html" onclick="searchlog(1,396043,18,1)" target="_blank" title="商务、家用，路路畅通！">苹果（Apple）MD098FE/A Digital AV
+Adapter<FONT class="adwords" name="396043" style="color:#ff0000;margin-left:5px;">商务、家用，路路畅通！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_396043">￥279.00</STRONG>
+<SPAN id="p396043"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/396043.html#comments-list" onclick="searchlog(1,396043,18,3)" target="_blank">已有1259人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=396043&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,396043,18,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll396043" onclick="searchlog(1,396043,18,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_396043" onclick="searchlog(1,396043,18,6)" skuid="396043">对比</A></DIV>
+</LI>
+<LI sku="764142">
+<DIV class="p-img"><A href="http://item.jd.com/764142.html" onclick="searchlog(1,764142,19,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img12.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764142.html" onclick="searchlog(1,764142,19,1)" target="_blank" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD527CH/A 9.7英寸平板电脑 （64G WIFI+Cellular版）白色<FONT class="adwords" name="764142" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764142">￥6088.00</STRONG>
+<SPAN id="p764142"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764142.html#comments-list" onclick="searchlog(1,764142,19,3)" target="_blank">已有142人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="764142" data-type="2" href="#none" id="store764142" onclick="searchlog(1,764142,19,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll764142" onclick="searchlog(1,764142,19,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764142" onclick="searchlog(1,764142,19,6)" skuid="764142">对比</A></DIV>
+</LI>
+<LI sku="813851">
+<DIV class="p-img"><A href="http://item.jd.com/813851.html" onclick="searchlog(1,813851,20,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813851.html" onclick="searchlog(1,813851,20,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME392CH/A 9.7英寸平板电脑 （128G WIFI版）黑色<FONT class="adwords" name="813851" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813851">￥6088.00</STRONG>
+<SPAN id="p813851"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813851.html#comments-list" onclick="searchlog(1,813851,20,3)" target="_blank">已有12人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813851" data-type="2" href="#none" id="store813851" onclick="searchlog(1,813851,20,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813851" onclick="searchlog(1,813851,20,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813851" onclick="searchlog(1,813851,20,6)" skuid="813851">对比</A></DIV>
+</LI>
+<LI sku="813853">
+<DIV class="p-img"><A href="http://item.jd.com/813853.html" onclick="searchlog(1,813853,21,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813853.html" onclick="searchlog(1,813853,21,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME393CH/A 9.7英寸平板电脑 （128G WIFI版）白色<FONT class="adwords" name="813853" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813853">￥6088.00</STRONG>
+<SPAN id="p813853"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813853.html#comments-list" onclick="searchlog(1,813853,21,3)" target="_blank">已有25人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813853" data-type="2" href="#none" id="store813853" onclick="searchlog(1,813853,21,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813853" onclick="searchlog(1,813853,21,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813853" onclick="searchlog(1,813853,21,6)" skuid="813853">对比</A></DIV>
+</LI>
+<LI sku="813855">
+<DIV class="p-img"><A href="http://item.jd.com/813855.html" onclick="searchlog(1,813855,22,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813855.html" onclick="searchlog(1,813855,22,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME406CH/A 9.7英寸平板电脑 （128G WIFI+Cellular版）黑色<FONT class="adwords" name="813855" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813855">￥7088.00</STRONG>
+<SPAN id="p813855"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813855.html#comments-list" onclick="searchlog(1,813855,22,3)" target="_blank">已有4人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813855" data-type="2" href="#none" id="store813855" onclick="searchlog(1,813855,22,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813855" onclick="searchlog(1,813855,22,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813855" onclick="searchlog(1,813855,22,6)" skuid="813855">对比</A></DIV>
+</LI>
+</UL>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/2.html-to.xhtml" name="2.html-to">
+      <and>
+        <subtree>
+<UL class="list-h clearfix">
+<LI sku="764150">
+<DIV class="p-img"><A href="http://item.jd.com/764150.html" onclick="searchlog(1,764150,0,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" title="没有Wifi 也能上网，随时随地 畅游网络！出门在外“好帮手”！ " width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764150.html" onclick="searchlog(1,764150,0,1)" target="_blank" title="没有Wifi 也能上网，随时随地 畅游网络！出门在外“好帮手”！ ">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD523CH/A 9.7英寸平板电脑 （32G WIFI+Cellular版）黑色<FONT class="adwords" name="764150" style="color:#ff0000;margin-left:5px;">没有Wifi 也能上网，随时随地 畅游网络！出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764150">￥5388.00</STRONG>
+<SPAN id="p764150"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764150.html#comments-list" onclick="searchlog(1,764150,0,3)" target="_blank">已有256人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st33">北京有货</SPAN></DIV>
+<DIV class="btns"><A class="btn-buy" href="http://gate.jd.com/InitCart.aspx?pid=764150&amp;pcount=1&amp;ptype=1" onclick="searchlog(1,764150,0,4)" target="_blank">加入购物车</A> <A class="btn-coll" id="coll764150" onclick="searchlog(1,764150,0,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764150" onclick="searchlog(1,764150,0,6)" skuid="764150">对比</A></DIV>
+</LI>
+<LI sku="764141">
+<DIV class="p-img"><A href="http://item.jd.com/764141.html" onclick="searchlog(1,764141,1,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764141.html" onclick="searchlog(1,764141,1,1)" target="_blank" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD524CH/A 9.7英寸平板电脑 （64G WIFI+Cellular版）黑色<FONT class="adwords" name="764141" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764141">￥5999.00</STRONG>
+<SPAN id="p764141"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764141.html#comments-list" onclick="searchlog(1,764141,1,3)" target="_blank">已有127人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="764141" data-type="2" href="#none" id="store764141" onclick="searchlog(1,764141,1,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll764141" onclick="searchlog(1,764141,1,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764141" onclick="searchlog(1,764141,1,6)" skuid="764141">对比</A></DIV>
+</LI>
+<LI sku="764142">
+<DIV class="p-img"><A href="http://item.jd.com/764142.html" onclick="searchlog(1,764142,2,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img12.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/764142.html" onclick="searchlog(1,764142,2,1)" target="_blank" title="没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+MD527CH/A 9.7英寸平板电脑 （64G WIFI+Cellular版）白色<FONT class="adwords" name="764142" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！随时随地 畅游网络，出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_764142">￥6088.00</STRONG>
+<SPAN id="p764142"><A class="pt1" title="本商品正在降价销售中">直降</A></SPAN></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/764142.html#comments-list" onclick="searchlog(1,764142,2,3)" target="_blank">已有142人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="764142" data-type="2" href="#none" id="store764142" onclick="searchlog(1,764142,2,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll764142" onclick="searchlog(1,764142,2,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_764142" onclick="searchlog(1,764142,2,6)" skuid="764142">对比</A></DIV>
+</LI>
+<LI sku="813851">
+<DIV class="p-img"><A href="http://item.jd.com/813851.html" onclick="searchlog(1,813851,3,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813851.html" onclick="searchlog(1,813851,3,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME392CH/A 9.7英寸平板电脑 （128G WIFI版）黑色<FONT class="adwords" name="813851" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813851">￥6088.00</STRONG>
+<SPAN id="p813851"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813851.html#comments-list" onclick="searchlog(1,813851,3,3)" target="_blank">已有12人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813851" data-type="2" href="#none" id="store813851" onclick="searchlog(1,813851,3,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813851" onclick="searchlog(1,813851,3,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813851" onclick="searchlog(1,813851,3,6)" skuid="813851">对比</A></DIV>
+</LI>
+<LI sku="813853">
+<DIV class="p-img"><A href="http://item.jd.com/813853.html" onclick="searchlog(1,813853,4,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813853.html" onclick="searchlog(1,813853,4,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME393CH/A 9.7英寸平板电脑 （128G WIFI版）白色<FONT class="adwords" name="813853" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813853">￥6088.00</STRONG>
+<SPAN id="p813853"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813853.html#comments-list" onclick="searchlog(1,813853,4,3)" target="_blank">已有25人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813853" data-type="2" href="#none" id="store813853" onclick="searchlog(1,813853,4,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813853" onclick="searchlog(1,813853,4,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813853" onclick="searchlog(1,813853,4,6)" skuid="813853">对比</A></DIV>
+</LI>
+<LI sku="813855">
+<DIV class="p-img"><A href="http://item.jd.com/813855.html" onclick="searchlog(1,813855,5,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813855.html" onclick="searchlog(1,813855,5,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME406CH/A 9.7英寸平板电脑 （128G WIFI+Cellular版）黑色<FONT class="adwords" name="813855" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813855">￥7088.00</STRONG>
+<SPAN id="p813855"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813855.html#comments-list" onclick="searchlog(1,813855,5,3)" target="_blank">已有4人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813855" data-type="2" href="#none" id="store813855" onclick="searchlog(1,813855,5,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813855" onclick="searchlog(1,813855,5,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813855" onclick="searchlog(1,813855,5,6)" skuid="813855">对比</A></DIV>
+</LI>
+</UL>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/3.html-to.xhtml" name="3.html-to">
+      <and>
+        <subtree>
+<UL class="list-h clearfix">
+<LI sku="813851">
+<DIV class="p-img"><A href="http://item.jd.com/813851.html" onclick="searchlog(1,813851,0,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img11.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813851.html" onclick="searchlog(1,813851,0,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME392CH/A 9.7英寸平板电脑 （128G WIFI版）黑色<FONT class="adwords" name="813851" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813851">￥6088.00</STRONG>
+<SPAN id="p813851"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813851.html#comments-list" onclick="searchlog(1,813851,0,3)" target="_blank">已有12人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813851" data-type="2" href="#none" id="store813851" onclick="searchlog(1,813851,0,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813851" onclick="searchlog(1,813851,0,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813851" onclick="searchlog(1,813851,0,6)" skuid="813851">对比</A></DIV>
+</LI>
+<LI sku="813853">
+<DIV class="p-img"><A href="http://item.jd.com/813853.html" onclick="searchlog(1,813853,1,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/g6/M04/02/1E/rBEGC1CrFpEIAAAAAAG-ze-uBGoAAAkugLH_xUAAb7l259.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813853.html" onclick="searchlog(1,813853,1,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME393CH/A 9.7英寸平板电脑 （128G WIFI版）白色<FONT class="adwords" name="813853" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813853">￥6088.00</STRONG>
+<SPAN id="p813853"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813853.html#comments-list" onclick="searchlog(1,813853,1,3)" target="_blank">已有25人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813853" data-type="2" href="#none" id="store813853" onclick="searchlog(1,813853,1,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813853" onclick="searchlog(1,813853,1,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813853" onclick="searchlog(1,813853,1,6)" skuid="813853">对比</A></DIV>
+</LI>
+<LI sku="813855">
+<DIV class="p-img"><A href="http://item.jd.com/813855.html" onclick="searchlog(1,813855,2,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813855.html" onclick="searchlog(1,813855,2,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME406CH/A 9.7英寸平板电脑 （128G WIFI+Cellular版）黑色<FONT class="adwords" name="813855" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813855">￥7088.00</STRONG>
+<SPAN id="p813855"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813855.html#comments-list" onclick="searchlog(1,813855,2,3)" target="_blank">已有4人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813855" data-type="2" href="#none" id="store813855" onclick="searchlog(1,813855,2,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813855" onclick="searchlog(1,813855,2,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813855" onclick="searchlog(1,813855,2,6)" skuid="813855">对比</A></DIV>
+</LI>
+</UL>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/4.html-to.xhtml" name="4.html-to">
+      <and>
+        <subtree>
+<UL class="list-h clearfix">
+<LI sku="813855">
+<DIV class="p-img"><A href="http://item.jd.com/813855.html" onclick="searchlog(1,813855,0,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img10.360buyimg.com/n2/g8/M02/0E/17/rBEHZ1CrFisIAAAAAAHcNx2tGw0AAC4GQJ70mQAAdxP429.jpg" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/813855.html" onclick="searchlog(1,813855,0,1)" target="_blank">苹果（Apple）第<FONT class="skcolor_ljg">4</FONT>代 <FONT class="skcolor_ljg">iPad</FONT>
+ME406CH/A 9.7英寸平板电脑 （128G WIFI+Cellular版）黑色<FONT class="adwords" name="813855" style="color:#ff0000;margin-left:5px;"/></A></DIV>
+<DIV class="p-price"><STRONG class="J_813855">￥7088.00</STRONG>
+<SPAN id="p813855"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/813855.html#comments-list" onclick="searchlog(1,813855,0,3)" target="_blank">已有4人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="813855" data-type="2" href="#none" id="store813855" onclick="searchlog(1,813855,0,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll813855" onclick="searchlog(1,813855,0,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_813855" onclick="searchlog(1,813855,0,6)" skuid="813855">对比</A></DIV>
+</LI>
+</UL>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/5.html-to.xhtml" name="5.html-to">
+      <and>
+        <subtree>
+<UL class="list-h clearfix">
+<LI sku="761128">
+<DIV class="p-img"><A href="http://item.jd.com/761128.html" onclick="searchlog(1,761128,0,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img13.360buyimg.com/n2/g7/M01/0E/17/rBEHZVCrFWgIAAAAAAGy2FmtYzkAAC4GAMvMosAAbLw778.jpg" title="没有Wifi，也能上网！出门在外“好帮手”！" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/761128.html" onclick="searchlog(1,761128,0,1)" target="_blank" title="没有Wifi，也能上网！出门在外“好帮手”！">苹果（Apple） <FONT class="skcolor_ljg">iPad</FONT> <FONT class="skcolor_ljg">mini</FONT>
+MD545CH/A 7.9英寸平板电脑 （64GWIFI+Cellular版）白色<FONT class="adwords" name="761128" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_761128">￥5088.00</STRONG>
+<SPAN id="p761128"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/761128.html#comments-list" onclick="searchlog(1,761128,0,3)" target="_blank">已有134人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="761128" data-type="2" href="#none" id="store761128" onclick="searchlog(1,761128,0,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll761128" onclick="searchlog(1,761128,0,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_761128" onclick="searchlog(1,761128,0,6)" skuid="761128">对比</A></DIV>
+</LI>
+<LI sku="761132">
+<DIV class="p-img"><A href="http://item.jd.com/761132.html" onclick="searchlog(1,761132,1,2)" target="_blank"><IMG class="err-product" data-img="1" height="160" src="http://img12.360buyimg.com/n2/g7/M03/0E/09/rBEHZlCi8awIAAAAAAFZBwRhPAwAACyvAKCyeAAAVkf035.jpg" title="没有Wifi，也能上网！出门在外“好帮手”！" width="160"/></A>
+<DIV class="pi0" shop_id="0"/>
+</DIV>
+<DIV class="p-name"><A href="http://item.jd.com/761132.html" onclick="searchlog(1,761132,1,1)" target="_blank" title="没有Wifi，也能上网！出门在外“好帮手”！">苹果（Apple） <FONT class="skcolor_ljg">iPad</FONT> <FONT class="skcolor_ljg">mini</FONT>
+MD542CH/A 7.9英寸平板电脑 （64G WIFI+Cellular版）黑色<FONT class="adwords" name="761132" style="color:#ff0000;margin-left:5px;">没有Wifi，也能上网！出门在外“好帮手”！</FONT></A></DIV>
+<DIV class="p-price"><STRONG class="J_761132">￥5088.00</STRONG>
+<SPAN id="p761132"/></DIV>
+<DIV class="extra"><SPAN class="star"><SPAN class="star-white"><SPAN class="star-yellow h5"> </SPAN></SPAN></SPAN> <A href="http://item.jd.com/761132.html#comments-list" onclick="searchlog(1,761132,1,3)" target="_blank">已有56人评价</A></DIV>
+<DIV class="stocklist"><SPAN class="st34">北京无货</SPAN></DIV>
+<DIV class="btns nostore"><A class="notice-store" data-sku="761132" data-type="2" href="#none" id="store761132" onclick="searchlog(1,761132,1,7)" ware-type="general">到货通知</A> <A class="btn-coll" id="coll761132" onclick="searchlog(1,761132,1,5)">关注</A> <A class="btn-compare btn-compare-s" id="comp_761132" onclick="searchlog(1,761132,1,6)" skuid="761132">对比</A></DIV>
+</LI>
+</UL>        </subtree>
+      </and>
+    </instance>
+</dataset>

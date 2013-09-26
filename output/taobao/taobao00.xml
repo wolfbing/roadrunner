@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="taobao">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value=""/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs=""/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="title" depth="2" attrs=""/>
+    <tag element="/title" depth="2" attrs=""/>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs=""/>
+    <tag element="div" depth="2" attrs="class:tb-container"/>
+    <tag element="div" depth="3" attrs="class:tb-wrapper"/>
+    <tag element="div" depth="4" attrs="class:tb-wrapper-main"/>
+    <subtree><tag element="div" depth="4" attrs="class:tb-wrapper-main"/></subtree>
+    <tag element="/div" depth="4" attrs="class:tb-wrapper-main"/>
+    <tag element="/div" depth="3" attrs="class:tb-wrapper"/>
+    <tag element="div" depth="3" attrs="class:tb-wrapper-sub,data-spm"/>
+    <tag element="div" depth="4" attrs="style,class:ad ad-p4p-baobei"/>
+    <tag element="div" depth="5" attrs="class:hd"/>
+    <tag element="h3" depth="6" attrs=""/>
+    <variant label="_A_"><tag element="a" depth="7" attrs="target,href"/></variant>
+    <pcdata depth="8"><![CDATA[掌柜热卖]]></pcdata>
+    <tag element="/a" depth="7" attrs="target,href"/>
+    <tag element="/h3" depth="6" attrs=""/>
+    <tag element="/div" depth="5" attrs="class:hd"/>
+    <tag element="div" depth="5" attrs="class:bd"/>
+    <subtree><tag element="div" depth="5" attrs="class:bd"/></subtree>
+    <tag element="/div" depth="5" attrs="class:bd"/>
+    <tag element="div" depth="5" attrs="class:ft"/>
+    <variant label="_B_"><tag element="a" depth="6" attrs="target,class:p4p-more,href"/></variant>
+    <tag element="span" depth="7" attrs="class:icon-btn-admore"/>
+    <pcdata depth="8"><![CDATA[更多热卖]]></pcdata>
+    <tag element="/span" depth="7" attrs="class:icon-btn-admore"/>
+    <tag element="/a" depth="6" attrs="target,class:p4p-more,href"/>
+    <tag element="/div" depth="5" attrs="class:ft"/>
+    <tag element="/div" depth="4" attrs="style,class:ad ad-p4p-baobei"/>
+    <tag element="div" depth="4" attrs="class:ad ad-p4p-shop"/>
+    <tag element="div" depth="5" attrs="class:hd"/>
+    <tag element="h3" depth="6" attrs=""/>
+    <pcdata depth="7"><![CDATA[店家精选]]></pcdata>
+    <tag element="/h3" depth="6" attrs=""/>
+    <tag element="/div" depth="5" attrs="class:hd"/>
+    <tag element="div" depth="5" attrs="class:bd"/>
+    <tag element="div" depth="6" attrs="class:loading"/>
+    <tag element="/div" depth="6" attrs="class:loading"/>
+    <tag element="/div" depth="5" attrs="class:bd"/>
+    <tag element="div" depth="5" attrs="class:ft"/>
+    <variant label="_C_"><tag element="a" depth="6" attrs="target,class:p4p-more,href"/></variant>
+    <tag element="span" depth="7" attrs="class:icon-btn-admore"/>
+    <pcdata depth="8"><![CDATA[更多热卖]]></pcdata>
+    <tag element="/span" depth="7" attrs="class:icon-btn-admore"/>
+    <tag element="/a" depth="6" attrs="target,class:p4p-more,href"/>
+    <tag element="/div" depth="5" attrs="class:ft"/>
+    <tag element="/div" depth="4" attrs="class:ad ad-p4p-shop"/>
+    <tag element="div" depth="4" attrs="class:ad ad-etao-promotion"/>
+    <tag element="div" depth="5" attrs="class:hd"/>
+    <tag element="/div" depth="5" attrs="class:hd"/>
+    <tag element="div" depth="5" attrs="class:bd"/>
+    <tag element="div" depth="6" attrs="class:loading"/>
+    <tag element="/div" depth="6" attrs="class:loading"/>
+    <tag element="/div" depth="5" attrs="class:bd"/>
+    <tag element="div" depth="5" attrs="class:ft"/>
+    <variant label="_D_"><tag element="a" depth="6" attrs="target,class:p4p-more,href"/></variant>
+    <tag element="span" depth="7" attrs="class:icon-btn-p4pmore"/>
+    <pcdata depth="8"><![CDATA[更多热卖]]></pcdata>
+    <tag element="/span" depth="7" attrs="class:icon-btn-p4pmore"/>
+    <tag element="/a" depth="6" attrs="target,class:p4p-more,href"/>
+    <tag element="/div" depth="5" attrs="class:ft"/>
+    <tag element="/div" depth="4" attrs="class:ad ad-etao-promotion"/>
+    <tag element="/div" depth="3" attrs="class:tb-wrapper-sub,data-spm"/>
+    <tag element="/div" depth="2" attrs="class:tb-container"/>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs=""/>
+  </and>
+</expression>
+</wrapper>

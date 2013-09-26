@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="test0" source="test00.xml" dataset="test0_DataSet.xml" number_of_samples="3" compress_ratio="99.67%" schema_dl="218" instances_dl="87556" samples_dl="88068">
+    <instance name="1.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/nation/1.htm-to.xhtml" sample_dl="29580" instance_dl="29410"/>
+    <instance name="2.html-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/nation/2.html-to.xhtml" sample_dl="34544" instance_dl="34374"/>
+    <instance name="3.html-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/nation/3.html-to.xhtml" sample_dl="23944" instance_dl="23772"/>
+  </wrapper>
+</index>

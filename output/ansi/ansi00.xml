@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="ansi">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value=""/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs=""/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="title" depth="2" attrs=""/>
+    <tag element="/title" depth="2" attrs=""/>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs=""/>
+    <tag element="table" depth="2" attrs="border"/>
+    <plus>
+      <and>
+        <tag element="tr" depth="3" attrs=""/>
+        <tag element="td" depth="4" attrs=""/>
+        <variant label="_A_"><pcdata depth="5"><![CDATA[哈哈哈]]></pcdata></variant>
+        <tag element="/td" depth="4" attrs=""/>
+        <tag element="td" depth="4" attrs=""/>
+        <variant label="_B_"><pcdata depth="5"><![CDATA[哈哈哈哈]]></pcdata></variant>
+        <tag element="/td" depth="4" attrs=""/>
+        <tag element="/tr" depth="3" attrs=""/>
+      </and>
+    </plus>
+    <tag element="/table" depth="2" attrs="border"/>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs=""/>
+  </and>
+</expression>
+</wrapper>

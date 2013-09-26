@@ -1,0 +1,721 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<wrapper name="overstock">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value=""/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value=""/>
+  <keepTags value="false"/>
+  <attributeValues value="class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs="xmlns"/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="title" depth="2" attrs=""/>
+    <pcdata depth="3"><![CDATA[Hotjobs.com - Search Results]]></pcdata>
+    <tag element="/title" depth="2" attrs=""/>
+    <variant label="_A_"><tag element="link" depth="2" attrs="rel,type,href"/></variant>
+    <tag element="/link" depth="2" attrs="rel,type,href"/>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs="leftmargin,marginheight,topmargin,marginwidth,bgcolor"/>
+    <tag element="img" depth="2" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="2" attrs="height,alt,width,src,border"/>
+    <tag element="br" depth="2" attrs=""/>
+    <tag element="/br" depth="2" attrs=""/>
+    <tag element="table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="3" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="a" depth="6" attrs="title,href"/>
+    <tag element="img" depth="7" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="7" attrs="height,alt,width,src,border"/>
+    <tag element="/a" depth="6" attrs="title,href"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <tag element="img" depth="7" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="7" attrs="height,alt,width,src,border"/>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,class:content,bgcolor"/>
+    <tag element="table" depth="6" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="7" attrs=""/>
+    <tag element="tr" depth="8" attrs=""/>
+    <tag element="td" depth="9" attrs="align,class:content"/>
+    <pcdata depth="10"><![CDATA[Welcome,]]></pcdata>
+    <tag element="b" depth="10" attrs=""/>
+    <pcdata depth="11"><![CDATA[Guest]]></pcdata>
+    <tag element="/b" depth="10" attrs=""/>
+    <pcdata depth="10"><![CDATA[|]]></pcdata>
+    <variant label="_B_"><tag element="a" depth="10" attrs="class:content,href"/></variant>
+    <pcdata depth="11"><![CDATA[Sign In]]></pcdata>
+    <tag element="/a" depth="10" attrs="class:content,href"/>
+    <pcdata depth="10"><![CDATA[|]]></pcdata>
+    <variant label="_C_"><tag element="a" depth="10" attrs="class:content,href"/></variant>
+    <pcdata depth="11"><![CDATA[My Account]]></pcdata>
+    <tag element="/a" depth="10" attrs="class:content,href"/>
+    <pcdata depth="10"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="10" attrs="class:content,href"/>
+    <pcdata depth="11"><![CDATA[Yahoo!]]></pcdata>
+    <tag element="/a" depth="10" attrs="class:content,href"/>
+    <pcdata depth="10"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="10" attrs="class:content,href"/>
+    <pcdata depth="11"><![CDATA[Help]]></pcdata>
+    <tag element="/a" depth="10" attrs="class:content,href"/>
+    <tag element="/td" depth="9" attrs="align,class:content"/>
+    <tag element="/tr" depth="8" attrs=""/>
+    <tag element="tr" depth="8" attrs=""/>
+    <tag element="td" depth="9" attrs=""/>
+    <tag element="img" depth="10" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="10" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="9" attrs=""/>
+    <tag element="/tr" depth="8" attrs=""/>
+    <tag element="tr" depth="8" attrs=""/>
+    <tag element="td" depth="9" attrs="background"/>
+    <tag element="img" depth="10" attrs="height,width,src"/>
+    <tag element="/img" depth="10" attrs="height,width,src"/>
+    <tag element="/td" depth="9" attrs="background"/>
+    <tag element="/tr" depth="8" attrs=""/>
+    <tag element="/tbody" depth="7" attrs=""/>
+    <tag element="/table" depth="6" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="align,class:content,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,class:content,bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="align,class:content,bgcolor"/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="/tbody" depth="3" attrs=""/>
+    <tag element="/table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="img" depth="2" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="2" attrs="height,alt,width,src,border"/>
+    <tag element="br" depth="2" attrs=""/>
+    <tag element="/br" depth="2" attrs=""/>
+    <tag element="table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="3" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs="width"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="width"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="colspan,width"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="colspan,width"/>
+    <tag element="td" depth="5" attrs=""/>
+    <tag element="/td" depth="5" attrs=""/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="a" depth="6" attrs="class:nav_off,href"/>
+    <pcdata depth="7"><![CDATA[Home]]></pcdata>
+    <tag element="/a" depth="6" attrs="class:nav_off,href"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="a" depth="6" attrs="class:nav_on,href"/>
+    <pcdata depth="7"><![CDATA[Job Search]]></pcdata>
+    <tag element="/a" depth="6" attrs="class:nav_on,href"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="a" depth="6" attrs="class:nav_off,href"/>
+    <pcdata depth="7"><![CDATA[My Searches]]></pcdata>
+    <tag element="/a" depth="6" attrs="class:nav_off,href"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="a" depth="6" attrs="class:nav_off,href"/>
+    <pcdata depth="7"><![CDATA[My Saved Jobs]]></pcdata>
+    <tag element="/a" depth="6" attrs="class:nav_off,href"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="a" depth="6" attrs="class:nav_off,href"/>
+    <pcdata depth="7"><![CDATA[My Resumes]]></pcdata>
+    <tag element="/a" depth="6" attrs="class:nav_off,href"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="a" depth="6" attrs="class:nav_off,href"/>
+    <pcdata depth="7"><![CDATA[Career Tools]]></pcdata>
+    <tag element="/a" depth="6" attrs="class:nav_off,href"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="align,width,bgcolor"/>
+    <tag element="td" depth="5" attrs=""/>
+    <tag element="img" depth="6" attrs="height,alt,width,src"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src"/>
+    <tag element="/td" depth="5" attrs=""/>
+    <tag element="td" depth="5" attrs="align"/>
+    <tag element="a" depth="6" attrs="class:contentblue,href"/>
+    <pcdata depth="7"><![CDATA[Employers & Recruiters]]></pcdata>
+    <tag element="/a" depth="6" attrs="class:contentblue,href"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="align"/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs=""/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs=""/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="td" depth="5" attrs="width,bgcolor"/>
+    <tag element="/td" depth="5" attrs="width,bgcolor"/>
+    <tag element="td" depth="5" attrs="colspan,bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="a" depth="6" attrs="id,name"/>
+    <tag element="/a" depth="6" attrs="id,name"/>
+    <tag element="/td" depth="5" attrs="colspan,bgcolor"/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="/tbody" depth="3" attrs=""/>
+    <tag element="/table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="3" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs="height,valign"/>
+    <tag element="table" depth="6" attrs="cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="7" attrs=""/>
+    <tag element="tr" depth="8" attrs=""/>
+    <tag element="td" depth="9" attrs=""/>
+    <tag element="img" depth="10" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="10" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="9" attrs=""/>
+    <tag element="/tr" depth="8" attrs=""/>
+    <tag element="/tbody" depth="7" attrs=""/>
+    <tag element="/table" depth="6" attrs="cellpadding,border,cellspacing"/>
+    <tag element="table" depth="6" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="7" attrs=""/>
+    <tag element="tr" depth="8" attrs=""/>
+    <tag element="td" depth="9" attrs="colspan,align"/>
+    <tag element="table" depth="10" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="11" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs=""/>
+    <tag element="span" depth="14" attrs="class:header"/>
+    <pcdata depth="15"><![CDATA[Search Results]]></pcdata>
+    <tag element="/span" depth="14" attrs="class:header"/>
+    <tag element="br" depth="14" attrs=""/>
+    <tag element="/br" depth="14" attrs=""/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs=""/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="/tbody" depth="11" attrs=""/>
+    <tag element="/table" depth="10" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="table" depth="10" attrs="align,width,cellpadding,border,cellspacing,bgcolor"/>
+    <tag element="tbody" depth="11" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs="width,bgcolor"/>
+    <tag element="table" depth="14" attrs="align,width,cellpadding,border,cellspacing,bgcolor"/>
+    <tag element="tbody" depth="15" attrs=""/>
+    <tag element="tr" depth="16" attrs=""/>
+    <tag element="td" depth="17" attrs="width,class:content,bgcolor"/>
+    <tag element="b" depth="18" attrs=""/>
+    <pcdata depth="19"><![CDATA[Criteria:]]></pcdata>
+    <tag element="/b" depth="18" attrs=""/>
+    <variant label="Criteria"><pcdata depth="18"><![CDATA[New Orleans, LA, include greater metropolitan areas, Direct Employers, Staffing Firms]]></pcdata></variant>
+    <tag element="br" depth="18" attrs=""/>
+    <tag element="/br" depth="18" attrs=""/>
+    <tag element="input" depth="18" attrs="name,value,class:buttonblue100,onclick,type"/>
+    <tag element="/input" depth="18" attrs="name,value,class:buttonblue100,onclick,type"/>
+    <tag element="img" depth="18" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="18" attrs="height,alt,width,src,border"/>
+    <tag element="input" depth="18" attrs="name,value,class:buttongray,onclick,type"/>
+    <tag element="/input" depth="18" attrs="name,value,class:buttongray,onclick,type"/>
+    <tag element="/td" depth="17" attrs="width,class:content,bgcolor"/>
+    <tag element="/tr" depth="16" attrs=""/>
+    <tag element="/tbody" depth="15" attrs=""/>
+    <tag element="/table" depth="14" attrs="align,width,cellpadding,border,cellspacing,bgcolor"/>
+    <tag element="/td" depth="13" attrs="width,bgcolor"/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="/tbody" depth="11" attrs=""/>
+    <tag element="/table" depth="10" attrs="align,width,cellpadding,border,cellspacing,bgcolor"/>
+    <tag element="/td" depth="9" attrs="colspan,align"/>
+    <tag element="/tr" depth="8" attrs=""/>
+    <tag element="tr" depth="8" attrs=""/>
+    <tag element="td" depth="9" attrs="valign"/>
+    <tag element="table" depth="10" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="11" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs="class:content,valign"/>
+    <tag element="table" depth="14" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="15" attrs=""/>
+    <tag element="tr" depth="16" attrs=""/>
+    <tag element="td" depth="17" attrs=""/>
+    <tag element="img" depth="18" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="18" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="17" attrs=""/>
+    <tag element="/tr" depth="16" attrs=""/>
+    <tag element="tr" depth="16" attrs=""/>
+    <tag element="td" depth="17" attrs=""/>
+    <tag element="table" depth="18" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="19" attrs=""/>
+    <tag element="tr" depth="20" attrs=""/>
+    <tag element="td" depth="21" attrs="class:content,valign"/>
+    <pcdata depth="22"><![CDATA[Jobs From:]]></pcdata>
+    <tag element="b" depth="22" attrs=""/>
+    <pcdata depth="23"><![CDATA[All]]></pcdata>
+    <tag element="/b" depth="22" attrs=""/>
+    <pcdata depth="22"><![CDATA[ | ]]></pcdata>
+    <variant label="_E_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <pcdata depth="23"><![CDATA[Employers]]></pcdata>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <pcdata depth="22"><![CDATA[ | ]]></pcdata>
+    <variant label="_F_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <pcdata depth="23"><![CDATA[Staffing Firms]]></pcdata>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <tag element="/td" depth="21" attrs="class:content,valign"/>
+    <tag element="td" depth="21" attrs="align,class:content,valign"/>
+    <tag element="/td" depth="21" attrs="align,class:content,valign"/>
+    <tag element="/tr" depth="20" attrs=""/>
+    <tag element="tr" depth="20" attrs=""/>
+    <tag element="td" depth="21" attrs="class:content,valign"/>
+    <pcdata depth="22"><![CDATA[Sort by:  ]]></pcdata>
+    <tag element="b" depth="22" attrs=""/>
+    <pcdata depth="23"><![CDATA[Most Relevant]]></pcdata>
+    <tag element="/b" depth="22" attrs=""/>
+    <pcdata depth="22"><![CDATA[ | ]]></pcdata>
+    <variant label="_G_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <pcdata depth="23"><![CDATA[Date]]></pcdata>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <tag element="/td" depth="21" attrs="class:content,valign"/>
+    <tag element="td" depth="21" attrs="align,class:content,valign"/>
+    <tag element="nobr" depth="22" attrs=""/>
+    <variant label="Date"><pcdata depth="23"><![CDATA[1-50 of 239 | First | Previous | ]]></pcdata></variant>
+    <variant label="_I_"><tag element="a" depth="23" attrs="class:content,href"/></variant>
+    <variant label="_J_"><pcdata depth="24"><![CDATA[Next]]></pcdata></variant>
+    <tag element="/a" depth="23" attrs="class:content,href"/>
+    <pcdata depth="23"><![CDATA[ | ]]></pcdata>
+    <variant label="_K_"><tag element="a" depth="23" attrs="class:content,href"/></variant>
+    <variant label="_L_"><pcdata depth="24"><![CDATA[Last]]></pcdata></variant>
+    <tag element="/a" depth="23" attrs="class:content,href"/>
+    <hook>
+      <and>
+        <pcdata depth="23"><![CDATA[ | Next | Last]]></pcdata>
+      </and>
+    </hook>
+    <tag element="/nobr" depth="22" attrs=""/>
+    <tag element="/td" depth="21" attrs="align,class:content,valign"/>
+    <tag element="/tr" depth="20" attrs=""/>
+    <tag element="/tbody" depth="19" attrs=""/>
+    <tag element="/table" depth="18" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="/td" depth="17" attrs=""/>
+    <tag element="/tr" depth="16" attrs=""/>
+    <tag element="tr" depth="16" attrs=""/>
+    <tag element="td" depth="17" attrs="bgcolor"/>
+    <tag element="img" depth="18" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="18" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="17" attrs="bgcolor"/>
+    <tag element="/tr" depth="16" attrs=""/>
+    <tag element="tr" depth="16" attrs=""/>
+    <tag element="td" depth="17" attrs=""/>
+    <tag element="table" depth="18" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="19" attrs=""/>
+    <tag element="tr" depth="20" attrs="bgcolor"/>
+    <tag element="td" depth="21" attrs="width,class:content,valign"/>
+    <variant label="_M_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <tag element="b" depth="23" attrs=""/>
+    <pcdata depth="24"><![CDATA[Job Title]]></pcdata>
+    <tag element="/b" depth="23" attrs=""/>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+    <tag element="td" depth="21" attrs="width,class:content,valign"/>
+    <variant label="_N_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <tag element="b" depth="23" attrs=""/>
+    <pcdata depth="24"><![CDATA[Company Name]]></pcdata>
+    <tag element="/b" depth="23" attrs=""/>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+    <tag element="td" depth="21" attrs="width,class:content,valign"/>
+    <tag element="b" depth="22" attrs=""/>
+    <pcdata depth="23"><![CDATA[Location]]></pcdata>
+    <tag element="/b" depth="22" attrs=""/>
+    <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+    <tag element="td" depth="21" attrs="width,class:content,valign"/>
+    <variant label="_O_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <tag element="b" depth="23" attrs=""/>
+    <pcdata depth="24"><![CDATA[Salary]]></pcdata>
+    <tag element="/b" depth="23" attrs=""/>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+    <tag element="td" depth="21" attrs="width,class:content,valign"/>
+    <variant label="_P_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <tag element="b" depth="23" attrs=""/>
+    <pcdata depth="24"><![CDATA[Date]]></pcdata>
+    <tag element="/b" depth="23" attrs=""/>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+    <tag element="/tr" depth="20" attrs="bgcolor"/>
+    <plus>
+      <and>
+        <tag element="tr" depth="20" attrs="bgcolor"/>
+        <tag element="td" depth="21" attrs="width,class:content,valign"/>
+        <variant label="_Q_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+        <variant label="Job Title"><pcdata depth="23"><![CDATA[Electric Motor Mechanic Trainees]]></pcdata></variant>
+        <tag element="/a" depth="22" attrs="class:content,href"/>
+        <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+        <tag element="td" depth="21" attrs="width,class:content,valign"/>
+        <variant label="Company Name"><pcdata depth="22"><![CDATA[Westaff, Inc.]]></pcdata></variant>
+        <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+        <tag element="td" depth="21" attrs="width,class:content,valign"/>
+        <variant label="Location"><pcdata depth="22"><![CDATA[New Orleans, LA]]></pcdata></variant>
+        <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+        <tag element="td" depth="21" attrs="width,class:content,valign"/>
+        <hook>
+          <and>
+            <variant label="Salary"><pcdata depth="22"><![CDATA[$10 - $17.5/hour]]></pcdata></variant>
+          </and>
+        </hook>
+        <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+        <tag element="td" depth="21" attrs="width,class:content,valign"/>
+        <tag element="nobr" depth="22" attrs=""/>
+        <variant label="Date"><pcdata depth="23"><![CDATA[Oct 22]]></pcdata></variant>
+        <tag element="/nobr" depth="22" attrs=""/>
+        <tag element="/td" depth="21" attrs="width,class:content,valign"/>
+        <tag element="/tr" depth="20" attrs="bgcolor"/>
+      </and>
+    </plus>
+    <tag element="/tbody" depth="19" attrs=""/>
+    <tag element="/table" depth="18" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="/td" depth="17" attrs=""/>
+    <tag element="/tr" depth="16" attrs=""/>
+    <tag element="tr" depth="16" attrs=""/>
+    <tag element="td" depth="17" attrs="bgcolor"/>
+    <tag element="img" depth="18" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="18" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="17" attrs="bgcolor"/>
+    <tag element="/tr" depth="16" attrs=""/>
+    <tag element="tr" depth="16" attrs=""/>
+    <tag element="td" depth="17" attrs=""/>
+    <tag element="table" depth="18" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="19" attrs=""/>
+    <tag element="tr" depth="20" attrs=""/>
+    <tag element="td" depth="21" attrs="class:content,valign"/>
+    <pcdata depth="22"><![CDATA[Jobs From:]]></pcdata>
+    <tag element="b" depth="22" attrs=""/>
+    <pcdata depth="23"><![CDATA[All]]></pcdata>
+    <tag element="/b" depth="22" attrs=""/>
+    <pcdata depth="22"><![CDATA[ | ]]></pcdata>
+    <variant label="_W_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <pcdata depth="23"><![CDATA[Employers]]></pcdata>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <pcdata depth="22"><![CDATA[ | ]]></pcdata>
+    <variant label="_X_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <pcdata depth="23"><![CDATA[Staffing Firms]]></pcdata>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <tag element="/td" depth="21" attrs="class:content,valign"/>
+    <tag element="td" depth="21" attrs="align,class:content,valign"/>
+    <tag element="/td" depth="21" attrs="align,class:content,valign"/>
+    <tag element="/tr" depth="20" attrs=""/>
+    <tag element="tr" depth="20" attrs=""/>
+    <tag element="td" depth="21" attrs="class:content,valign"/>
+    <pcdata depth="22"><![CDATA[Sort by:  ]]></pcdata>
+    <tag element="b" depth="22" attrs=""/>
+    <pcdata depth="23"><![CDATA[Most Relevant]]></pcdata>
+    <tag element="/b" depth="22" attrs=""/>
+    <pcdata depth="22"><![CDATA[ | ]]></pcdata>
+    <variant label="_Y_"><tag element="a" depth="22" attrs="class:content,href"/></variant>
+    <pcdata depth="23"><![CDATA[Date]]></pcdata>
+    <tag element="/a" depth="22" attrs="class:content,href"/>
+    <tag element="/td" depth="21" attrs="class:content,valign"/>
+    <tag element="td" depth="21" attrs="align,class:content,valign"/>
+    <tag element="nobr" depth="22" attrs=""/>
+    <variant label="Date"><pcdata depth="23"><![CDATA[1-50 of 239 | First | Previous | ]]></pcdata></variant>
+    <variant label="_A1_"><tag element="a" depth="23" attrs="class:content,href"/></variant>
+    <variant label="_B1_"><pcdata depth="24"><![CDATA[Next]]></pcdata></variant>
+    <tag element="/a" depth="23" attrs="class:content,href"/>
+    <pcdata depth="23"><![CDATA[ | ]]></pcdata>
+    <variant label="_C1_"><tag element="a" depth="23" attrs="class:content,href"/></variant>
+    <variant label="_D1_"><pcdata depth="24"><![CDATA[Last]]></pcdata></variant>
+    <tag element="/a" depth="23" attrs="class:content,href"/>
+    <hook>
+      <and>
+        <pcdata depth="23"><![CDATA[ | Next | Last]]></pcdata>
+      </and>
+    </hook>
+    <tag element="/nobr" depth="22" attrs=""/>
+    <tag element="/td" depth="21" attrs="align,class:content,valign"/>
+    <tag element="/tr" depth="20" attrs=""/>
+    <tag element="/tbody" depth="19" attrs=""/>
+    <tag element="/table" depth="18" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="/td" depth="17" attrs=""/>
+    <tag element="/tr" depth="16" attrs=""/>
+    <tag element="/tbody" depth="15" attrs=""/>
+    <tag element="/table" depth="14" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="/td" depth="13" attrs="class:content,valign"/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="/tbody" depth="11" attrs=""/>
+    <tag element="/table" depth="10" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="/td" depth="9" attrs="valign"/>
+    <tag element="td" depth="9" attrs="width,class:content,valign,bgcolor"/>
+    <tag element="table" depth="10" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="11" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs="align,class:content"/>
+    <tag element="table" depth="14" attrs="cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="15" attrs=""/>
+    <tag element="tr" depth="16" attrs=""/>
+    <tag element="td" depth="17" attrs="align"/>
+    <subtree><tag element="td" depth="17" attrs="align"/></subtree>
+    <tag element="/td" depth="17" attrs="align"/>
+    <tag element="/tr" depth="16" attrs=""/>
+    <tag element="/tbody" depth="15" attrs=""/>
+    <tag element="/table" depth="14" attrs="cellpadding,border,cellspacing"/>
+    <tag element="noscript" depth="14" attrs=""/>
+    <tag element="/noscript" depth="14" attrs=""/>
+    <tag element="/td" depth="13" attrs="align,class:content"/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="/tbody" depth="11" attrs=""/>
+    <tag element="/table" depth="10" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="table" depth="10" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="11" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs=""/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs=""/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs="bgcolor"/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs="bgcolor"/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs=""/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs=""/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs="class:content"/>
+    <tag element="a" depth="14" attrs="class:content,href"/>
+    <pcdata depth="15"><![CDATA[Get a Resume that Gets Results]]></pcdata>
+    <tag element="/a" depth="14" attrs="class:content,href"/>
+    <tag element="br" depth="14" attrs=""/>
+    <tag element="/br" depth="14" attrs=""/>
+    <pcdata depth="14"><![CDATA[Let our experts write you a job-winning resume.]]></pcdata>
+    <tag element="br" depth="14" attrs=""/>
+    <tag element="/br" depth="14" attrs=""/>
+    <tag element="br" depth="14" attrs=""/>
+    <tag element="/br" depth="14" attrs=""/>
+    <tag element="center" depth="14" attrs=""/>
+    <tag element="a" depth="15" attrs="href"/>
+    <tag element="img" depth="16" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="16" attrs="height,alt,width,src,border"/>
+    <tag element="/a" depth="15" attrs="href"/>
+    <tag element="/center" depth="14" attrs=""/>
+    <tag element="/td" depth="13" attrs="class:content"/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs=""/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs=""/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs="bgcolor"/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs="bgcolor"/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs=""/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs=""/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs="class:content"/>
+    <tag element="b" depth="14" attrs=""/>
+    <pcdata depth="15"><![CDATA[Free Fax By Email]]></pcdata>
+    <tag element="/b" depth="14" attrs=""/>
+    <tag element="br" depth="14" attrs=""/>
+    <tag element="/br" depth="14" attrs=""/>
+    <pcdata depth="14"><![CDATA[Want a fax number for your resume?]]></pcdata>
+    <tag element="br" depth="14" attrs=""/>
+    <tag element="/br" depth="14" attrs=""/>
+    <tag element="a" depth="14" attrs="class:content,href"/>
+    <pcdata depth="15"><![CDATA[Get it free by eFax]]></pcdata>
+    <tag element="/a" depth="14" attrs="class:content,href"/>
+    <pcdata depth="14"><![CDATA[.]]></pcdata>
+    <tag element="/td" depth="13" attrs="class:content"/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs=""/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs=""/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="tr" depth="12" attrs=""/>
+    <tag element="td" depth="13" attrs="bgcolor"/>
+    <tag element="img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="14" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="13" attrs="bgcolor"/>
+    <tag element="/tr" depth="12" attrs=""/>
+    <tag element="/tbody" depth="11" attrs=""/>
+    <tag element="/table" depth="10" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="/td" depth="9" attrs="width,class:content,valign,bgcolor"/>
+    <tag element="/tr" depth="8" attrs=""/>
+    <tag element="/tbody" depth="7" attrs=""/>
+    <tag element="/table" depth="6" attrs="width,cellpadding,border,cellspacing"/>
+    <tag element="/td" depth="5" attrs="height,valign"/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="/tbody" depth="3" attrs=""/>
+    <tag element="/table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="3" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs=""/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs=""/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs="bgcolor"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="bgcolor"/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="/tbody" depth="3" attrs=""/>
+    <tag element="/table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="tbody" depth="3" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs="colspan"/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs="colspan"/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs="colspan,align"/>
+    <tag element="span" depth="6" attrs="class:content"/>
+    <tag element="a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="8"><![CDATA[HotJobs Canada]]></pcdata>
+    <tag element="/a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="7"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="8"><![CDATA[Work at HotJobs]]></pcdata>
+    <tag element="/a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="7"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="8"><![CDATA[About HotJobs]]></pcdata>
+    <tag element="/a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="7"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="8"><![CDATA[Affiliate Program]]></pcdata>
+    <tag element="/a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="7"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="7" attrs="class:content,href"/>
+    <pcdata depth="8"><![CDATA[Advertise on our Site]]></pcdata>
+    <tag element="/a" depth="7" attrs="class:content,href"/>
+    <tag element="/span" depth="6" attrs="class:content"/>
+    <tag element="/td" depth="5" attrs="colspan,align"/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs="colspan,align"/>
+    <pcdata depth="6"><![CDATA[Copyright © 2003 HotJobs, a Yahoo! Company. All rights reserved. 
+
+Guidelines
+
+ | 
+
+Terms of Service
+
+ | 
+
+Privacy Policy
+
+ | 
+
+Copyright Policy]]></pcdata>
+    <tag element="/td" depth="5" attrs="colspan,align"/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="tr" depth="4" attrs=""/>
+    <tag element="td" depth="5" attrs=""/>
+    <tag element="img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="height,alt,width,src,border"/>
+    <tag element="/td" depth="5" attrs=""/>
+    <tag element="/tr" depth="4" attrs=""/>
+    <tag element="/tbody" depth="3" attrs=""/>
+    <tag element="/table" depth="2" attrs="align,width,cellpadding,border,cellspacing"/>
+    <tag element="/body" depth="1" attrs="leftmargin,marginheight,topmargin,marginwidth,bgcolor"/>
+    <tag element="/html" depth="0" attrs="xmlns"/>
+  </and>
+</expression>
+</wrapper>

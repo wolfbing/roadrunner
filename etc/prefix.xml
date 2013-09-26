@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : prefix.xml
+    Created on :  8 gennaio 2003, 12.00
+    Author     : Valter Crescenzi
+    Description: Contains configuration to set
+                 RoadRunner Wrapper Generation System
+                 for inferring prefix-markup languages
+-->
+<preferences name="RoadRunner Default Configuration">
+    <step0 value="false"/>
+    <solutions value="1"/>
+    <backtracking value="false"/>
+    <ambiguity value="0"/>
+    <occurrences value="1"/>
+    <useHooks value="true"/>
+    <usePluses value="true"/>
+    <useSubtrees value="false"/>
+    <freePlus value="false"/>
+    <LLk value="1"/>
+    <RRk value="0"/>
+</preferences>

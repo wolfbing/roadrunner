@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : defaults.xml
+    Created on : 23 febbraio 2003, 12.00
+    Author     : Valter Crescenzi
+    Description: Contains default configuration for 
+                 RoadRunner Wrapper Generation System
+-->
+<preferences name="RoadRunner Default Configuration">
+  <tokenization>
+    <freetext value="false"/>
+    <freetextTags value="a,font,b,i,span,sup"/>
+    <variantTags value="a,font,b,i,span,sup"/>
+    <keepTags value="false"/>
+    <skipTags value=""/>
+    <skipTrees value="script,style"/>
+    <skipAttributes value="selected,bgcolor"/>
+    <attributeValues value="id,class"/>
+  </tokenization>
+  <generation>
+    <step0 value="true"/>
+    <solutions value="1"/>
+    <backtracking value="true"/>
+    <collapsingbt value="false"/>
+    <ambiguity value="0"/> <!-- this may affect occurrences -->
+    <occurrences value="4"/>
+    <useHooks value="true"/>
+    <usePluses value="true"/>
+    <useSubtrees value="true"/>
+    <freePlus value="true"/>
+    <maxStates value="0"/>
+    <LLk value="5"/>
+    <RRk value="5"/>
+  </generation>
+  <labelling>
+    <prefixLabelling value="false"/>
+    <visualLabelling value="true"/>
+    <trimLabels value="true"/>
+    <minLabelLen value="2"/>
+    <maxLabelLen value="100"/>
+    <maxAlpha value="0.26175"/> <!-- 0.08725; 0.17450; 0.26175; <-> 5,10,15 degrees-->
+    <maxScore value="0.00523"/> <!-- 2% of maxAlpha -->    
+    <maxDistance value="300"/>
+  </labelling>
+  <output>
+    <outputdir value="output"/>
+    <browser value="mozilla"/>
+    <dataset_style value="style/data.xsl"/>
+    <index_style value="style/index.xsl"/>
+  </output>
+</preferences>

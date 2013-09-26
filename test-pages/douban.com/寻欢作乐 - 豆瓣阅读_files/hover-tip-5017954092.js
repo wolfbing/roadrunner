@@ -1,0 +1,1 @@
+define("ui/hover-tip",["jquery"],function(c){var a=c("body");function b(e,f,d,g){f=f.clone();d=c.extend({top:0,left:0},d);e.hover(function(){f.css({left:e.offset().left+d.left+"px",top:e.offset().top+d.top+"px"}).appendTo(a);if(c.isFunction(g)){g(f)}},function(){f.remove()})}return b});

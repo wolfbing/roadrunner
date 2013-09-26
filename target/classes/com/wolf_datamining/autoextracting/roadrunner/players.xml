@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences name="Yahoo Fifa Preferences">
+    <step0 value="true"/>
+    <solutions value="1"/>
+    <freetext value="false"/>
+    <keepTags value="false"/>
+    <skipTags value=""/>
+    <skipAttributes value="bgcolor,alt,target"/>
+    <backtracking value="true"/>
+    <ambiguity value="0"/>
+    <occurrences value="1"/>
+    <useHooks value="true"/>
+    <usePluses value="true"/>
+    <useSubtrees value="true"/>
+    <freePlus value="false"/>
+    <attributeValues value=""/>
+    <LLk value="1"/>
+    <RRk value="-1"/>
+    <prefixLabelling value="true"/>
+    <visualLabelling value="true"/>
+</preferences>

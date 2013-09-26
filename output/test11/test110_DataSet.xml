@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="test11">
+    <instance source="file:/C:/Users/Admin/Desktop/test11-xml/S 入出金・振替 入金指示 入力.html-to-.xhtml" name="S 入出金・振替 入金指示 入力.html-to-">
+      <and>
+        <subtree>
+<BODY><DIV id="MfAccAccDepIndInputInfo_block">
+          
+          
+
+          
+          <TABLE cellpadding="0" cellspacing="0" class="tbl_dataInput_01">
+            <TBODY><TR>
+              <TH>振込元金融機関</TH>
+              <TD>
+                三井住友銀行 SMBCダイレクト　ウェブ振込サービス</TD>
+            </TR>
+            <TR>
+              <TH>振込手数料</TH>
+              <TD>振込手数料はかかりません(当社負担)</TD>
+            </TR>
+            <TR>
+              <TH>入金額</TH>
+              <TD><INPUT autocomplete="off" maxlength="8" name="nyuknSjKngk" size="10" type="text" value=""/>円</TD>
+            </TR>
+          </TBODY></TABLE>
+          
+          
+          <P class="note_u_table">入金額を1円から10,000,000円の範囲で指定してください。</P>
+          
+          
+          
+          
+          
+          
+          
+          
+        </DIV></BODY>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Admin/Desktop/test11-xml/S 入出金・振替 入金指示 機関選択.html-to-.xhtml" name="S 入出金・振替 入金指示 機関選択.html-to-">
+      <and>
+        <subtree>
+<BODY><DIV id="tiles.MfAccAccDepIndSelect">
+  
+  
+    <DIV id="maintile">
+      <DIV id="MfAccAccDepIndSelectRegi_block">
+        
+        <DIV class="header_comment">当社への入金指示を行います。振込元の金融機関をご選択ください。</DIV>
+
+        
+          
+        
+        
+        
+        
+
+        
+        
+          <TABLE cellpadding="0" cellspacing="0" class="tbl_dataOutputloop_02">
+            <TBODY><TR>
+              <TH nowrap="nowrap">入金</TH>
+              <TH colspan="2" nowrap="nowrap">金融機関?サービス名</TH>
+              
+            </TR>
+            
+            
+              <TR>
+                <TD class="sel_size" nowrap="nowrap">
+                  
+                    <DIV class="btn_select">
+                      
+                        <A href="/web/mfAccAccDepIndInputAction.do?linkJyuhu=%BD%BD%DE%B7+%BA%B3%BC%DE&amp;blngKnyukknMei=%8E%4F%88%E4%8F%5A%97%46%8B%E2%8D%73&amp;blngKnyukknSvcMei=SMBC%83%5F%83%43%83%8C%83%4E%83%67%81%40%83%45%83%46%83%75%90%55%8D%9E%83%54%81%5B%83%72%83%58&amp;blngSjKiknCd=0009">選択</A>
+                      
+                    </DIV>
+                  
+                          
+                  </TD>
+                <TD class="tdsize">
+                  <IMG alt="三井住友銀行" src="https://cts.smbc-friend.co.jp/mf_contents/web/images/bank/bnk_icon_0009.gif" title="三井住友銀行"/></TD>
+                <TD>
+                  <SPAN class="txt_bold">
+                    三井住友銀行</SPAN><BR/>SMBCダイレクト　ウェブ振込サービス</TD>
+                
+              </TR>
+            
+              <TR>
+                <TD class="sel_size" nowrap="nowrap">
+                  
+                    <DIV class="btn_select">
+                      
+                        <A href="/web/mfAccAccDepIndInputAction.do?linkJyuhu=%83%58%83%59%83%4C%81%40%83%52%83%45%83%57%81%40%81%40%81%40%81%40%81%40%81%40%81%40%81%40%81%40%81%40%81%40&amp;blngKnyukknMei=%83%57%83%83%83%70%83%93%83%6C%83%62%83%67%8B%E2%8D%73&amp;blngKnyukknSvcMei=%83%8A%83%93%83%4E%8C%88%8D%CF&amp;blngSjKiknCd=0033">選択</A>
+                      
+                    </DIV>
+                  
+                          
+                  </TD>
+                <TD class="tdsize">
+                  <IMG alt="ジャパンネット銀行" src="https://cts.smbc-friend.co.jp/mf_contents/web/images/bank/bnk_icon_0033.gif" title="ジャパンネット銀行"/></TD>
+                <TD>
+                  <SPAN class="txt_bold">
+                    ジャパンネット銀行</SPAN><BR/>リンク決済</TD>
+                
+              </TR>
+            
+            
+          </TBODY></TABLE>
+          
+          <P class="note_u_table">ご利用には、各金融機関の口座が必要です。</P>
+          
+          <P class="note_u_table">振込手数料は当社負担です。</P>
+          
+          
+          
+          
+          
+          
+        
+
+        
+        
+
+        
+      </DIV>
+    </DIV>
+  
+</DIV></BODY>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Admin/Desktop/test11-xml/S 入出金・振替 入金指示 確認.html-to-.xhtml" name="S 入出金・振替 入金指示 確認.html-to-">
+      <and>
+        <subtree>
+<BODY><DIV id="MfAccAccDepIndConfirmInfo_block">
+          
+          
+          <TABLE cellpadding="0" cellspacing="0" class="tbl_dataInputcon_01">
+            <CAPTION>入金指示内容</CAPTION>
+            <TBODY><TR>
+              <TH>振込元金融機関</TH>
+              <TD>三井住友銀行 SMBCダイレクト　ウェブ振込サービス</TD>
+            </TR>
+            <TR>
+              <TH>入金指示金額</TH>
+              <TD><SPAN class="inputcheck">100,000</SPAN>円</TD>
+            </TR>
+          </TBODY></TABLE>
+            <P class="note_u_table">各金融機関の認証画面が開かない場合は、ポップアップブロックが有効になっている可能性があります。詳細は、ヘルプをご参照ください。InternetExplorerをご利用の場合、キーボードの[Ctrl]＋[Alt]を押しながら、「次へ」ボタンをクリックすることで、ポップアップブロックを一時的に解除することができます。</P>
+            
+            
+            
+            
+        </DIV></BODY>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/C:/Users/Admin/Desktop/test11-xml/S 入出金・振替 出金指示 入力.html-to-.xhtml" name="S 入出金・振替 出金指示 入力.html-to-">
+      <and>
+        <subtree>
+<BODY><DIV id="tiles.MfAccAccWitIndInput">
+  
+  
+    <DIV id="maintile">
+      <FORM action="/web/mfAccAccWitIndConfirmAction.do" id="mfAccAccWitIndForm" method="post"><INPUT name="org.apache.struts.taglib.html.TOKEN" type="hidden" value="027896940b13e2ead1c694c72a025f01"/><INPUT name="WZX_ENV_LOGIN_TUSK_RYUSHU_ID" type="hidden" value="3899826fe8776c1e86bfa57eaf2eb577"/>
+        
+        
+          
+          
+            
+            <INPUT name="shkknskKbn" type="hidden" value="11"/>
+          
+        
+        <DIV id="MfAccAccWitIndInputPosble_block">
+        
+        
+          <TABLE cellpadding="0" cellspacing="0" class="tbl_dataOutput_01">
+            <TBODY><TR>
+              <TH>出金指示可能金額</TH>
+              <TD nowrap="nowrap">0円</TD>
+            </TR>
+          </TBODY></TABLE>
+        </DIV>
+
+        <DIV class="separate_L"> </DIV>
+
+        <DIV id="MfAccAccWitIndInputBankInfo_block">
+          <TABLE cellpadding="0" cellspacing="0" class="tbl_dataInput_01">
+            <TBODY><TR>
+              <TH>出金指示金額</TH>
+              <TD><INPUT autocomplete="off" maxlength="18" name="shkknsjKngk" size="24" type="text" value=""/>円</TD>
+            </TR>
+            
+            
+              
+              
+              
+                <TR>
+                  <TH>出金先</TH>
+                  <TD>
+                    
+                    
+                    
+                    三井住友銀行大森支店 普通預金 1714***<BR/>???? ????</TD>
+                </TR>
+              
+            
+          </TBODY></TABLE>
+          <P class="note_u_table">当日分の出金受付(翌営業日出金)は、15：30(営業日)までとなっています。</P>
+          
+          
+          
+          
+          
+        </DIV>
+
+        <DIV class="separate_M"> </DIV>
+
+        <DIV id="MfAccAccWitIndInputConfBtn_block">
+        
+        
+        <DIV class="align_C">
+          <INPUT alt="出金指示確認画面へ" name="buttonConfirm" src="https://cts.smbc-friend.co.jp/mf_contents/web/images/form/btn/btn_payment_con.gif" title="出金指示確認画面へ" type="image" value="出金指示確認画面へ"/></DIV>
+        </DIV>
+      </FORM>
+    </DIV>
+  
+</DIV></BODY>        </subtree>
+      </and>
+    </instance>
+</dataset>

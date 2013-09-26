@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="coll">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value=""/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs="xmlns"/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="title" depth="2" attrs=""/>
+    <variant label="_A_"><pcdata depth="3"><![CDATA[nju_百度搜索]]></pcdata></variant>
+    <tag element="/title" depth="2" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <hook>
+      <and>
+        <tag element="link" depth="2" attrs="rel,type,href"/>
+        <tag element="/link" depth="2" attrs="rel,type,href"/>
+      </and>
+    </hook>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs=""/>
+    <tag element="div" depth="2" attrs="id:out"/>
+    <tag element="div" depth="3" attrs="id:u"/>
+    <tag element="a" depth="4" attrs="onmousedown,href"/>
+    <pcdata depth="5"><![CDATA[搜索设置]]></pcdata>
+    <tag element="/a" depth="4" attrs="onmousedown,href"/>
+    <pcdata depth="4"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="4" attrs="id:btop,onmousedown,href"/>
+    <pcdata depth="5"><![CDATA[百度首页]]></pcdata>
+    <tag element="/a" depth="4" attrs="id:btop,onmousedown,href"/>
+    <pcdata depth="4"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="4" attrs="id:lb,onclick,onmousedown,href"/>
+    <pcdata depth="5"><![CDATA[登录]]></pcdata>
+    <tag element="/a" depth="4" attrs="id:lb,onclick,onmousedown,href"/>
+    <tag element="a" depth="4" attrs="target,class:reg,onmousedown,href"/>
+    <pcdata depth="5"><![CDATA[注册]]></pcdata>
+    <tag element="/a" depth="4" attrs="target,class:reg,onmousedown,href"/>
+    <tag element="/div" depth="3" attrs="id:u"/>
+    <tag element="div" depth="3" attrs="id:head"/>
+    <tag element="div" depth="4" attrs="class:s_nav"/>
+    <tag element="a" depth="5" attrs="class:s_logo,onmousedown,href"/>
+    <tag element="img" depth="6" attrs="title,height,alt,width,src,border"/>
+    <tag element="/img" depth="6" attrs="title,height,alt,width,src,border"/>
+    <tag element="/a" depth="5" attrs="class:s_logo,onmousedown,href"/>
+    <tag element="div" depth="5" attrs="id:s_tab,class:s_tab"/>
+    <variant label="_B_"><tag element="a" depth="6" attrs="onmousedown,href,wdfield"/></variant>
+    <pcdata depth="7"><![CDATA[新闻]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href,wdfield"/>
+    <tag element="b" depth="6" attrs=""/>
+    <pcdata depth="7"><![CDATA[网页]]></pcdata>
+    <tag element="/b" depth="6" attrs=""/>
+    <variant label="_C_"><tag element="a" depth="6" attrs="onmousedown,href,wdfield"/></variant>
+    <pcdata depth="7"><![CDATA[贴吧]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href,wdfield"/>
+    <variant label="_D_"><tag element="a" depth="6" attrs="onmousedown,href,wdfield"/></variant>
+    <pcdata depth="7"><![CDATA[知道]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href,wdfield"/>
+    <variant label="_E_"><tag element="a" depth="6" attrs="onmousedown,href,wdfield"/></variant>
+    <pcdata depth="7"><![CDATA[音乐]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href,wdfield"/>
+    <variant label="_F_"><tag element="a" depth="6" attrs="onmousedown,href,wdfield"/></variant>
+    <pcdata depth="7"><![CDATA[图片]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href,wdfield"/>
+    <variant label="_G_"><tag element="a" depth="6" attrs="onmousedown,href,wdfield"/></variant>
+    <pcdata depth="7"><![CDATA[视频]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href,wdfield"/>
+    <variant label="_H_"><tag element="a" depth="6" attrs="onmousedown,href,wdfield"/></variant>
+    <pcdata depth="7"><![CDATA[地图]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href,wdfield"/>
+    <variant label="_I_"><tag element="a" depth="6" attrs="onmousedown,href,wdfield"/></variant>
+    <pcdata depth="7"><![CDATA[文库]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href,wdfield"/>
+    <tag element="a" depth="6" attrs="onmousedown,href"/>
+    <pcdata depth="7"><![CDATA[更多»]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href"/>
+    <tag element="/div" depth="5" attrs="id:s_tab,class:s_tab"/>
+    <tag element="/div" depth="4" attrs="class:s_nav"/>
+    <tag element="form" depth="4" attrs="name,action,class:fm"/>
+    <subtree><tag element="form" depth="4" attrs="name,action,class:fm"/></subtree>
+    <tag element="/form" depth="4" attrs="name,action,class:fm"/>
+    <tag element="/div" depth="3" attrs="id:head"/>
+    <tag element="div" depth="3" attrs="id:container,class:container_l"/>
+    <tag element="div" depth="4" attrs="id:content_right"/>
+    <tag element="table" depth="5" attrs="cellpadding,cellspacing"/>
+    <tag element="tbody" depth="6" attrs=""/>
+    <tag element="tr" depth="7" attrs=""/>
+    <tag element="td" depth="8" attrs="align"/>
+    <subtree><tag element="td" depth="8" attrs="align"/></subtree>
+    <tag element="/td" depth="8" attrs="align"/>
+    <tag element="/tr" depth="7" attrs=""/>
+    <tag element="/tbody" depth="6" attrs=""/>
+    <tag element="/table" depth="5" attrs="cellpadding,cellspacing"/>
+    <tag element="/div" depth="4" attrs="id:content_right"/>
+    <tag element="div" depth="4" attrs="id:content_left"/>
+    <subtree><tag element="div" depth="4" attrs="id:content_left"/></subtree>
+    <tag element="/div" depth="4" attrs="id:content_left"/>
+    <tag element="p" depth="4" attrs="id:page"/>
+    <tag element="strong" depth="5" attrs=""/>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[1]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/strong" depth="5" attrs=""/>
+    <variant label="_J_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[2]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_K_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[3]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_L_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[4]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_M_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[5]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_N_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[6]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_O_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[7]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_P_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[8]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_Q_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[9]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_R_"><tag element="a" depth="5" attrs="href"/></variant>
+    <tag element="span" depth="6" attrs="class:pc"/>
+    <pcdata depth="7"><![CDATA[10]]></pcdata>
+    <tag element="/span" depth="6" attrs="class:pc"/>
+    <tag element="/a" depth="5" attrs="href"/>
+    <variant label="_S_"><tag element="a" depth="5" attrs="class:n,href"/></variant>
+    <pcdata depth="6"><![CDATA[下一页>]]></pcdata>
+    <tag element="/a" depth="5" attrs="class:n,href"/>
+    <tag element="span" depth="5" attrs="style,class:nums"/>
+    <variant label="_T_"><pcdata depth="6"><![CDATA[百度为您找到相关结果约2,850,000个]]></pcdata></variant>
+    <tag element="/span" depth="5" attrs="style,class:nums"/>
+    <tag element="/p" depth="4" attrs="id:page"/>
+    <tag element="/div" depth="3" attrs="id:container,class:container_l"/>
+    <tag element="div" depth="3" attrs="id:rs"/>
+    <tag element="table" depth="4" attrs="cellpadding"/>
+    <tag element="tbody" depth="5" attrs=""/>
+    <tag element="tr" depth="6" attrs=""/>
+    <tag element="th" depth="7" attrs="class:tt,rowspan"/>
+    <pcdata depth="8"><![CDATA[相关搜索]]></pcdata>
+    <tag element="/th" depth="7" attrs="class:tt,rowspan"/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_U_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_V_"><pcdata depth="9"><![CDATA[bbs.nju.edu.cn]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="td" depth="7" attrs=""/>
+    <tag element="/td" depth="7" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_W_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_X_"><pcdata depth="9"><![CDATA[mkey
+nju]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="td" depth="7" attrs=""/>
+    <tag element="/td" depth="7" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_Y_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_Z_"><pcdata depth="9"><![CDATA[nju
+bbs]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="td" depth="7" attrs=""/>
+    <tag element="/td" depth="7" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_A1_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_B1_"><pcdata depth="9"><![CDATA[smail.nju.edu.cn]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="td" depth="7" attrs=""/>
+    <tag element="/td" depth="7" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_C1_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_D1_"><pcdata depth="9"><![CDATA[mail.nju.edu.cn]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="/tr" depth="6" attrs=""/>
+    <tag element="tr" depth="6" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_E1_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_F1_"><pcdata depth="9"><![CDATA[bkzs.nju.edu.cn]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="td" depth="7" attrs=""/>
+    <tag element="/td" depth="7" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_G1_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_H1_"><pcdata depth="9"><![CDATA[nju.edu.mail]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="td" depth="7" attrs=""/>
+    <tag element="/td" depth="7" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_I1_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_J1_"><pcdata depth="9"><![CDATA[nju.edu.cn]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="td" depth="7" attrs=""/>
+    <tag element="/td" depth="7" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_K1_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_L1_"><pcdata depth="9"><![CDATA[jlxy.nju.edu.cn]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="td" depth="7" attrs=""/>
+    <tag element="/td" depth="7" attrs=""/>
+    <tag element="th" depth="7" attrs=""/>
+    <variant label="_M1_"><tag element="a" depth="8" attrs="href"/></variant>
+    <variant label="_N1_"><pcdata depth="9"><![CDATA[jw.nju.edu.cn]]></pcdata></variant>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/th" depth="7" attrs=""/>
+    <tag element="/tr" depth="6" attrs=""/>
+    <tag element="/tbody" depth="5" attrs=""/>
+    <tag element="/table" depth="4" attrs="cellpadding"/>
+    <tag element="/div" depth="3" attrs="id:rs"/>
+    <tag element="div" depth="3" attrs="id:search"/>
+    <tag element="form" depth="4" attrs="name,action"/>
+    <tag element="input" depth="5" attrs="name,value,type"/>
+    <tag element="/input" depth="5" attrs="name,value,type"/>
+    <tag element="input" depth="5" attrs="name,value,type"/>
+    <tag element="/input" depth="5" attrs="name,value,type"/>
+    <tag element="input" depth="5" attrs="name,value,type"/>
+    <tag element="/input" depth="5" attrs="name,value,type"/>
+    <tag element="input" depth="5" attrs="name,value,type"/>
+    <tag element="/input" depth="5" attrs="name,value,type"/>
+    <tag element="input" depth="5" attrs="name,value,type"/>
+    <tag element="/input" depth="5" attrs="name,value,type"/>
+    <tag element="span" depth="5" attrs="class:s_ipt_wr"/>
+    <tag element="input" depth="6" attrs="maxlength,name,value,class:s_ipt"/>
+    <tag element="/input" depth="6" attrs="maxlength,name,value,class:s_ipt"/>
+    <tag element="/span" depth="5" attrs="class:s_ipt_wr"/>
+    <tag element="span" depth="5" attrs="class:s_btn_wr"/>
+    <tag element="input" depth="6" attrs="onmouseout,value,class:s_btn,onmousedown,type"/>
+    <tag element="/input" depth="6" attrs="onmouseout,value,class:s_btn,onmousedown,type"/>
+    <tag element="/span" depth="5" attrs="class:s_btn_wr"/>
+    <tag element="span" depth="5" attrs="class:s_help"/>
+    <variant label="_O1_"><tag element="a" depth="6" attrs="onmousedown,href"/></variant>
+    <pcdata depth="7"><![CDATA[结果中找]]></pcdata>
+    <tag element="/a" depth="6" attrs="onmousedown,href"/>
+    <tag element="a" depth="6" attrs="target,onmousedown,href"/>
+    <pcdata depth="7"><![CDATA[帮助]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,onmousedown,href"/>
+    <tag element="a" depth="6" attrs="target,onmousedown,href"/>
+    <pcdata depth="7"><![CDATA[反馈意见]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,onmousedown,href"/>
+    <tag element="a" depth="6" attrs="target,onmousedown,href"/>
+    <pcdata depth="7"><![CDATA[举报]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,onmousedown,href"/>
+    <tag element="a" depth="6" attrs="onclick,onmousedown,href"/>
+    <pcdata depth="7"><![CDATA[高级搜索]]></pcdata>
+    <tag element="/a" depth="6" attrs="onclick,onmousedown,href"/>
+    <tag element="/span" depth="5" attrs="class:s_help"/>
+    <tag element="/form" depth="4" attrs="name,action"/>
+    <tag element="/div" depth="3" attrs="id:search"/>
+    <tag element="div" depth="3" attrs="id:foot"/>
+    <pcdata depth="4"><![CDATA[©2013 Baidu ]]></pcdata>
+    <tag element="span" depth="4" attrs=""/>
+    <pcdata depth="5"><![CDATA[此内容系百度根据您的指令自动搜索的结果，不
+代表百度赞成被搜索网站的内容或立场]]></pcdata>
+    <tag element="/span" depth="4" attrs=""/>
+    <tag element="/div" depth="3" attrs="id:foot"/>
+    <tag element="/div" depth="2" attrs="id:out"/>
+    <tag element="div" depth="2" attrs="id:floatTip,style,class:floatTip"/>
+    <tag element="div" depth="3" attrs="class:floatTipArrow"/>
+    <tag element="em" depth="4" attrs=""/>
+    <pcdata depth="5"><![CDATA[◆]]></pcdata>
+    <tag element="/em" depth="4" attrs=""/>
+    <tag element="span" depth="4" attrs=""/>
+    <pcdata depth="5"><![CDATA[◆]]></pcdata>
+    <tag element="/span" depth="4" attrs=""/>
+    <tag element="/div" depth="3" attrs="class:floatTipArrow"/>
+    <tag element="div" depth="3" attrs="id:floatTipCon"/>
+    <tag element="div" depth="4" attrs="id:floatTipDesc"/>
+    <pcdata depth="5"><![CDATA[该结果被个网友分享过]]></pcdata>
+    <tag element="/div" depth="4" attrs="id:floatTipDesc"/>
+    <tag element="div" depth="4" attrs="class:floatTipLink"/>
+    <tag element="a" depth="5" attrs="id:sharelink,target,href"/>
+    <pcdata depth="6"><![CDATA[百度分享是什么？]]></pcdata>
+    <tag element="/a" depth="5" attrs="id:sharelink,target,href"/>
+    <tag element="/div" depth="4" attrs="class:floatTipLink"/>
+    <tag element="/div" depth="3" attrs="id:floatTipCon"/>
+    <tag element="/div" depth="2" attrs="id:floatTip,style,class:floatTip"/>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs="xmlns"/>
+  </and>
+</expression>
+</wrapper>

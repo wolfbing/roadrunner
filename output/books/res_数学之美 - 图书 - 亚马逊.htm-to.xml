@@ -1,0 +1,626 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+  <instance source="file:/C:/Users/Admin/Desktop/result/数学之美 - 图书 - 亚马逊.htm-to.xhtml" name="数学之美 - 图书 - 亚马逊.htm-to">
+    <and>
+      <subtree>
+<DIV id="center">
+<DIV id="breadCrumbDiv">
+<DIV id="bcDiv">
+<H1 id="breadCrumb"><A href="#/ref=sr_hi_1?rh=n%3A658390051&amp;ie=UTF8&amp;qid=1375112941">图书</A>
+<SPAN>›</SPAN> <SPAN class="bcJSnonCompatible" id="bcJSnonCompatible">"数学之美"</SPAN> <SPAN class="bcSpan" id="bcSpan"/></H1>
+<DIV class="bcKw bcLotPadding" id="bcNonEdit">
+<H1 id="breadCrumb"><A href="javascript:void(0)" id="bcKwText">"数学之美"</A> <INPUT class="srSprite" id="bcRemoveKwButton" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/transparent-pixel._V386947693_.gif" style="display: none;" type="image"/></H1>
+<DIV class="bcKw bcLotPadding" data-normalizedurl="/s/ref=sr_hi_1?rh=n%3A658390051&amp;ie=UTF8&amp;qid=1375112941" id="bcEdit">
+<H1 id="breadCrumb"><INPUT class="bcNewKw" id="bcNewKw" type="text"/> <INPUT alt="开始" class="srSprite bcGoButton" id="bcGoButton" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/transparent-pixel._V386947693_.gif" title="开始" type="image"/>
+ <A class="bcCancelEdit" href="javascript:void(0)" id="bcCancelEdit">取消</A> <NOSCRIPT>&amp;lt;style
+type="text/css"&amp;gt; #bcSpan{display:none;} #bcJSnonCompatible
+{display:inline;} &amp;lt;/style&amp;gt;</NOSCRIPT></H1>
+</DIV>
+</DIV>
+</DIV>
+<SPAN class="bcSpan" id="bcSpan"><BR class="unfloat"/></SPAN></DIV>
+<DIV class="relatedSearches" id="relatedSearches">
+<SPAN>相关搜索：</SPAN> <A href="#/ref=sr_kk_1?rh=i%3Astripbooks%2Ck%3A%E6%95%B0%E5%AD%A6&amp;keywords=%E6%95%B0%E5%AD%A6&amp;ie=UTF8&amp;qid=1375112941">
+数学</A>, <A href="#/ref=sr_kk_2?rh=i%3Astripbooks%2Ck%3A%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85&amp;keywords=%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85&amp;ie=UTF8&amp;qid=1375112941">
+浪潮之巅</A>, <A href="#/ref=sr_kk_3?rh=i%3Astripbooks%2Ck%3A%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E&amp;keywords=%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941">
+编程之美</A>.</DIV>
+<DIV id="refinementsOnTopWrapper" style="display:none;">
+<DIV data-baserh="n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" data-browseladder="n%3A658390051" id="refinementsOnTop"/>
+<DIV id="seeMoreRefinementsWrapper" style="text-align:center">
+<DIV id="seeMoreRefinementsOnTop" style="display:none"><A class="seeMore seeMoreRefinementsButton" href="javascript:seeMoreRefinementsOnTop()"><SPAN style="color: #c60;font-size:7px;vertical-align:middle;">v</SPAN> 显示更多</A></DIV>
+<DIV id="seeLessRefinementsOnTop" style="display:none;"><A class="seeMore seeMoreRefinementsButton" href="javascript:seeLessRefinementsOnTop()"><SPAN style="color: #c60;font-size:7px;vertical-align:middle;">^</SPAN> 显示更少</A></DIV>
+</DIV>
+</DIV>
+<DIV id="topBar">
+<DIV class="srSprite spr_header hdr">
+<TABLE border="0" cellpadding="0" cellspacing="0" class="topBar" style="width:100%">
+<TBODY>
+<TR>
+<TD>
+<DIV class="topBarCol">
+<H2 class="resultCount" id="resultCount" style=""><SPAN>显示： 1-16条，
+共93条</SPAN></H2>
+</DIV>
+</TD>
+<TD>
+<DIV>
+<DIV class="sortBy" id="sortBy">
+<FORM action="http://www.amazon.cn/s/ref=sr_st" class="sortByForm" id="searchSortForm" method="get"><INPUT name="keywords" type="hidden" value="数学之美"/> <INPUT name="qid" type="hidden" value="1375112941"/>
+<INPUT name="rh" type="hidden" value="n:658390051,k:数学之美"/>
+<INPUT name="__mk_zh_CN" type="hidden" value="亚马逊网站"/> <LABEL class="sortByLabel" for="sort">排序： </LABEL><SELECT class="sortByDropdown" id="sort" name="sort" onchange="">
+<OPTION value="relevancerank">相关度</OPTION>
+<OPTION value="salesrank">人气</OPTION>
+<OPTION value="-pubdate">出版日期</OPTION>
+<OPTION value="-pct-off">折扣</OPTION>
+<OPTION value="price">价格：由低到高</OPTION>
+<OPTION value="-price">价格：由高到低</OPTION>
+<OPTION value="reviewrank_authority">用户评分</OPTION>
+</SELECT> <NOSCRIPT>&amp;lt;input type="image"
+src="http://g-ec4.images-amazon.com/images/G/28/buttons/go-orange-trans._V147201941_.gif"
+width="21" alt="开始" align="top" value="Go" height="21" border="0"
+/&amp;gt;</NOSCRIPT></FORM>
+</DIV>
+<BR clear="all"/></DIV>
+</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV>
+<BR clear="all"/></DIV>
+<DIV id="bestRefinement">
+<DIV id="BRtop">
+<H2>客户评分</H2>
+<BR class="unfloat"/></DIV>
+<A href="http://www.amazon.cn/s/ref=sr_nr_p_72_mrr_0?rh=n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%2Cp_72%3A2039727051&amp;bbn=658390051&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941&amp;rnid=664973051"/>
+<DIV class="bestValue">
+<DIV class="bestContent"><SPAN class="bestLink">5星级</SPAN>
+<SPAN class="bestCount">(7)</SPAN></DIV>
+</DIV>
+<A href="http://www.amazon.cn/s/ref=sr_nr_p_72_mrr_1?rh=n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%2Cp_72%3A2039714051&amp;bbn=658390051&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941&amp;rnid=664973051"/>
+<DIV class="bestValue">
+<DIV class="bestContent"><SPAN class="bestLink">4星及以上</SPAN>
+<SPAN class="bestCount">(74)</SPAN></DIV>
+</DIV>
+<A href="http://www.amazon.cn/s/ref=sr_nr_p_72_mrr_2?rh=n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%2Cp_72%3A2039715051&amp;bbn=658390051&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941&amp;rnid=664973051"/>
+<DIV class="bestValue">
+<DIV class="bestContent"><SPAN class="bestLink">3星及以上</SPAN>
+<SPAN class="bestCount">(83)</SPAN></DIV>
+</DIV>
+<A href="http://www.amazon.cn/s/ref=sr_nr_p_72_mrr_3?rh=n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%2Cp_72%3A2039716051&amp;bbn=658390051&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941&amp;rnid=664973051"/>
+<DIV class="bestValue">
+<DIV class="bestContent"><SPAN class="bestLink">2星及以上</SPAN>
+<SPAN class="bestCount">(84)</SPAN></DIV>
+</DIV>
+<A href="http://www.amazon.cn/s/ref=sr_nr_p_72_mrr_4?rh=n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%2Cp_72%3A2039717051&amp;bbn=658390051&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941&amp;rnid=664973051"/>
+<DIV class="bestValue">
+<DIV class="bestContent"><SPAN class="bestLink">1星及以上</SPAN>
+<SPAN class="bestCount">(85)</SPAN></DIV>
+</DIV>
+<DIV class="unfloat"/>
+</DIV>
+<DIV class="list results apsList" id="atfResults">
+<DIV class="fstRow prod celwidget" id="result_0" name="B0084ASO7E">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%90%B4%E5%86%9B/dp/B0084ASO7E/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-1&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51g++LDoeCL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%90%B4%E5%86%9B/dp/B0084ASO7E/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-1&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">数学之美</SPAN></A> <SPAN class="med reg">吴军 人民邮电出版社 (2012-05)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%90%B4%E5%86%9B/dp/B0084ASO7E/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-1&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%90%B4%E5%86%9B/dp/B0084ASO7E/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-1&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥45.00</A></DEL> <SPAN class="bld lrg red">￥32.50</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B0084ASO7E/ref=sr_1_1_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-1&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥32.00</SPAN> 新品
+<SPAN class="grey">(2卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B0084ASO7E" ref="sr_cr_"><A alt="平均4.5 星" href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%90%B4%E5%86%9B/product-reviews/B0084ASO7E/ref=sr_1_1_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.5 星" class="longReview" href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%90%B4%E5%86%9B/product-reviews/B0084ASO7E/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">373条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_0" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B0084ASO7E"/> <INPUT name="offeringID.1" type="hidden" value="TMPzwC4Cv1M7gvquPzE6zltKXeq4CGfjWdfFWmFbrA1mstAmRa3ypGdLnWTppgV3VXPpCxvdFWSloI%2Be3KQ3WmIpMtd0Bbsoj%2B91SQKenwRbs3PaO09X1B8Yi%2F6IIxrI"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-1"/>
+<DIV id="c_B0084ASO7E"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_0'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_0'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_1" name="B005DSK504">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B005DSK504/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-2&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51DtisU6DGL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B005DSK504/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-2&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">浪潮之巅</SPAN></A> <SPAN class="med reg">吴军 电子工业出版社 (2011-08)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B005DSK504/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-2&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B005DSK504/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-2&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥55.00</A></DEL> <SPAN class="bld lrg red">￥26.90</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B005DSK504/ref=sr_1_2_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-2&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥26.90</SPAN> 新品
+<SPAN class="grey">(2卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B005DSK504" ref="sr_cr_"><A alt="平均4.7 星" href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/product-reviews/B005DSK504/ref=sr_1_2_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.7 星" class="longReview" href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/product-reviews/B005DSK504/ref=sr_1_2_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">298条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_1" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B005DSK504"/> <INPUT name="offeringID.1" type="hidden" value="hhI7XXhkP%2BTeBx7cy033j2ZALr8oYb2SNmlODlIAYdyooT5WQOdU%2Fw8UNO4rgpQRvPgwUfV7d3i9tUcea2W1Rns7WAvb%2BP6BgPryqQtIum4wjO1iAYq4vnaUNOK8kxUS"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-2"/>
+<DIV id="c_B005DSK504"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_1'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_1'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+<LI class="bld sect">摘录</LI>
+<LI><A href="http://www.amazon.cn/gp/reader/B005DSK504/ref=sr_1_2?p=S01M&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941" target="_blank">第 30 页</A>: ... 研究经费,很多人离开IBM 去了华尔街。其中很多人,主要是一
+些<EM>数学</EM> ... 在本书中 <A href="http://www.amazon.cn/gp/reader/B005DSK504/ref=sr_1_2?p=random&amp;ie=UTF8&amp;qid=1375112941" target="_blank">更多内容</A>。</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_2" name="B007BLGE56">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E4%B9%8B%E7%BE%8E-%E5%8D%9A%E5%8D%A1%E5%BE%B7%E2%80%A2%E6%B3%A2%E6%96%AF%E7%89%B9/dp/B007BLGE56/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-3&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" onload="if (typeof uet =='function') { uet('af'); if(window.jQuery) {var $=jQuery,u=$.searchUE;if(u) {u.manageLoad();}} } if(window.amznJQ) {amznJQ.available('search-js-general', function() {SPUtils.triggerATFEvent();});}" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/61tOHy1iE5L._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E4%B9%8B%E7%BE%8E-%E5%8D%9A%E5%8D%A1%E5%BE%B7%E2%80%A2%E6%B3%A2%E6%96%AF%E7%89%B9/dp/B007BLGE56/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-3&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">数学证明之美</SPAN></A> <SPAN class="med reg">博卡德•波斯特、贺俊杰、 铁红玲 湖南科学技术出版社 (2012-09)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E4%B9%8B%E7%BE%8E-%E5%8D%9A%E5%8D%A1%E5%BE%B7%E2%80%A2%E6%B3%A2%E6%96%AF%E7%89%B9/dp/B007BLGE56/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-3&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E4%B9%8B%E7%BE%8E-%E5%8D%9A%E5%8D%A1%E5%BE%B7%E2%80%A2%E6%B3%A2%E6%96%AF%E7%89%B9/dp/B007BLGE56/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-3&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥15.00</A></DEL> <SPAN class="bld lrg red">￥9.30</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B007BLGE56/ref=sr_1_3_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-3&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥9.00</SPAN> 新品
+<SPAN class="grey">(21卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B007BLGE56" ref="sr_cr_"><A alt="平均4.4 星" href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E4%B9%8B%E7%BE%8E-%E5%8D%9A%E5%8D%A1%E5%BE%B7%E2%80%A2%E6%B3%A2%E6%96%AF%E7%89%B9/product-reviews/B007BLGE56/ref=sr_1_3_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.4 星" class="longReview" href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E4%B9%8B%E7%BE%8E-%E5%8D%9A%E5%8D%A1%E5%BE%B7%E2%80%A2%E6%B3%A2%E6%96%AF%E7%89%B9/product-reviews/B007BLGE56/ref=sr_1_3_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">7条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_2" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B007BLGE56"/> <INPUT name="offeringID.1" type="hidden" value="k%2BB0Z2XGc8vlhiOCO%2Bh%2FSAct%2F89LYsqX4zLCWUSam1qd0TGXJdoCv58i5sZwGAWGPXin5wvW7hHaIxlrgLllBpKT%2Bb5%2BUICN2dfnlLqQyyF31vNpM42c5Lg5yp8pcjxB"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-3"/>
+<DIV id="c_B007BLGE56"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_2'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_2'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+</UL>
+<BR clear="all"/></DIV>
+</DIV>
+</DIV>      </subtree>
+      <subtree>
+<DIV id="centerBelow">
+<DIV id="search-js-btf"><SCRIPT type="text/javascript">
+        amznJQ.available('search-js-general', function() {
+            SPUtils.triggerEvent("spFold");
+        });
+</SCRIPT> <SCRIPT type="text/javascript">
+        amznJQ.available('search-js-general', function(){
+            breadcrumbSearch();
+        });
+</SCRIPT> <SCRIPT type="text/javascript">
+        amznJQ.available('search-js-general', function(){
+            editableBreadcrumb();
+        });
+</SCRIPT> <SCRIPT type="text/javascript">
+        amznJQ.available('search-js-general', function() {
+            jQuery(function () {hoverOverImageTriggersTitleHover();});
+        });
+</SCRIPT> <SCRIPT type="text/javascript">
+        amznJQ.available("search-js-general", function () {
+            SPUtils.afterEvent("spATFEvent", function () {
+              registerAivHandler("atf");
+            });
+        });
+</SCRIPT> <SCRIPT type="text/javascript">
+        amznJQ.available("search-js-general", function () {
+            SPUtils.afterEvent("spATFEvent", function () {
+                setFinancialValidation();
+            });
+        });
+</SCRIPT> <SCRIPT type="text/javascript">
+            amznJQ.available('search-js-general', function() {
+                amznJQ.available('popover', function() {
+                    processPromotionsPopover();
+                });
+            });
+</SCRIPT> <SCRIPT type="text/javascript">
+        amznJQ.available('search-js-general', function() {
+          if (typeof processBundlesFlyouts == 'function') {
+              processBundlesFlyouts('atf');
+          }
+        });
+</SCRIPT></DIV>
+<DIV id="search-js-btf-external"><SCRIPT type="text/javascript">
+
+    function reviewHistPingAjax() {
+      jQuery.get("/gp/customer-reviews/common/du/recordHistoPopAjax.html", null);
+    }
+
+    var reviewHistPopoverConfig = {
+      showOnHover:true,
+      showCloseButton: false,
+      width:null,
+      location:'bottom',
+      locationAlign:'left',
+      locationOffset:[-20,0],
+      group: 'reviewsPopover',
+      clone:false,
+      hoverHideDelay:300
+    };
+    
+</SCRIPT> <SCRIPT type="text/javascript">
+    amznJQ.onReady('popover', function() {
+      jQuery('.asinReviewsSummary').each(
+        function() {
+          if (typeof jQuery(this).removeAmazonPopoverTrigger === 'function' &amp;&amp; typeof jQuery(this).amazonPopoverTrigger === 'function') {
+            jQuery(this).removeAmazonPopoverTrigger();
+            var asin = jQuery(this).attr('name');
+            var ref = jQuery(this).attr('ref');
+            var getargs = jQuery(this).attr('getargs');
+  
+            var remoteContentAddr =
+              '/gp/customer-reviews/common/du/displayHistoPopAjax.html?' +
+              '&amp;ASIN=' + asin +
+              '&amp;link=1' +
+              '&amp;seeall=1' + 
+              '&amp;ref=' + ref;
+            if (typeof getargs != 'undefined') {
+                remoteContentAddr += '&amp;getargs=' + getargs;
+            }
+  
+            var myConfig = jQuery.extend(true, {}, reviewHistPopoverConfig);
+            myConfig.destination = remoteContentAddr;
+            jQuery(this).amazonPopoverTrigger(myConfig);
+          }
+        }
+      );
+    });
+</SCRIPT> <SCRIPT language="javascript" type="text/javascript">
+var cloudfrontImg = new Image();if (location.protocol == "http:") {if (window.addEventListener) {window.addEventListener("load", function() {setTimeout(function(){ cloudfrontImg.src = "http://cloudfront-labs.amazonaws.com/x.png"; }, 400);}, false);} else if (window.attachEvent) {window.attachEvent("onload", function() {setTimeout(function(){ cloudfrontImg.src = "http://cloudfront-labs.amazonaws.com/x.png"; }, 400);});}} 
+</SCRIPT></DIV>
+<DIV class="list results apsList" id="btfResults">
+<DIV class="rslt prod celwidget" id="result_3" name="B008G29PZU">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0-%E9%A1%BE%E6%A3%AE/dp/B008G29PZU/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-4&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/510y46baK1L._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0-%E9%A1%BE%E6%A3%AE/dp/B008G29PZU/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-4&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">思考的乐趣:Matrix67数学笔记</SPAN></A>
+<SPAN class="med reg">顾森 人民邮电出版社 (2012-07)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0-%E9%A1%BE%E6%A3%AE/dp/B008G29PZU/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-4&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0-%E9%A1%BE%E6%A3%AE/dp/B008G29PZU/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-4&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥45.00</A></DEL> <SPAN class="bld lrg red">￥36.70</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B008G29PZU" ref="sr_cr_"><A alt="平均4.3 星" href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0-%E9%A1%BE%E6%A3%AE/product-reviews/B008G29PZU/ref=sr_1_4_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.3 星" class="longReview" href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0-%E9%A1%BE%E6%A3%AE/product-reviews/B008G29PZU/ref=sr_1_4_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">67条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_3" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B008G29PZU"/> <INPUT name="offeringID.1" type="hidden" value="1pfmBQ8NWAUnWB3FIgLFXufSaj1zzOuId711Mb56%2B5dw6kox0vjQ1HMrV0psbXL%2BH1PiZQnR%2FPH4EusE2l2wfhMNPaup1Mss5GcC27C3l2ck0g2BW6SRca8o1zcyySlp"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-4"/>
+<DIV id="c_B008G29PZU"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_3'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_3'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+<LI class="bld sect">摘录</LI>
+<LI><A href="http://www.amazon.cn/gp/reader/B008G29PZU/ref=sr_1_4?p=S01Y&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941" target="_blank">第 54 页</A>: ... 第二部分 <EM>数学之美</EM> 在数学发展的过程中,很多时候提
+... 在本书中 <A href="http://www.amazon.cn/gp/reader/B008G29PZU/ref=sr_1_4?p=random&amp;ie=UTF8&amp;qid=1375112941" target="_blank">更多内容</A>。</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_4" name="B0016K8XGQ">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97-%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%B0%8F%E7%BB%84/dp/B0016K8XGQ/ref=sr_1_5?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-5&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51SMZP0XCKL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97-%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%B0%8F%E7%BB%84/dp/B0016K8XGQ/ref=sr_1_5?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-5&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">编程之美:微软技术面试心得</SPAN></A>
+<SPAN class="med reg">《编程之美》小组 电子工业出版社 (2008-03)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97-%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%B0%8F%E7%BB%84/dp/B0016K8XGQ/ref=sr_1_5?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-5&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97-%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%B0%8F%E7%BB%84/dp/B0016K8XGQ/ref=sr_1_5?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-5&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥40.00</A></DEL> <SPAN class="bld lrg red">￥30.70</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B0016K8XGQ" ref="sr_cr_"><A alt="平均4.4 星" href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97-%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%B0%8F%E7%BB%84/product-reviews/B0016K8XGQ/ref=sr_1_5_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.4 星" class="longReview" href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97-%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%B0%8F%E7%BB%84/product-reviews/B0016K8XGQ/ref=sr_1_5_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">358条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_4" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B0016K8XGQ"/> <INPUT name="offeringID.1" type="hidden" value="l5PwSK8VttPSIt72A8d66PJa2HQTa0%2B%2BjrVaKObkssyTBEqICT2uHbGC%2FO4EUq%2F%2FTdBwIJTa6OE59fVwpBks2dWRJWXp4bJ630jXTcswux22E45tghzzQQ%3D%3D"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-5"/>
+<DIV id="c_B0016K8XGQ"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_4'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_4'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+<LI class="bld sect">摘录</LI>
+<LI><A href="http://www.amazon.cn/gp/reader/B0016K8XGQ/ref=sr_1_5?p=S023&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941" target="_blank">第 40 页</A>: ... 让我们回忆一下以前<EM>数学</EM> ... 在本书中
+<A href="http://www.amazon.cn/gp/reader/B0016K8XGQ/ref=sr_1_5?p=random&amp;ie=UTF8&amp;qid=1375112941" target="_blank">更多内容</A>。</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_5" name="B007VI2688">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E4%B8%80%E7%94%9F%E5%8F%97%E7%94%A8%E7%9A%84%E5%85%AC%E5%BC%8F-%E6%B2%83%E7%89%B9%E9%87%91%E6%96%AF/dp/B007VI2688/ref=sr_1_6?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-6&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" onload="if (typeof uet =='function') { uet('cf'); if(window.jQuery) {var $=jQuery,u=$.searchUE;if(u) {u.manageLoad();}} }" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51BZvTcXS-L._AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E4%B8%80%E7%94%9F%E5%8F%97%E7%94%A8%E7%9A%84%E5%85%AC%E5%BC%8F-%E6%B2%83%E7%89%B9%E9%87%91%E6%96%AF/dp/B007VI2688/ref=sr_1_6?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-6&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">一生受用的公式</SPAN></A> <SPAN class="med reg">沃特金斯(Matthew Watkins)、特威德(Matt Tweed)、 张菽 湖南科科学技术出版社
+(2012-03)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E4%B8%80%E7%94%9F%E5%8F%97%E7%94%A8%E7%9A%84%E5%85%AC%E5%BC%8F-%E6%B2%83%E7%89%B9%E9%87%91%E6%96%AF/dp/B007VI2688/ref=sr_1_6?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-6&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E4%B8%80%E7%94%9F%E5%8F%97%E7%94%A8%E7%9A%84%E5%85%AC%E5%BC%8F-%E6%B2%83%E7%89%B9%E9%87%91%E6%96%AF/dp/B007VI2688/ref=sr_1_6?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-6&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥15.00</A></DEL> <SPAN class="bld lrg red">￥11.70</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B007VI2688/ref=sr_1_6_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-6&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥11.30</SPAN> 新品
+<SPAN class="grey">(12卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B007VI2688" ref="sr_cr_"><A alt="平均3.3 星" href="http://www.amazon.cn/%E4%B8%80%E7%94%9F%E5%8F%97%E7%94%A8%E7%9A%84%E5%85%AC%E5%BC%8F-%E6%B2%83%E7%89%B9%E9%87%91%E6%96%AF/product-reviews/B007VI2688/ref=sr_1_6_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均3.3 星" class="longReview" href="http://www.amazon.cn/%E4%B8%80%E7%94%9F%E5%8F%97%E7%94%A8%E7%9A%84%E5%85%AC%E5%BC%8F-%E6%B2%83%E7%89%B9%E9%87%91%E6%96%AF/product-reviews/B007VI2688/ref=sr_1_6_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">4条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_5" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B007VI2688"/> <INPUT name="offeringID.1" type="hidden" value="LEOmQRTBea2cfmlgMZRQa08%2BmaH37zrJrmkHVC79b5KmzPZq4i6k%2BJAkEOwfrlQbS6EXZyBrmr%2BYY2EM%2FA9yWqSLo1zvp1H5PetNhl3wJn8H3LtTu5BNnKRE6DZyvdmv"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-6"/>
+<DIV id="c_B007VI2688"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_5'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_5'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_6" name="B005DSK4W8">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%9A%97%E6%97%B6%E9%97%B4-%E5%88%98%E6%9C%AA%E9%B9%8F/dp/B005DSK4W8/ref=sr_1_7?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-7&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/41XhpA+qiVL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%9A%97%E6%97%B6%E9%97%B4-%E5%88%98%E6%9C%AA%E9%B9%8F/dp/B005DSK4W8/ref=sr_1_7?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-7&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">暗时间</SPAN></A> <SPAN class="med reg">刘未鹏 电子工业出版社 (2011-08)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%9A%97%E6%97%B6%E9%97%B4-%E5%88%98%E6%9C%AA%E9%B9%8F/dp/B005DSK4W8/ref=sr_1_7?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-7&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E6%9A%97%E6%97%B6%E9%97%B4-%E5%88%98%E6%9C%AA%E9%B9%8F/dp/B005DSK4W8/ref=sr_1_7?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-7&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥35.00</A></DEL> <SPAN class="bld lrg red">￥20.60</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B005DSK4W8/ref=sr_1_7_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-7&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥20.60</SPAN> 新品
+<SPAN class="grey">(35卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B005DSK4W8" ref="sr_cr_"><A alt="平均4.4 星" href="http://www.amazon.cn/%E6%9A%97%E6%97%B6%E9%97%B4-%E5%88%98%E6%9C%AA%E9%B9%8F/product-reviews/B005DSK4W8/ref=sr_1_7_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.4 星" class="longReview" href="http://www.amazon.cn/%E6%9A%97%E6%97%B6%E9%97%B4-%E5%88%98%E6%9C%AA%E9%B9%8F/product-reviews/B005DSK4W8/ref=sr_1_7_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">157条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_6" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B005DSK4W8"/> <INPUT name="offeringID.1" type="hidden" value="jMyryEGswFLXi4cvmc2n2vnhbHcLVDvTf6s62%2FAcEuKK3bsFPvy2QHq0kbhNkgCD70pa3QgaYYJ7ypgWwGk7kp5pbNotoOGj0dQGIW%2F767wHfUgncaW7I2UnSKZvaLGt"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-7"/>
+<DIV id="c_B005DSK4W8"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_6'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_6'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+<LI class="bld sect">摘录</LI>
+<LI><A href="http://www.amazon.cn/gp/reader/B005DSK4W8/ref=sr_1_7?p=S02H&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941" target="_blank">第 67 页</A>: ... 或者说“证据(evidence )”一
+了解贝叶斯方法(“<EM>数学之美</EM> ... 在本书中 <A href="http://www.amazon.cn/gp/reader/B005DSK4W8/ref=sr_1_7?p=random&amp;ie=UTF8&amp;qid=1375112941" target="_blank">更多内容</A>。</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_7" name="B007BLGDR0">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E7%A5%9E%E5%9C%A3%E7%9A%84%E6%95%B0-%E6%95%B0%E5%AD%97%E8%83%8C%E5%90%8E%E7%9A%84%E7%A5%9E%E7%A7%98%E5%90%AB%E4%B9%89-%E7%B1%B3%E5%85%B0%E8%BE%BE%E2%80%A2%E4%BC%A6%E8%BF%AA/dp/B007BLGDR0/ref=sr_1_8?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-8&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51MojXFQsBL._AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E7%A5%9E%E5%9C%A3%E7%9A%84%E6%95%B0-%E6%95%B0%E5%AD%97%E8%83%8C%E5%90%8E%E7%9A%84%E7%A5%9E%E7%A7%98%E5%90%AB%E4%B9%89-%E7%B1%B3%E5%85%B0%E8%BE%BE%E2%80%A2%E4%BC%A6%E8%BF%AA/dp/B007BLGDR0/ref=sr_1_8?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-8&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">神圣的数:数字背后的神秘含义</SPAN></A>
+<SPAN class="med reg">米兰达•伦迪 (Miranda Lundy)、贺俊杰、 铁红玲 湖南科学技术出版社
+(2012-01)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E7%A5%9E%E5%9C%A3%E7%9A%84%E6%95%B0-%E6%95%B0%E5%AD%97%E8%83%8C%E5%90%8E%E7%9A%84%E7%A5%9E%E7%A7%98%E5%90%AB%E4%B9%89-%E7%B1%B3%E5%85%B0%E8%BE%BE%E2%80%A2%E4%BC%A6%E8%BF%AA/dp/B007BLGDR0/ref=sr_1_8?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-8&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E7%A5%9E%E5%9C%A3%E7%9A%84%E6%95%B0-%E6%95%B0%E5%AD%97%E8%83%8C%E5%90%8E%E7%9A%84%E7%A5%9E%E7%A7%98%E5%90%AB%E4%B9%89-%E7%B1%B3%E5%85%B0%E8%BE%BE%E2%80%A2%E4%BC%A6%E8%BF%AA/dp/B007BLGDR0/ref=sr_1_8?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-8&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥15.00</A></DEL> <SPAN class="bld lrg red">￥9.30</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN> <SPAN class="srSprite sprAddOn" title="包含加购商品的由亚马逊配送的订单只有满79元才能配送，并享受免费送货。"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B007BLGDR0/ref=sr_1_8_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-8&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥8.60</SPAN> 新品
+<SPAN class="grey">(18卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B007BLGDR0" ref="sr_cr_"><A alt="平均3 星" href="http://www.amazon.cn/%E7%A5%9E%E5%9C%A3%E7%9A%84%E6%95%B0-%E6%95%B0%E5%AD%97%E8%83%8C%E5%90%8E%E7%9A%84%E7%A5%9E%E7%A7%98%E5%90%AB%E4%B9%89-%E7%B1%B3%E5%85%B0%E8%BE%BE%E2%80%A2%E4%BC%A6%E8%BF%AA/product-reviews/B007BLGDR0/ref=sr_1_8_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均3 星" class="longReview" href="http://www.amazon.cn/%E7%A5%9E%E5%9C%A3%E7%9A%84%E6%95%B0-%E6%95%B0%E5%AD%97%E8%83%8C%E5%90%8E%E7%9A%84%E7%A5%9E%E7%A7%98%E5%90%AB%E4%B9%89-%E7%B1%B3%E5%85%B0%E8%BE%BE%E2%80%A2%E4%BC%A6%E8%BF%AA/product-reviews/B007BLGDR0/ref=sr_1_8_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">1条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_7" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B007BLGDR0"/> <INPUT name="offeringID.1" type="hidden" value="E91TV%2FfEKSyvOD9HxP06DBrutDhuIL1ZlojrBuMR5yWSgY2y1H09j3WkMJFaC5AY%2FSEC8Pibo0vNgrBFdZSzdb4ZfwyEDrySCsl5dmga61Ibdghp4AjQPXE6%2Fse3volv"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-8"/>
+<DIV id="c_B007BLGDR0"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_7'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_7'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_8" name="B006UB0ESG">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E7%A0%94%E7%A9%B6%E4%B9%8B%E7%BE%8E-%E9%AB%98%E5%BE%B7%E7%BA%B3/dp/B006UB0ESG/ref=sr_1_9?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-9&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51UtP+bSZBL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E7%A0%94%E7%A9%B6%E4%B9%8B%E7%BE%8E-%E9%AB%98%E5%BE%B7%E7%BA%B3/dp/B006UB0ESG/ref=sr_1_9?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-9&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">研究之美(汉英对照)</SPAN></A>
+<SPAN class="med reg">高德纳 (Knuth D.E.)、 高博 电子工业出版社
+(2012-01)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E7%A0%94%E7%A9%B6%E4%B9%8B%E7%BE%8E-%E9%AB%98%E5%BE%B7%E7%BA%B3/dp/B006UB0ESG/ref=sr_1_9?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-9&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E7%A0%94%E7%A9%B6%E4%B9%8B%E7%BE%8E-%E9%AB%98%E5%BE%B7%E7%BA%B3/dp/B006UB0ESG/ref=sr_1_9?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-9&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥49.00</A></DEL> <SPAN class="bld lrg red">￥39.20</SPAN> <SPAN class="lrg">精装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 精装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B006UB0ESG/ref=sr_1_9_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-9&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥33.30</SPAN> 新品
+<SPAN class="grey">(37卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B006UB0ESG" ref="sr_cr_"><A alt="平均3.8 星" href="http://www.amazon.cn/%E7%A0%94%E7%A9%B6%E4%B9%8B%E7%BE%8E-%E9%AB%98%E5%BE%B7%E7%BA%B3/product-reviews/B006UB0ESG/ref=sr_1_9_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均3.8 星" class="longReview" href="http://www.amazon.cn/%E7%A0%94%E7%A9%B6%E4%B9%8B%E7%BE%8E-%E9%AB%98%E5%BE%B7%E7%BA%B3/product-reviews/B006UB0ESG/ref=sr_1_9_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">29条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_8" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B006UB0ESG"/> <INPUT name="offeringID.1" type="hidden" value="crJTzDoMmYXoZdbFYPcKlh2%2F%2BPMCZLzHiVNPm2ySQxHYEuWMGpJM9JYchojsc0gq0HxRkNiYkOq1HGUBkyDYN0tzIJwHy9kG%2FfUpkCRt%2Bs3my69WjeGnsC0fn8XKuOyV"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-9"/>
+<DIV id="c_B006UB0ESG"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_8'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_8'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+<LI class="bld sect">摘录</LI>
+<LI><A href="http://www.amazon.cn/gp/reader/B006UB0ESG/ref=sr_1_9?p=S007&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941" target="_blank">第 1 页</A>: ...
+通过引人入胜的对白和推理来展开情节,为我们展现了<EM>数学</EM>、方程 式、逻辑和算法<EM>之美</EM>。 研 ...
+在本书中 <A href="http://www.amazon.cn/gp/reader/B006UB0ESG/ref=sr_1_9?p=random&amp;ie=UTF8&amp;qid=1375112941" target="_blank">更多内容</A>。</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_9" name="B001GNBZFE">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91-Jon-Bentley/dp/B001GNBZFE/ref=sr_1_10?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-10&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/41XWr5AKHDL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91-Jon-Bentley/dp/B001GNBZFE/ref=sr_1_10?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-10&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">编程珠玑(第2版)</SPAN></A> <SPAN class="med reg">Jon Bentley、黄倩、 钱丽艳 人民邮电出版社 (2008-10)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91-Jon-Bentley/dp/B001GNBZFE/ref=sr_1_10?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-10&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91-Jon-Bentley/dp/B001GNBZFE/ref=sr_1_10?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-10&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥39.00</A></DEL> <SPAN class="bld lrg red">￥29.50</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B001GNBZFE/ref=sr_1_10_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-10&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥29.30</SPAN> 新品
+<SPAN class="grey">(2卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B001GNBZFE" ref="sr_cr_"><A alt="平均4.5 星" href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91-Jon-Bentley/product-reviews/B001GNBZFE/ref=sr_1_10_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.5 星" class="longReview" href="http://www.amazon.cn/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91-Jon-Bentley/product-reviews/B001GNBZFE/ref=sr_1_10_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">211条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_9" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B001GNBZFE"/> <INPUT name="offeringID.1" type="hidden" value="xhB7HYe4dv9bjd7W11JvRY4jKmyuuF6SC7JAz0MtWjDo5QZ9yXBljwJ3ehcQoEzXBLo9JMKprGmfpRV880PrEyvFIaoMJW%2Fl8CyS7VAOxj%2BFI101KmQhLA%3D%3D"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-10"/>
+<DIV id="c_B001GNBZFE"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_9'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_9'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+<LI class="bld sect">摘录</LI>
+<LI><A href="http://www.amazon.cn/gp/reader/B001GNBZFE/ref=sr_1_10?p=S00R&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941" target="_blank">第 11 页</A>: ... 1914
+一),美国著名的科普作家,主持《科学美国人》的<EM>数学</EM>游戏专栏25 ... 在本书中 <A href="http://www.amazon.cn/gp/reader/B001GNBZFE/ref=sr_1_10?p=random&amp;ie=UTF8&amp;qid=1375112941" target="_blank">更多内容</A>。</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_10" name="B0087W46RG">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B0087W46RG/ref=sr_1_11?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-11&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51ukdQMN-fL._AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B0087W46RG/ref=sr_1_11?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-11&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">数学之美+浪潮之巅(套装共2册)</SPAN></A>
+<SPAN class="med reg">吴军 (2011)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B0087W46RG/ref=sr_1_11?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-11&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="bld lrg red">￥85.00</SPAN>
+<SPAN class="lrg">平装</SPAN></A></LI>
+<LI><SPAN class="red sml">此商品仅剩 2 件 - 欲购从速。</SPAN></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B0087W46RG" ref="sr_cr_"><A alt="平均4 星" href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/product-reviews/B0087W46RG/ref=sr_1_11_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4 星" class="longReview" href="http://www.amazon.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/product-reviews/B0087W46RG/ref=sr_1_11_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">1条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_10" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B0087W46RG"/> <INPUT name="offeringID.1" type="hidden" value="d%2FBpye%2BdLuj8Ov94a5EXQ%2FIXG64a2zD2jfAD48MKGXEvfdm8t6NBdrX5qLOW5hq0kVtm26f5yiVmvCu4qR%2B3JjzxwRtW3M3UJQv5MWNMV1aP5Cmc0oVe3hFaXShXwLh0dwNlkNRAqwaadfbTPjlAjtd9OM1j5j6m"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-11"/>
+<DIV id="c_B0087W46RG"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_10'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_10'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_11" name="B00D73BJWK">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B00D73BJWK/ref=sr_1_12?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-12&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51ylgPbKq7L._AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B00D73BJWK/ref=sr_1_12?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-12&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">浪潮之巅(第2版)(套装共2册)</SPAN></A>
+<SPAN class="med reg">吴军 人民邮电出版社 (2013-07)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B00D73BJWK/ref=sr_1_12?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-12&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/dp/B00D73BJWK/ref=sr_1_12?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-12&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥80.00</A></DEL> <SPAN class="bld lrg red">￥59.50</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B00D73BJWK" ref="sr_cr_"><A alt="平均4.5 星" href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/product-reviews/B00D73BJWK/ref=sr_1_12_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.5 星" class="longReview" href="http://www.amazon.cn/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85-%E5%90%B4%E5%86%9B/product-reviews/B00D73BJWK/ref=sr_1_12_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">16条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_11" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B00D73BJWK"/> <INPUT name="offeringID.1" type="hidden" value="TjCEV%2BwLprb4P74ZGRj41XGuGhxa%2BiYUA4tvo9Xf9wDcS95ZtnUWVv0CWhBGiAxTt1yPrFzpRJYUmkGlWr8X5ediWDsag4Wh9p%2BqOZ%2FLH%2BbZieqyeMS61F199zznz1vL"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-12"/>
+<DIV id="c_B00D73BJWK"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_11'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_11'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_12" name="B00AR8S1MY">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E5%A4%A9%E6%89%8D%E5%BC%95%E5%AF%BC%E7%9A%84%E5%8E%86%E7%A8%8B-%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%AE%9A%E7%90%86-%E9%82%93%E7%BA%B3%E5%A7%86/dp/B00AR8S1MY/ref=sr_1_13?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-13&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51UIRR7sxHL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E5%A4%A9%E6%89%8D%E5%BC%95%E5%AF%BC%E7%9A%84%E5%8E%86%E7%A8%8B-%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%AE%9A%E7%90%86-%E9%82%93%E7%BA%B3%E5%A7%86/dp/B00AR8S1MY/ref=sr_1_13?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-13&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">天才引导的历程:数学中的伟大定理</SPAN></A>
+<SPAN class="med reg">邓纳姆 (William Dunham)、李繁荣、 李莉萍 机械工业出版社
+(2013-01)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E5%A4%A9%E6%89%8D%E5%BC%95%E5%AF%BC%E7%9A%84%E5%8E%86%E7%A8%8B-%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%AE%9A%E7%90%86-%E9%82%93%E7%BA%B3%E5%A7%86/dp/B00AR8S1MY/ref=sr_1_13?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-13&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E5%A4%A9%E6%89%8D%E5%BC%95%E5%AF%BC%E7%9A%84%E5%8E%86%E7%A8%8B-%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%AE%9A%E7%90%86-%E9%82%93%E7%BA%B3%E5%A7%86/dp/B00AR8S1MY/ref=sr_1_13?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-13&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥45.00</A></DEL> <SPAN class="bld lrg red">￥30.70</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B00AR8S1MY/ref=sr_1_13_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-13&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥30.50</SPAN> 新品
+<SPAN class="grey">(2卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B00AR8S1MY" ref="sr_cr_"><A alt="平均4.5 星" href="http://www.amazon.cn/%E5%A4%A9%E6%89%8D%E5%BC%95%E5%AF%BC%E7%9A%84%E5%8E%86%E7%A8%8B-%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%AE%9A%E7%90%86-%E9%82%93%E7%BA%B3%E5%A7%86/product-reviews/B00AR8S1MY/ref=sr_1_13_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.5 星" class="longReview" href="http://www.amazon.cn/%E5%A4%A9%E6%89%8D%E5%BC%95%E5%AF%BC%E7%9A%84%E5%8E%86%E7%A8%8B-%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%AE%9A%E7%90%86-%E9%82%93%E7%BA%B3%E5%A7%86/product-reviews/B00AR8S1MY/ref=sr_1_13_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">19条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_12" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B00AR8S1MY"/> <INPUT name="offeringID.1" type="hidden" value="24VZ9SvbNB6ZBQhc1kbLQvwtF8NPw90%2B%2F4k%2B6C2HwD44fIgLZxksZxNBS1s4ID8Fsk38WPtoMbCla0u2Ey9rYUdsjqrlHbmaW7TvG%2BZmYJ3F2%2BmI%2FzPD2zqcnKvq92gR"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-13"/>
+<DIV id="c_B00AR8S1MY"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_12'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_12'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+<LI class="bld sect">摘录</LI>
+<LI><A href="http://www.amazon.cn/gp/reader/B00AR8S1MY/ref=sr_1_13?p=S007&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941" target="_blank">第 3 页</A>: ... 如此虔诚地饭依数学,然而有许多人能
+够领会数学的力量,特别是领会<EM>数学之美</EM>。本书谨献给那些希 ... 在本书中 <A href="http://www.amazon.cn/gp/reader/B00AR8S1MY/ref=sr_1_13?p=random&amp;ie=UTF8&amp;qid=1375112941" target="_blank">更多内容</A>。</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_13" name="B00AY1MH1K">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C-%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E7%9A%84%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E9%87%91%E5%9F%BA%E6%AD%A3/dp/B00AY1MH1K/ref=sr_1_14?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-14&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/512ncNZOmGL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C-%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E7%9A%84%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E9%87%91%E5%9F%BA%E6%AD%A3/dp/B00AY1MH1K/ref=sr_1_14?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-14&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">星战前夜:阿基米德的数学之美</SPAN></A>
+<SPAN class="med reg">金基正、 千太阳 人民邮电出版社 (2013-01)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C-%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E7%9A%84%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E9%87%91%E5%9F%BA%E6%AD%A3/dp/B00AY1MH1K/ref=sr_1_14?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-14&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C-%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E7%9A%84%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E9%87%91%E5%9F%BA%E6%AD%A3/dp/B00AY1MH1K/ref=sr_1_14?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-14&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥35.00</A></DEL> <SPAN class="bld lrg red">￥28.00</SPAN> <SPAN class="lrg">平装</SPAN>
+<SPAN class="srSprite spr_cod"> </SPAN></LI>
+<LI><SPAN class="med avblity">部分地区<SPAN class="bld grn">明天</SPAN>即可送达</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B00AY1MH1K/ref=sr_1_14_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-14&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥23.00</SPAN> 新品
+<SPAN class="grey">(28卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B00AY1MH1K" ref="sr_cr_"><A alt="平均1 星" href="http://www.amazon.cn/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C-%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E7%9A%84%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E9%87%91%E5%9F%BA%E6%AD%A3/product-reviews/B00AY1MH1K/ref=sr_1_14_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均1 星" class="longReview" href="http://www.amazon.cn/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C-%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E7%9A%84%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E9%87%91%E5%9F%BA%E6%AD%A3/product-reviews/B00AY1MH1K/ref=sr_1_14_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">1条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_13" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B00AY1MH1K"/> <INPUT name="offeringID.1" type="hidden" value="skZcLgskSHG2jVq23wzdu7xKDn3r9v2OcAOKKKG%2F1AriNhIU%2BrD%2FwN976%2FO1OT9l5lBGnd1sWiGupMIo25UoLV7pbtEnM5CXKXYldzgej5aznSob6nGBIiU2n3XdS3O%2B"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-14"/>
+<DIV id="c_B00AY1MH1K"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_13'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_13'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_14" name="B0081BC7O2">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%BE%BE%E8%8A%AC%E5%A5%87%E5%AF%86%E7%A0%81-35%E9%97%AE%E6%8F%AD%E7%A4%BA%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF/dp/B0081BC7O2/ref=sr_1_15?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-15&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/51QckDwiOaL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU28_AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%BE%BE%E8%8A%AC%E5%A5%87%E5%AF%86%E7%A0%81-35%E9%97%AE%E6%8F%AD%E7%A4%BA%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF/dp/B0081BC7O2/ref=sr_1_15?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-15&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">如何破解达芬奇密码?:35问揭示数学之美</SPAN></A>
+<SPAN class="med reg">埃尔维斯(Richard Elwes) 人民邮电出版社
+(2012-06)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%BE%BE%E8%8A%AC%E5%A5%87%E5%AF%86%E7%A0%81-35%E9%97%AE%E6%8F%AD%E7%A4%BA%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF/dp/B0081BC7O2/ref=sr_1_15?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-15&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"/><DEL class="grey"><A href="http://www.amazon.cn/%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%BE%BE%E8%8A%AC%E5%A5%87%E5%AF%86%E7%A0%81-35%E9%97%AE%E6%8F%AD%E7%A4%BA%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF/dp/B0081BC7O2/ref=sr_1_15?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-15&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank">￥39.00</A></DEL> <SPAN class="bld lrg red">￥25.00</SPAN> <SPAN class="lrg">平装</SPAN></LI>
+<LI><SPAN class="red sml">此商品仅剩 1 件 - 欲购从速。</SPAN></LI>
+<LI class="sect mbc">更多购买选择 - 平装</LI>
+<LI class="med grey mkp2"><A href="http://www.amazon.cn/gp/offer-listing/B0081BC7O2/ref=sr_1_15_olp?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-15&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;condition=new" target="_blank"><SPAN class="price bld">￥24.60</SPAN> 新品
+<SPAN class="grey">(26卖家)</SPAN></A></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B0081BC7O2" ref="sr_cr_"><A alt="平均4.5 星" href="http://www.amazon.cn/%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%BE%BE%E8%8A%AC%E5%A5%87%E5%AF%86%E7%A0%81-35%E9%97%AE%E6%8F%AD%E7%A4%BA%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF/product-reviews/B0081BC7O2/ref=sr_1_15_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.5 星" class="longReview" href="http://www.amazon.cn/%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%BE%BE%E8%8A%AC%E5%A5%87%E5%AF%86%E7%A0%81-35%E9%97%AE%E6%8F%AD%E7%A4%BA%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF/product-reviews/B0081BC7O2/ref=sr_1_15_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">2条评论</A>)</SPAN></LI>
+<LI>
+<FORM action="http://www.amazon.cn/gp/item-dispatch/ref=sr_add_sc_14" class="addtocart" method="post" target="_blank"><INPUT name="session-id" type="hidden" value="478-2168711-0796340"/> <INPUT name="asin" type="hidden" value="B0081BC7O2"/> <INPUT name="offeringID.1" type="hidden" value="QmNyqT0Auj6BLjqfyRWKJyuR1Xe4ITKf70kk72PaIw7U4qiylf9lOi03GVn4VYuXfL5DtqX%2BP0eBoM1HAU6q0nNMw0JU4nepMEkQjHSQydCYKYa9mTkEHft5wX94ohaYpMq%2BUnhc%2Bb6uTvpk%2FUJpCS19oV1e%2BpkC"/>
+ <INPUT name="qid" type="hidden" value="1375112941"/> <INPUT name="sr" type="hidden" value="1-15"/>
+<DIV id="c_B0081BC7O2"><SPAN style="whitespace: nowrap;"><INPUT alt="将商品添加到购物车" border="0" class="button" height="21" name="submit.addToCart" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_sc_14'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-cart-md-p._V192234540_.gif" type="image" value="addToCart" width="71"/>
+<INPUT alt="加入心愿单" border="0" class="button" height="22" name="submit.add-to-registry.wishlist" onclick="this.form.action='/gp/item-dispatch/ref=sr_add_wl_14'" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/add-to-wish-list-115x22._V201157329_.gif" type="image" width="85"/></SPAN></DIV>
+</FORM>
+</LI>
+</UL>
+<BR clear="all"/></DIV>
+<DIV class="rslt prod celwidget" id="result_15" name="B00ALPRLM4">
+<DIV class="linePlaceholder"/>
+<DIV class="image imageContainer"><A href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/dp/B00ALPRLM4/ref=sr_1_16?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-16&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><IMG alt="产品详细信息" class="productImage" src="./%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%20-%20%E5%9B%BE%E4%B9%A6%20-%20%E4%BA%9A%E9%A9%AC%E9%80%8A_files/41-hzAhPIrL._AA160_.jpg"/></A></DIV>
+<H3 class="newaps"><A href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/dp/B00ALPRLM4/ref=sr_1_16?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-16&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="lrg">思考的乐趣:Matrix67数学笔记</SPAN></A>
+<SPAN class="med reg">顾森 人民邮电出版社 (2013-03)</SPAN></H3>
+<UL class="rsltL">
+<LI class="newp"><A href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/dp/B00ALPRLM4/ref=sr_1_16?s=books&amp;ie=UTF8&amp;qid=1375112941&amp;sr=1-16&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E" target="_blank"><SPAN class="bld lrg red">￥18.00</SPAN>
+<SPAN class="lrg">Kindle版</SPAN></A></LI>
+<LI><SPAN class="med avblity">现在可以下载。</SPAN></LI>
+</UL>
+<UL class="rsltR dkGrey">
+<LI class="rvw"><SPAN class="asinReviewsSummary" name="B00ALPRLM4" ref="sr_cr_"><A alt="平均4.3 星" href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/product-reviews/B00ALPRLM4/ref=sr_1_16_cm_cr_acr_img?ie=UTF8&amp;showViewpoints=1" target="_blank"> </A></SPAN> <SPAN class="rvwCnt">(<A alt="平均4.3 星" class="longReview" href="http://www.amazon.cn/%E6%80%9D%E8%80%83%E7%9A%84%E4%B9%90%E8%B6%A3-Matrix67%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/product-reviews/B00ALPRLM4/ref=sr_1_16_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1" target="_blank">67条评论</A>)</SPAN></LI>
+</UL>
+<BR clear="all"/></DIV>
+</DIV>
+<DIV id="search-js-btr"><SCRIPT type="text/javascript">
+  amznJQ.available('search-js-general', function() {
+    amznJQ.available('popover', function() {
+      processPromotionsPopover();
+    });
+  });
+</SCRIPT> <SCRIPT type="text/javascript">
+  if (amznJQ &amp;&amp; amznJQ.onReady)
+  {
+    amznJQ.onReady("JQuery", function()
+    {
+      jQuery("td.tpType").parent("tr").hover(
+        function() { jQuery(this).addClass("toeRowHover"); },
+        function() { jQuery(this).removeClass("toeRowHover"); });
+    });
+  }
+</SCRIPT> <SCRIPT type="text/javascript">
+    amznJQ.available('search-js-general', function() {
+      SPUtils.triggerEvent("spResultsEnd");
+    });
+</SCRIPT> <SCRIPT type="text/javascript">
+    amznJQ.available("search-js-general", function () {
+      registerAivHandler("btf");
+    });
+</SCRIPT> <SCRIPT type="text/javascript">
+     amznJQ.onReady("JQuery", function() {
+       amznJQ.available("ImageRotation" , function () {
+          setupImageRotation("atf");
+          setupImageRotation("btf");
+       });
+     });
+</SCRIPT> <SCRIPT type="text/javascript">
+      amznJQ.available('search-js-general', function() {
+          if (typeof processBundlesFlyouts == 'function') {
+              processBundlesFlyouts('btf');
+          }
+      });
+</SCRIPT></DIV>
+<DIV class="img_header hdr noborder" id="bottomBar">
+<DIV class="pagnHy" id="pagn"><SPAN class="pagnLA1"><SPAN id="pagnPrevString">上一页</SPAN></SPAN> <SPAN class="pagnCur">1</SPAN>
+<SPAN class="pagnLink"><A href="#/ref=sr_pg_2?rh=n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;page=2&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941">
+2</A></SPAN> <SPAN class="pagnLink"><A href="#/ref=sr_pg_3?rh=n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;page=3&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941">
+3</A></SPAN> <SPAN class="pagnMore">...</SPAN> <SPAN class="pagnDisabled">6</SPAN> <SPAN class="pagnRA"><A class="pagnNext" href="#/ref=sr_pg_2?rh=n%3A658390051%2Ck%3A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;page=2&amp;keywords=%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&amp;ie=UTF8&amp;qid=1375112941" id="pagnNextLink" title="下一页">
+<SPAN id="pagnNextString">下一页</SPAN> </A></SPAN><BR clear="all"/></DIV>
+</DIV>
+</DIV>      </subtree>
+    </and>
+  </instance>

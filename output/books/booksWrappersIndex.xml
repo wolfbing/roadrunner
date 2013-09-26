@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="books0" source="books00.xml" dataset="books0_DataSet.xml" number_of_samples="8" compress_ratio="99.72%" schema_dl="282" instances_dl="471423" samples_dl="473023">
+    <instance name="django - 30-49元 _ 4星及以上 - 图书 - 亚马逊.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/books/result/django - 30-49元 _ 4星及以上 - 图书 - 亚马逊.htm-to.xhtml" sample_dl="57905" instance_dl="57709"/>
+    <instance name="django - 4星及以上 - 图书 - 亚马逊.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/books/result/django - 4星及以上 - 图书 - 亚马逊.htm-to.xhtml" sample_dl="92042" instance_dl="91848"/>
+    <instance name="javascript - 图书 - 亚马逊.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/books/result/javascript - 图书 - 亚马逊.htm-to.xhtml" sample_dl="114513" instance_dl="114319"/>
+    <instance name="python - 10-29元 _ 5星级 - 图书 - 亚马逊.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/books/result/python - 10-29元 _ 5星级 - 图书 - 亚马逊.htm-to.xhtml" sample_dl="40238" instance_dl="40040"/>
+    <instance name="ruby - 10-29元 _ 5星级 - 图书 - 亚马逊.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/books/result/ruby - 10-29元 _ 5星级 - 图书 - 亚马逊.htm-to.xhtml" sample_dl="38295" instance_dl="38089"/>
+    <instance name="ruby - 10-29元 _ 5星级 _ 5至7折 - 图书 - 亚马逊.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/books/result/ruby - 10-29元 _ 5星级 _ 5至7折 - 图书 - 亚马逊.htm-to.xhtml" sample_dl="30602" instance_dl="30394"/>
+    <instance name="ruby - 10-29元 _ 5星级 _ 7折及以上 - 图书 - 亚马逊.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/books/result/ruby - 10-29元 _ 5星级 _ 7折及以上 - 图书 - 亚马逊.htm-to.xhtml" sample_dl="23484" instance_dl="23276"/>
+    <instance name="ruby on rails tutorial - 100元以上 - 图书 - 亚马逊.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/books/result/ruby on rails tutorial - 100元以上 - 图书 - 亚马逊.htm-to.xhtml" sample_dl="75944" instance_dl="75748"/>
+  </wrapper>
+</index>

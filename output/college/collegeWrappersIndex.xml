@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="college0" source="college00.xml" dataset="college0_DataSet.xml" number_of_samples="3" compress_ratio="40.0%" schema_dl="24" instances_dl="0" samples_dl="60">
+    <instance name="nju_百度搜索.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/college/nju_百度搜索.htm-to.xhtml" sample_dl="20" instance_dl="0"/>
+    <instance name="pku_百度搜索.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/college/pku_百度搜索.htm-to.xhtml" sample_dl="20" instance_dl="0"/>
+    <instance name="seu_百度搜索.htm-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/college/seu_百度搜索.htm-to.xhtml" sample_dl="20" instance_dl="0"/>
+  </wrapper>
+</index>

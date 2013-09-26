@@ -1,0 +1,1525 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="overstock">
+    <instance source="file:/G:/workspace3/roadrunnertest/test/www.hotjobs.com/ByLocation01_xy_.xhtml" name="ByLocation01_xy_">
+      <and>
+        <attribute label="_A_"><link target="ByLocation01_files/text.css"/></attribute>
+        <attribute label="_B_"><link target="https://login.hotjobs.yahoo.com/display/myhj?ct_hft%3dmerge/login&amp;.src%3dhotjobs&amp;hj_region%3dus&amp;.intl%3dus&amp;.done%3dhttp%3A%2F%2Fhotjobs.yahoo.com%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch"/></attribute>
+        <attribute label="_C_"><link target="http://edit.yahoo.com/config/eval_profile?.done%3dhttp%3A%2F%2Fhotjobs.yahoo.com%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch"/></attribute>
+        <attribute label="Criteria">New Orleans, LA, include greater metropolitan areas, Direct Employers, Staffing Firms</attribute>
+        <attribute label="_E_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_corp%3d1&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_F_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_agencies%3d1&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_G_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="Date">1-50 of 239 | First | Previous | </attribute>
+        <attribute label="_I_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d2&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_J_">Next</attribute>
+        <attribute label="_K_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d5&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_L_">Last</attribute>
+        <attribute label="_M_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dtitle&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_N_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dcompany&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_O_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dsalary&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_P_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <plus>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ393893HH&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Insurance Agent</attribute>
+            <attribute label="Company Name">AIG-American General Life and Accident</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJHFCB4LCE&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Healthcare Rep (Prof Sales)</attribute>
+            <attribute label="Company Name">Pfizer, Inc.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJUQ0668D6&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Electric Motor Mechanic Trainees</attribute>
+            <attribute label="Company Name">Westaff, Inc.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$10 - $17.5/hour</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ160434RT&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Insurance Agent</attribute>
+            <attribute label="Company Name">AIG-American General Life and Accident</attribute>
+            <attribute label="Location">Thibodaux, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJUM9V265J&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Peoplesoft HRMS 8.0 Consultant</attribute>
+            <attribute label="Company Name">Adecco Technical</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJJHEH3I62&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Staffing Manager</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJJ6SS0S4L&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores - Assistant Store Manager, Covington</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Covington, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJOMSNQOPQ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores -Assistant Store Manager, Slidell</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Slidell, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ130145GC&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Insurance Agent</attribute>
+            <attribute label="Company Name">AIG-American General Life and Accident</attribute>
+            <attribute label="Location">Metairie, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJMKOUB6H4&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Sr Staff</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJNFIQM909&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores - Retail Sales Consultant, LaPlace</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Laplace, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ8OQKB9D9&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Medicare Manager</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJT42292RQ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Branch Office Administrator</attribute>
+            <attribute label="Company Name">Edward Jones</attribute>
+            <attribute label="Location">Harahan, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJSDGTTDJU&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Assistant Manager for Fortune 200!-New Orleans</attribute>
+            <attribute label="Company Name">Yum! Brands, Inc.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ2CDVU8KK&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Medical Billing/Collections</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">Laplace, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJG84S3DIJ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores - Kiosk Sales Consultant, Metairie</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Metairie, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ7IHK606U&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Legal Jobs- try it the Adecco way!</attribute>
+            <attribute label="Company Name">Adecco</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJC0IESSP2&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores - Retail Sales Consultant, Mandeville</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Mandeville, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ1CEPBDFB&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Shift Supervisor - Taco Bell- Covington</attribute>
+            <attribute label="Company Name">Yum! Brands, Inc.</attribute>
+            <attribute label="Location">Covington, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJS1JDJSOK&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Production Line/Distribution Management</attribute>
+            <attribute label="Company Name">Westaff, Inc.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$35K-$50K</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJSB12S5RJ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores - Assistant Store Manager, Gretna</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Gretna, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ2QCJSQND&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Audio/Video &amp; Computer</attribute>
+            <attribute label="Company Name">Westaff, Inc.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$10/hour</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJN41MDCP5&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Senior Accountant</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJTC2CHVL0&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Shift Supervisor - Taco Bell- Slidell</attribute>
+            <attribute label="Company Name">Yum! Brands, Inc.</attribute>
+            <attribute label="Location">Slidell, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJV4NPO1PD&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Accountant - Senior</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ66NNA2Q9&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Oil &amp; Gas Accountant</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJBOST24JB&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Staffing Manager</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ559153LH&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Sales Consultant</attribute>
+            <attribute label="Company Name">Pacific International, Ltd.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ612579MI&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Insurance Agent</attribute>
+            <attribute label="Company Name">AIG-American General Life and Accident</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJQ87NTJ7D&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">WE'VE GOT THE JOBS!</attribute>
+            <attribute label="Company Name">Adecco</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJR2MB2BRG&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Sr Staff</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJJRPGFDV8&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">We look out for YOU!</attribute>
+            <attribute label="Company Name">Adecco</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ103217VB&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Telecommunications Sales Representative</attribute>
+            <attribute label="Company Name">FocuSearch</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJO9S8HL63&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Staff Accountant</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJDN61M593&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Opportunities are Endless!</attribute>
+            <attribute label="Company Name">Adecco</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJIPFHJV7P&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Fin. Systems Conversion Specialist</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ4J3FL6J4&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Notarial Secretary</attribute>
+            <attribute label="Company Name">Adecco</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJKFBLUI4M&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Accounting Clerk</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ180988JZ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Outside B2B Sales with RESIDUAL INCOME!</attribute>
+            <attribute label="Company Name">Lynk Systems, Inc</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJTV4IDLCV&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Accountant</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJLJQKSBNJ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores - Sales Support Representative, Metarie</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Metairie, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ8AL3KFL8&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Shift Supervisor - Taco Bell- New Orleans</attribute>
+            <attribute label="Company Name">Yum! Brands, Inc.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJRAJA6UGN&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Tax</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJT33GEKE3&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores - Retail Sales Consultant, Metairie</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Metairie, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJHHL3UB67&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Retail Stores - Retail Sales Consultant, Mandeville</attribute>
+            <attribute label="Company Name">Cingular Wireless</attribute>
+            <attribute label="Location">Mandeville, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJPP50NVE2&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Accounts Receivable</attribute>
+            <attribute label="Company Name">Accountemps</attribute>
+            <attribute label="Location">Kenner, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 22</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ048308XD&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">PeopleSoft HRMS Technical</attribute>
+            <attribute label="Company Name">AETEA Information Technology Inc.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 21</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ501723PB&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">NEED A JOB? WE ARE HIRING.. PLAIN &amp; SIMPLE.. APPLY TODAY!!</attribute>
+            <attribute label="Company Name">United American Insurance Company</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 21</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ911192SU&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">PeopleSoft S/W Architect</attribute>
+            <attribute label="Company Name">AETEA Information Technology Inc.</attribute>
+            <attribute label="Location">New Orleans, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 21</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ314191AU&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Fkeywords_all%3D%26industry1%3D%26city1%3DNew%2BOrleans%26state1%3DLA%26country1%3DUSA%26search_type_form%3Dquick%26updated_since%3Dsixtydays%26basicsearch%3D0%26advancedsearch%3D0%26metro_area%3D1%26search%3DSearch&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Co-Store Managers Wanted</attribute>
+            <attribute label="Company Name">Hobby Lobby Stores, Inc.</attribute>
+            <attribute label="Location">Slidell, LA</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 21</attribute>
+          </and>
+        </plus>
+        <attribute label="_W_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_corp%3d1&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_X_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_agencies%3d1&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_Y_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="Date">1-50 of 239 | First | Previous | </attribute>
+        <attribute label="_A1_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d2&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_B1_">Next</attribute>
+        <attribute label="_C1_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dNew+Orleans&amp;state1%3dLA&amp;country1%3dUSA&amp;page_number%3d5&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus&amp;save_recent%3d1"/></attribute>
+        <attribute label="_D1_">Last</attribute>
+        <subtree>
+<TD align="center">
+<FONT face="arial" size="-2">
+<!--BB:646,202,734,228-->ADVERTISEMENT</FONT>
+<BR/>
+<A href="http://rd.yahoo.com/M=244522.3707909.4968093.2002080/D=hojo/S=396510202:SKY/A=1716393/R=0/SIG=1245vgbqa/*http://ashnin.com/clk/muryutaitakenattogyo?YH=3707909&amp;yhad=1716393">
+<IMG alt="" border="0" height="600" src="ByLocation01_files/120x600.gif" width="120"/>
+</A>
+</TD>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/G:/workspace3/roadrunnertest/test/www.hotjobs.com/ByLocation02_xy_.xhtml" name="ByLocation02_xy_">
+      <and>
+        <attribute label="_A_"><link target="ByLocation02_files/text.css"/></attribute>
+        <attribute label="_B_"><link target="https://login.hotjobs.yahoo.com/display/myhj?ct_hft%3dmerge/login&amp;.src%3dhotjobs&amp;hj_region%3dus&amp;.intl%3dus&amp;.done%3dhttp%3A%2F%2Fhotjobs.yahoo.com%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1"/></attribute>
+        <attribute label="_C_"><link target="http://edit.yahoo.com/config/eval_profile?.done%3dhttp%3A%2F%2Fhotjobs.yahoo.com%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1"/></attribute>
+        <attribute label="Criteria">Houston, TX, include greater metropolitan areas, Direct Employers, Staffing Firms</attribute>
+        <attribute label="_E_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_corp%3d1&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_F_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_agencies%3d1&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_G_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="Date">951-1000 of over 1000 | </attribute>
+        <attribute label="_I_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_J_">First</attribute>
+        <attribute label="_K_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d19&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_L_">Previous</attribute>
+        <attribute label="_M_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dtitle&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_N_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dcompany&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_O_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dsalary&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_P_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <plus>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ768382HF&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Nurse Practitioner/Physician Assistant</attribute>
+            <attribute label="Company Name">Integrated Systems Management</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$65K-$85K</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ894826WS&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Sales Representative</attribute>
+            <attribute label="Company Name">Progressive Impressions</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$70K-$110K</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ037407IU&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Veterinary PetNurse: Part-Time</attribute>
+            <attribute label="Company Name">Banfield, The Pet Hospital</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ867528HJ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">RESTAURANT MANAGERS -Dallas, Houston, TX, Laredo, TX, New Orleans, LA and Las Cruces, NM</attribute>
+            <attribute label="Company Name">Denny's</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ515TAE01&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">*Area Sales Manager - Lake Charles, TX*</attribute>
+            <attribute label="Company Name">Capital One</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ715882AU&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Assistant Account Manager - Commercial Insurance Client Service</attribute>
+            <attribute label="Company Name">USI Insurance Services Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ285934HD&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Veterinary PetNurse: FT</attribute>
+            <attribute label="Company Name">Banfield, The Pet Hospital</attribute>
+            <attribute label="Location">Katy, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ895068KA&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Gathering Engineer</attribute>
+            <attribute label="Company Name">CenterPoint Energy</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ122446MO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Personal Shopper</attribute>
+            <attribute label="Company Name">FAO Inc.</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ021124QE&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Senior Account Manager - Commercial Insurance Client Service</attribute>
+            <attribute label="Company Name">USI Insurance Services Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ858296QU&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Operations Agent</attribute>
+            <attribute label="Company Name">Associated Global Systems</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 06</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJECUIRE7E&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Programmer Analyst - Crystal Reports</attribute>
+            <attribute label="Company Name">AIG- American General</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 05</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ272127OG&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Merchandise Manager (Asst. Mgr.)</attribute>
+            <attribute label="Company Name">Linens 'n Things</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$30K-$45K</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ046703KG&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Sales</attribute>
+            <attribute label="Company Name">Frank Winne &amp; Son</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ022483DJ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Hourly Associates/ Department Specialists</attribute>
+            <attribute label="Company Name">Linens 'n Things</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$7.5 - $10/hour</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ567055XP&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">General/Assistant Store Manager</attribute>
+            <attribute label="Company Name">Linens 'n Things</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$30K-$45K</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ295303HD&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Industrial Maintenance Electrician</attribute>
+            <attribute label="Company Name">Greif</attribute>
+            <attribute label="Location">La Porte, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ041579EO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Management Trainee</attribute>
+            <attribute label="Company Name">Amarr Garage Doors</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$30K</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ759121NB&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Promotions Technician</attribute>
+            <attribute label="Company Name">Hispanic Broadcasting Corp.</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ104397LX&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Account Manager</attribute>
+            <attribute label="Company Name">Hispanic Broadcasting Corp.</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ931275DP&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">ACCOUNT EXECUTIVE - HOUSTON, TEXAS</attribute>
+            <attribute label="Company Name">ORIGINS</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ560437WM&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">District Manager CVS-Ops</attribute>
+            <attribute label="Company Name">AT Systems, Inc.</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ343944LX&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Informatica Consultant/Technical Lead</attribute>
+            <attribute label="Company Name">Logan Britton, Inc</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ735696KO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Field Supervisor</attribute>
+            <attribute label="Company Name">Sai People Solutions, Inc</attribute>
+            <attribute label="Location">Stafford, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ559282HX&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Series 7 Registered Representatives</attribute>
+            <attribute label="Company Name">Hartman Management Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ719088SO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">English Instructor in Japan</attribute>
+            <attribute label="Company Name">AEON Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ805105OM&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">RN-Peritoneal/Hemodialysis Dialysis Nurse</attribute>
+            <attribute label="Company Name">Sai People Solutions, Inc</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ747999YM&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Mechanical Engineer</attribute>
+            <attribute label="Company Name">GB Tech, Inc</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ275910SG&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">New Store Opening</attribute>
+            <attribute label="Company Name">The Bombay Company</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ927128VV&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">SPM</attribute>
+            <attribute label="Company Name">VIA Technologies - S3 Graphics</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ732490FD&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Sales Associate/Business Development</attribute>
+            <attribute label="Company Name">CardPayment Solutions</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ946822DN&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Texas Storage Sales Rep-Federal Govt Accounts</attribute>
+            <attribute label="Company Name">Spectra Logic Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ202987FF&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Just for Feet - Store Director</attribute>
+            <attribute label="Company Name">Footstar</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ357420EI&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">GENERAL MANAGER</attribute>
+            <attribute label="Company Name">Total Entertainment Restaurant</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ826408XH&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Financial Services Representative</attribute>
+            <attribute label="Company Name">First Investors Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ640081AE&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Leasing Manager</attribute>
+            <attribute label="Company Name">Hartman Management Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ344311BP&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Commercial Leasing Agents $100,000.00 ++ per year</attribute>
+            <attribute label="Company Name">Hartman Management Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ308085RV&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">SENIOR WebFOCUS PROGRAMMER CONSULTANTS</attribute>
+            <attribute label="Company Name">Information Builders</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJV3A06DL3&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Senior Accounting Consultant</attribute>
+            <attribute label="Company Name">AIG- American General</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ290945SO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">RAIL LOGISTICS MANAGER - HUMBLE, TEXAS OR PARSIPPANY, NEW JERSEY</attribute>
+            <attribute label="Company Name">Degussa Corporation</attribute>
+            <attribute label="Location">Humble, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ475826VN&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Support Surface (Mattress) Sales Representative</attribute>
+            <attribute label="Company Name">Standard Textile Company</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ223505CU&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">SAP Analyst</attribute>
+            <attribute label="Company Name">ecom elite computer consultants</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ301002AW&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Group Voluntary Benefits Enroller</attribute>
+            <attribute label="Company Name">UnumProvident Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ130580EU&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">PLC Programmers</attribute>
+            <attribute label="Company Name">Total Staffing Services</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ284892YA&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">System Analyst</attribute>
+            <attribute label="Company Name">Parker Drilling Company</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ899042NR&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Sales - Financial Services Representatives</attribute>
+            <attribute label="Company Name">First Investors Corporation</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ0DULVEPE&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Accounting Manager - Reconciliations</attribute>
+            <attribute label="Company Name">AIG- American General</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ366865CW&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Customer Service Manager</attribute>
+            <attribute label="Company Name">Rib Loc Group Limited</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Oct 01</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ461316ZJ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Customer Service Representative - Imports</attribute>
+            <attribute label="Company Name">P&amp;O NEDLLOYD LTD</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 30</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ735301GO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DHouston%26state1%3DTX%26country1%3DUSA%26page_number%3D20%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Salaried PHC/CBA Registered Nurse</attribute>
+            <attribute label="Company Name">Girling Health Care</attribute>
+            <attribute label="Location">Houston, TX</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 30</attribute>
+          </and>
+        </plus>
+        <attribute label="_W_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_corp%3d1&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_X_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_agencies%3d1&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_Y_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="Date">951-1000 of over 1000 | </attribute>
+        <attribute label="_A1_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_B1_">First</attribute>
+        <attribute label="_C1_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dHouston&amp;state1%3dTX&amp;country1%3dUSA&amp;page_number%3d19&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_D1_">Previous</attribute>
+        <subtree>
+<TD align="center">
+<FONT face="arial" size="-2">
+<!--BB:647,202,735,228-->ADVERTISEMENT</FONT>
+<BR/>
+<A alt="" href="http://rd.yahoo.com/M=248358.3857475.5105650.2002080/D=hojo/S=396510202:SKY/A=1755270/R=0/SIG=11k7b8j0c/*http://www.jobhunting.com/htj/?0309.htj.ros.twrtl1">
+<IMG alt="click here" border="0" height="600" src="ByLocation02_files/sky_ca_toolbox.gif" width="120"/>
+</A>
+</TD>        </subtree>
+      </and>
+    </instance>
+    <instance source="file:/G:/workspace3/roadrunnertest/test/www.hotjobs.com/ByLocation03_xy_.xhtml" name="ByLocation03_xy_">
+      <and>
+        <attribute label="_A_"><link target="ByLocation03_files/text.css"/></attribute>
+        <attribute label="_B_"><link target="https://login.hotjobs.yahoo.com/display/myhj?ct_hft%3dmerge/login&amp;.src%3dhotjobs&amp;hj_region%3dus&amp;.intl%3dus&amp;.done%3dhttp%3A%2F%2Fhotjobs.yahoo.com%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1"/></attribute>
+        <attribute label="_C_"><link target="http://edit.yahoo.com/config/eval_profile?.done%3dhttp%3A%2F%2Fhotjobs.yahoo.com%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1"/></attribute>
+        <attribute label="Criteria">Fort Lauderdale, FL, include greater metropolitan areas, Direct Employers, Staffing Firms</attribute>
+        <attribute label="_E_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_corp%3d1&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_F_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_agencies%3d1&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_G_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="Date">501-517 of 517 | </attribute>
+        <attribute label="_I_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_J_">First</attribute>
+        <attribute label="_K_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d10&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_L_">Previous</attribute>
+        <attribute label="_M_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dtitle&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_N_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dcompany&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_O_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3dsalary&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_P_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <plus>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ453786CO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">COST ACCOUNTING MANAGER</attribute>
+            <attribute label="Company Name">iheadhunt</attribute>
+            <attribute label="Location">Fort Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$65K-$70K</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 12</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ649505HD&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Call center Trainer</attribute>
+            <attribute label="Company Name">Technion Communications</attribute>
+            <attribute label="Location">Tamarac, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 12</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJTPI1LMRA&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">COST ACCOUNTING</attribute>
+            <attribute label="Company Name">iheadhunt</attribute>
+            <attribute label="Location">Fort Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 12</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ432020RZ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Client services</attribute>
+            <attribute label="Company Name">Technion Communications</attribute>
+            <attribute label="Location">Tamarac, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 12</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ439550II&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Financial Services Sales Professional</attribute>
+            <attribute label="Company Name">MassMutual Financial Group</attribute>
+            <attribute label="Location">Fort Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 12</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ5PAODDLC&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">ACCOUNTING MANAGER FOR PROPERTY MANAGEMENT COMPANY</attribute>
+            <attribute label="Company Name">iheadhunt</attribute>
+            <attribute label="Location">Fort Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 12</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ887139OM&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Physical Therapy</attribute>
+            <attribute label="Company Name">Promed Personnel Services</attribute>
+            <attribute label="Location">Fort Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 09</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ379189CO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Director Case Management</attribute>
+            <attribute label="Company Name">Promed Personnel Services</attribute>
+            <attribute label="Location">Fort Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$50K-$85K</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 09</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ189389DD&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Risk Management Solutions Specialist - FL</attribute>
+            <attribute label="Company Name">D&amp;B</attribute>
+            <attribute label="Location">Ft. Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 09</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ992800GI&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Bill Collector -- Charge Cards</attribute>
+            <attribute label="Company Name">Nationwide Credit Inc</attribute>
+            <attribute label="Location">Ft. Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 08</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ158305RZ&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Collection Manager</attribute>
+            <attribute label="Company Name">Nationwide Credit Inc</attribute>
+            <attribute label="Location">Ft. Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 08</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ781365LD&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Telecommunications Outside Sales Rep</attribute>
+            <attribute label="Company Name">The Hiring Company</attribute>
+            <attribute label="Location">Ft. Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 08</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ256095IO&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Named Account Executive</attribute>
+            <attribute label="Company Name">DANKA</attribute>
+            <attribute label="Location">Pompano Beach, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 04</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ865139UC&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Inbound Bilingual Phone Sales</attribute>
+            <attribute label="Company Name">Technion Communications</attribute>
+            <attribute label="Location">Tamarac, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary">$10 - $12.5/hour</attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 03</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ687017RB&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">ENGINEER - Plastics Manufacturing</attribute>
+            <attribute label="Company Name">Hoerbiger Corporation</attribute>
+            <attribute label="Location">Pompano Beach, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Sep 02</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ104030OG&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">Human Resources Manager</attribute>
+            <attribute label="Company Name">Barton Protective Services</attribute>
+            <attribute label="Location">Ft. Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Aug 28</attribute>
+          </and>
+          <and>
+            <attribute label="_Q_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id%3dJ064498JH&amp;search_url%3d%2Fjobseeker%2Fjobsearch%2Fsearch_results.html%3Ftype%3Dmain%26metro_area%3D1%26city1%3DFort%2BLauderdale%26state1%3DFL%26country1%3DUSA%26page_number%3D11%26order_by%3Drelevancy%26reverse_order%3D0%26updated_since%3Dsixtydays%26related_titles%3D6%26intl%3Dus%26save_recent%3D1&amp;keywords_any%3d&amp;keywords_all%3d&amp;keywords_phrase%3d"/></attribute>
+            <attribute label="Job Title">General Manager</attribute>
+            <attribute label="Company Name">Sbarro</attribute>
+            <attribute label="Location">Ft. Lauderdale, FL</attribute>
+            <hook>
+              <and>
+                <attribute label="Salary"><null/></attribute>
+              </and>
+            </hook>
+            <attribute label="Date">Aug 25</attribute>
+          </and>
+        </plus>
+        <attribute label="_W_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_corp%3d1&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_X_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;search_agencies%3d1&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_Y_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3ddate&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="Date">501-517 of 517 | </attribute>
+        <attribute label="_A1_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d1&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_B1_">First</attribute>
+        <attribute label="_C1_"><link target="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?type%3dmain&amp;metro_area%3d1&amp;city1%3dFort+Lauderdale&amp;state1%3dFL&amp;country1%3dUSA&amp;page_number%3d10&amp;order_by%3drelevancy&amp;reverse_order%3d0&amp;updated_since%3dsixtydays&amp;related_titles%3d6&amp;intl%3dus"/></attribute>
+        <attribute label="_D1_">Previous</attribute>
+        <subtree>
+<TD align="center">
+<FONT face="arial" size="-2">
+<!--BB:646,202,734,228-->ADVERTISEMENT</FONT>
+<BR/>
+<A href="http://rd.yahoo.com/M=244522.3707909.4968093.2002080/D=hojo/S=396510202:SKY/A=1716393/R=0/SIG=1245vgbqa/*http://ashnin.com/clk/muryutaitakenattogyo?YH=3707909&amp;yhad=1716393">
+<IMG alt="" border="0" height="600" src="ByLocation03_files/120x600.gif" width="120"/>
+</A>
+</TD>        </subtree>
+      </and>
+    </instance>
+</dataset>

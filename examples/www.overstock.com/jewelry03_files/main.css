@@ -1,0 +1,34 @@
+A               {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #1117A9; text-decoration: underline; }
+A:hover         {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #C90000;} 
+A:visited:hover {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #C90000;} 
+TABLE           {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #000000;} 
+TD              {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #000000;} 
+P               {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #000000;}
+FONT            {font-size:  9pt; font-family: Geneva, Arial, Helvetica; }
+BODY            {font-size:  9pt; font-family: Geneva, Arial, Helvetica; }
+H1              {font-family: Geneva, Arial, Helvetica; color: #003399;}
+H2              {font-family: Geneva, Arial, Helvetica; color: #003399;}
+H3              {font-family: Geneva, Arial, Helvetica; color: #003399;}
+.tiny           {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #1117A9;} 
+.links          {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #1117A9; text-decoration: underline; } 
+.normal         {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #000000;} 
+.whitelink      {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #FFFFFF;} 
+.tinyblue       {font-size:  8pt; font-family: Geneva, Arial, Helvetica; color: #003399;}
+.little         {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #FF0000;}
+.littleblue     {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #003399;}
+.littlewhite    {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #FFFFFF;}
+.retail         {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #000000;}
+.only           {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #0000FF;}
+.littleorange   {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #C90000;} 
+.lou            {font-size:  9pt; font-family: Geneva, Arial, Helvetica; color: #C90000; text-decoration: underline; }  
+.department     {font-size: 10pt; font-family: Geneva, Arial, Helvetica; color: #FFFFFF;} 
+.header         {font-size: 10pt; font-family: Geneva, Arial, Helvetica; color: #FFFFFF;} 
+.text           {font-size: 10pt; font-family: Geneva, Arial, Helvetica; color: #000000;} 
+.bigred         {font-size: 10pt; font-family: Geneva, Arial, Helvetica; color: #C90000;} 
+.textwhite      {font-size: 10pt; font-family: Geneva, Arial, Helvetica; color: #FFFFFF;} 
+.orange         {font-size: 12pt; font-family: Geneva, Arial, Helvetica; color: #C90000;} 
+.title          {font-size: 12pt; font-family: Geneva, Arial, Helvetica; color: #1117A9;} 
+.bigwhite       {font-size: 12pt; font-family: Geneva, Arial, Helvetica; color: #FFFFFF;} 
+.bigblue        {font-size: 12pt; font-family: Geneva, Arial, Helvetica; color: #003399;}
+.bigwhite       {font-size: 12pt; font-family: Geneva, Arial, Helvetica; color: #DDDDDD;}
+.ours           {font-size: 14pt; font-family: Geneva, Arial, Helvetica; color: #FF0000;}

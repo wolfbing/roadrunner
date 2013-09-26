@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="college">
+    <instance source="file:/G:/datamining/Projects/roadrunnertest/test-pages/college/nju_百度搜索.htm-to.xhtml" name="nju_百度搜索.htm-to">
+      <and>
+      </and>
+    </instance>
+    <instance source="file:/G:/datamining/Projects/roadrunnertest/test-pages/college/pku_百度搜索.htm-to.xhtml" name="pku_百度搜索.htm-to">
+      <and>
+      </and>
+    </instance>
+    <instance source="file:/G:/datamining/Projects/roadrunnertest/test-pages/college/seu_百度搜索.htm-to.xhtml" name="seu_百度搜索.htm-to">
+      <and>
+      </and>
+    </instance>
+</dataset>

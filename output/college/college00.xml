@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="college">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value=""/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs=""/>
+    <tag element="/html" depth="0" attrs=""/>
+  </and>
+</expression>
+</wrapper>

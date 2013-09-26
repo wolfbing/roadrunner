@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<preferences name="Overstock Preferences ">
+    <step0 value="true"/>
+    <solutions value="1"/>
+    <backtracking value="true"/>
+    <collapsingbt value="false"/>
+    <ambiguity value="1"/>
+    <occurrences value="3"/>
+    <useHooks value="true"/>
+    <usePluses value="true"/>
+    <useSubtrees value="true"/>
+    <freePlus value="true"/>
+    <LLk value="2"/>
+    <RRk value="3"/>
+    <freetext value="false"/>
+    <skipTags value="script,link"/>
+    <skipTrees value="script,style"/>
+    <skipAttributes value="selected,bgcolor"/>
+    <attributeValues value="id,class"/>
+    <prefixLabelling value="false"/>
+    <visualLabelling value="false"/>
+</preferences>

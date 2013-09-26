@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="newtest0" source="newtest00.xml" dataset="newtest0_DataSet.xml" number_of_samples="5" compress_ratio="21.34%" schema_dl="13376" instances_dl="1019" samples_dl="67449">
+    <instance name="GetFile_GetDoNotePage.htm-to-" source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetFile_GetDoNotePage.htm-to-.xhtml" sample_dl="13467" instance_dl="181"/>
+    <instance name="GetMonitor_GetDoNotePage.htm-to-" source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetMonitor_GetDoNotePage.htm-to-.xhtml" sample_dl="13504" instance_dl="218"/>
+    <instance name="GetPaper_GetDoNotePage.htm-to-" source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetPaper_GetDoNotePage.htm-to-.xhtml" sample_dl="13504" instance_dl="218"/>
+    <instance name="GetPreFile_GetDoNotePage.htm-to-" source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetPreFile_GetDoNotePage.htm-to-.xhtml" sample_dl="13470" instance_dl="184"/>
+    <instance name="GetToDo_GetDoNotePage.htm-to-" source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetToDo_GetDoNotePage.htm-to-.xhtml" sample_dl="13504" instance_dl="218"/>
+  </wrapper>
+</index>

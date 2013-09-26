@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="ansi0" source="ansi00.xml" dataset="ansi0_DataSet.xml" number_of_samples="3" compress_ratio="46.5%" schema_dl="317" instances_dl="1217" samples_dl="3299">
+    <instance name="1.html-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/ansi/result/1.html-to.xhtml" sample_dl="609" instance_dl="199"/>
+    <instance name="2.html-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/ansi/result/2.html-to.xhtml" sample_dl="1004" instance_dl="362"/>
+    <instance name="3.html-to" source="file:/G:/datamining/Projects/roadrunnertest/test-pages/ansi/result/3.html-to.xhtml" sample_dl="1686" instance_dl="656"/>
+  </wrapper>
+</index>

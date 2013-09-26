@@ -1,0 +1,42 @@
+// latest popupWindow script
+// recognized attributes (optional):
+//	resize, tool, loc, status, menu
+
+var pWindowHandle = "";
+var WINDOW_BASE_NAME = "POPUP_";
+
+function popupWindow(url, width, height, attributes, windowName)
+{
+	var	args = "width=" + width + ",height=" + height + ",scrollbars=yes,menubar=no";
+	var	foo;
+
+	if (attributes && ((typeof attributes) == "string")) {
+		args += (attributes.indexOf("resize") != -1) ? ",resizable=yes" : ",resizeable=no";
+		args += (attributes.indexOf("tool") != -1) ? ",toolbar=yes" : ",toolbar=no";
+		args += (attributes.indexOf("menu") != -1) ? ",menubar=yes" : ",menubar=no";
+		args += (attributes.indexOf("loc") != -1) ? ",location=yes" : ",location=no";
+		args += (attributes.indexOf("status") != -1) ? ",status=yes" : ",status=no";
+	} else if (attributes) {	// this is for backwards compatibility...
+		args += ",resizeable=no,toolbar=yes,location=no,status=no";
+	} else {
+		args += ",resizeable=no,toolbar=no,location=no,status=no";
+	}	
+
+	if (!windowName) {
+		pWindowHandle = WINDOW_BASE_NAME + (Math.round(89999*Math.random() + 10000)).toString();
+	} else {
+		pWindowHandle = windowName;
+	}
+		
+	foo = window.open(url, pWindowHandle, args);
+
+	if (windowName)
+		foo.focus();
+}
+
+function popupWindowReturn(url, width, height, attributes)
+{
+	popupWindow(url, width, height, attributes);
+	return pWindowHandle;
+}
+

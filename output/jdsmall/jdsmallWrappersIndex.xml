@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="jdsmall0" source="jdsmall00.xml" dataset="jdsmall0_DataSet.xml" number_of_samples="5" compress_ratio="98.82%" schema_dl="265" instances_dl="69680" samples_dl="70778">
+    <instance name="1.html-to" source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/1.html-to.xhtml" sample_dl="46633" instance_dl="46419"/>
+    <instance name="2.html-to" source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/2.html-to.xhtml" sample_dl="12123" instance_dl="11905"/>
+    <instance name="3.html-to" source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/3.html-to.xhtml" sample_dl="5785" instance_dl="5565"/>
+    <instance name="4.html-to" source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/4.html-to.xhtml" sample_dl="2103" instance_dl="1879"/>
+    <instance name="5.html-to" source="file:/C:/Users/Admin/Desktop/测试文件/jd-small/5.html-to.xhtml" sample_dl="4134" instance_dl="3912"/>
+  </wrapper>
+</index>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<preferences name="Hotjobs Preferences ">
+    <step0 value="true"/>
+    <solutions value="1"/>
+    <backtracking value="true"/>
+    <collapsingbt value="true"/>
+    <ambiguity value="1"/>
+    <occurrences value="1"/>
+    <useHooks value="true"/>
+    <usePluses value="true"/>
+    <useSubtrees value="false"/> 
+    <freePlus value="false"/>
+    <freetext value="false"/>
+    <skipAttributes value=""/>
+    <attributeValues value="class"/>
+    <LLk value="2"/>
+</preferences>

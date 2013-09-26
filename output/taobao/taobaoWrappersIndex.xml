@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="taobao0" source="taobao00.xml" dataset="taobao0_DataSet.xml" number_of_samples="4" compress_ratio="99.86%" schema_dl="1384" instances_dl="2475987" samples_dl="2480839">
+    <instance name="1.html-to" source="file:/C:/Users/Admin/Desktop/taobao-out/1.html-to.xhtml" sample_dl="644154" instance_dl="642942"/>
+    <instance name="2.html-to" source="file:/C:/Users/Admin/Desktop/taobao-out/2.html-to.xhtml" sample_dl="685560" instance_dl="684348"/>
+    <instance name="3.html-to" source="file:/C:/Users/Admin/Desktop/taobao-out/3.html-to.xhtml" sample_dl="608466" instance_dl="607252"/>
+    <instance name="4.html-to" source="file:/C:/Users/Admin/Desktop/taobao-out/4.html-to.xhtml" sample_dl="542659" instance_dl="541445"/>
+  </wrapper>
+</index>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="newtest">
+    <instance source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetFile_GetDoNotePage.htm-to-.xhtml" name="GetFile_GetDoNotePage.htm-to-">
+      <and>
+        <attribute label="_A_">归档收文 - 办文单</attribute>
+        <attribute label="_B_">[2012]0011号</attribute>
+        <attribute label="_C_">啊啊啊</attribute>
+        <attribute label="_D_">啊啊啊</attribute>
+      </and>
+    </instance>
+    <instance source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetMonitor_GetDoNotePage.htm-to-.xhtml" name="GetMonitor_GetDoNotePage.htm-to-">
+      <and>
+        <attribute label="_A_">办文监控 - 办文单</attribute>
+        <attribute label="_B_">收文序列二[2012]0002号</attribute>
+        <attribute label="_C_">测试来文单位</attribute>
+        <attribute label="_D_">测试文件标题</attribute>
+      </and>
+    </instance>
+    <instance source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetPaper_GetDoNotePage.htm-to-.xhtml" name="GetPaper_GetDoNotePage.htm-to-">
+      <and>
+        <attribute label="_A_">收文登记 - 办文单</attribute>
+        <attribute label="_B_">收文序列二[2012]0004号</attribute>
+        <attribute label="_C_">测试来文单位</attribute>
+        <attribute label="_D_">测试文件标题</attribute>
+      </and>
+    </instance>
+    <instance source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetPreFile_GetDoNotePage.htm-to-.xhtml" name="GetPreFile_GetDoNotePage.htm-to-">
+      <and>
+        <attribute label="_A_">预归档收文 - 办文单</attribute>
+        <attribute label="_B_">[2012]0011号</attribute>
+        <attribute label="_C_">啊啊啊</attribute>
+        <attribute label="_D_">啊啊啊</attribute>
+      </and>
+    </instance>
+    <instance source="file:/D:/javacode/roadrunnertest/output/转换后的相似页面/GetToDo_GetDoNotePage.htm-to-.xhtml" name="GetToDo_GetDoNotePage.htm-to-">
+      <and>
+        <attribute label="_A_">收文拟办 - 办文单</attribute>
+        <attribute label="_B_">收文序列二[2012]0002号</attribute>
+        <attribute label="_C_">测试来文单位</attribute>
+        <attribute label="_D_">测试文件标题</attribute>
+      </and>
+    </instance>
+</dataset>

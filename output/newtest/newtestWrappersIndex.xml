@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="newtest0" source="newtest00.xml" dataset="newtest0_DataSet.xml" number_of_samples="5" compress_ratio="99.42%" schema_dl="163" instances_dl="72620" samples_dl="73204">
+    <instance name="1.html-to-" source="file:/C:/Users/Admin/Desktop/jd-标注更小/extract/1.html-to-.xhtml" sample_dl="48277" instance_dl="48165"/>
+    <instance name="2.html-to-" source="file:/C:/Users/Admin/Desktop/jd-标注更小/extract/2.html-to-.xhtml" sample_dl="12599" instance_dl="12483"/>
+    <instance name="3.html-to-" source="file:/C:/Users/Admin/Desktop/jd-标注更小/extract/3.html-to-.xhtml" sample_dl="5989" instance_dl="5871"/>
+    <instance name="4.html-to-" source="file:/C:/Users/Admin/Desktop/jd-标注更小/extract/4.html-to-.xhtml" sample_dl="2103" instance_dl="1983"/>
+    <instance name="5.html-to-" source="file:/C:/Users/Admin/Desktop/jd-标注更小/extract/5.html-to-.xhtml" sample_dl="4236" instance_dl="4118"/>
+  </wrapper>
+</index>

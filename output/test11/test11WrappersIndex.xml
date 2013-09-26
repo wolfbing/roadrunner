@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="test110" source="test1100.xml" dataset="test110_DataSet.xml" number_of_samples="4" compress_ratio="97.32%" schema_dl="113" instances_dl="6744" samples_dl="7046">
+    <instance name="S 入出金・振替 入金指示 入力.html-to-" source="file:/C:/Users/Admin/Desktop/test11-xml/S 入出金・振替 入金指示 入力.html-to-.xhtml" sample_dl="951" instance_dl="875"/>
+    <instance name="S 入出金・振替 入金指示 機関選択.html-to-" source="file:/C:/Users/Admin/Desktop/test11-xml/S 入出金・振替 入金指示 機関選択.html-to-.xhtml" sample_dl="3363" instance_dl="3289"/>
+    <instance name="S 入出金・振替 入金指示 確認.html-to-" source="file:/C:/Users/Admin/Desktop/test11-xml/S 入出金・振替 入金指示 確認.html-to-.xhtml" sample_dl="1249" instance_dl="1171"/>
+    <instance name="S 入出金・振替 出金指示 入力.html-to-" source="file:/C:/Users/Admin/Desktop/test11-xml/S 入出金・振替 出金指示 入力.html-to-.xhtml" sample_dl="1483" instance_dl="1409"/>
+  </wrapper>
+</index>

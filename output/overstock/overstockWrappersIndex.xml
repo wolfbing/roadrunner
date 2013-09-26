@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="overstock0" source="overstock00.xml" dataset="overstock0_DataSet.xml" number_of_samples="3" compress_ratio="79.85%" schema_dl="18667" instances_dl="222781" samples_dl="302394">
+    <instance name="ByLocation01_xy_" source="file:/G:/workspace3/roadrunnertest/test/www.hotjobs.com/ByLocation01_xy_.xhtml" sample_dl="119594" instance_dl="90680"/>
+    <instance name="ByLocation02_xy_" source="file:/G:/workspace3/roadrunnertest/test/www.hotjobs.com/ByLocation02_xy_.xhtml" sample_dl="120311" instance_dl="91268"/>
+    <instance name="ByLocation03_xy_" source="file:/G:/workspace3/roadrunnertest/test/www.hotjobs.com/ByLocation03_xy_.xhtml" sample_dl="62489" instance_dl="40833"/>
+  </wrapper>
+</index>

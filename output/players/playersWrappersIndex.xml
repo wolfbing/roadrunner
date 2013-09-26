@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="players0" source="players00.xml" dataset="players0_DataSet.xml" number_of_samples="3" compress_ratio="54.49%" schema_dl="47174" instances_dl="65100" samples_dl="206042">
+    <instance name="Cannavaro_xy_" source="file:/G:/workspace3/roadrunnertest/examples/fifaworldcup.yahoo.com/Cannavaro_xy_.xhtml" sample_dl="65636" instance_dl="18104"/>
+    <instance name="Nesta_xy_" source="file:/G:/workspace3/roadrunnertest/examples/fifaworldcup.yahoo.com/Nesta_xy_.xhtml" sample_dl="66917" instance_dl="21075"/>
+    <instance name="Zidane_xy_" source="file:/G:/workspace3/roadrunnertest/examples/fifaworldcup.yahoo.com/Zidane_xy_.xhtml" sample_dl="73489" instance_dl="25921"/>
+  </wrapper>
+</index>

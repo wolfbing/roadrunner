@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+  <instance source="file:/C:/Users/Admin/Desktop/ori-mat/test2.html" name="test2">
+    <and>
+      <plus>
+        <and>
+          <attribute label="_A_">11111</attribute>
+          <attribute label="_B_">33333</attribute>
+        </and>
+        <and>
+          <attribute label="_A_">22222</attribute>
+          <attribute label="_B_">44444</attribute>
+        </and>
+        <and>
+          <attribute label="_A_">11111</attribute>
+          <attribute label="_B_">33333</attribute>
+        </and>
+        <and>
+          <attribute label="_A_">22222</attribute>
+          <attribute label="_B_">44444</attribute>
+        </and>
+      </plus>
+    </and>
+  </instance>

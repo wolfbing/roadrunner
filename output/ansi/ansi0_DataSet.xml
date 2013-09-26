@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\data.xsl" type="text/xsl"?>
+<dataset wrappedby="ansi">
+    <instance source="file:/G:/datamining/Projects/roadrunnertest/test-pages/ansi/result/1.html-to.xhtml" name="1.html-to">
+      <and>
+        <plus>
+          <and>
+            <attribute label="_A_">哈哈哈哈</attribute>
+            <attribute label="_B_">hhhh</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">hhhhh</attribute>
+            <attribute label="_B_">hhhh</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">hhhhh</attribute>
+            <attribute label="_B_">hhh</attribute>
+          </and>
+        </plus>
+      </and>
+    </instance>
+    <instance source="file:/G:/datamining/Projects/roadrunnertest/test-pages/ansi/result/2.html-to.xhtml" name="2.html-to">
+      <and>
+        <plus>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+        </plus>
+      </and>
+    </instance>
+    <instance source="file:/G:/datamining/Projects/roadrunnertest/test-pages/ansi/result/3.html-to.xhtml" name="3.html-to">
+      <and>
+        <plus>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">哈哈哈</attribute>
+            <attribute label="_B_">哈哈哈哈</attribute>
+          </and>
+          <and>
+            <attribute label="_A_">嘻嘻嘻</attribute>
+            <attribute label="_B_">嘻嘻嘻</attribute>
+          </and>
+        </plus>
+      </and>
+    </instance>
+</dataset>
