@@ -182,7 +182,8 @@ public class BrowserMarshall implements MarshallConstants {
     
     private void writeResultFile() throws IOException {
         Wrapper first = (Wrapper)this.repository.getWrappers().iterator().next();
-        PrintWriter out = new PrintWriter(new FileWriter(getResultsFile()));
+//        PrintWriter out = new PrintWriter(new FileWriter(getResultsFile()));
+        PrintWriter out = new PrintWriter(new OutputStreamWriter(new FileOutputStream(getResultsFile()),"utf-8"));
         out.println("<!DOCTYPE HTML PUBLIC \"-//W)3C//DTD HTML 4.01 Frameset//EN\"");
         out.print("   \"http://www.w3.org/TR/html4/frameset.dtd\">");
         out.println("<HTML><HEAD><TITLE>The RoadRunner Project</TITLE></HEAD>");
@@ -200,7 +201,8 @@ public class BrowserMarshall implements MarshallConstants {
     private void writeIndexFile() throws IOException {
         Indenter ind = new Indenter(false);
         DecimalFormat formatter = new DecimalFormat(".##%");
-        PrintWriter out = new PrintWriter(new FileWriter(getIndexFile()));
+//        PrintWriter out = new PrintWriter(new FileWriter(getIndexFile()));
+        PrintWriter out = new PrintWriter(new OutputStreamWriter(new FileOutputStream(getIndexFile()),"utf-8"));
         out.println("<?xml version='1.0' encoding=\"UTF-8\"?>");
         out.println("<?xml-stylesheet href=\""+getRelativeIndexStyleFile()+"\" type=\"text/xsl\"?>");
         out.println(ind+"<"+INDEX+">");
@@ -249,7 +251,8 @@ public class BrowserMarshall implements MarshallConstants {
             Set samples   = repository.getSamples(wrapper);
             log.fine("There are "+samples.size()+" samples");
             
-            PrintWriter out = new PrintWriter(new FileWriter(getDataSetFile(wrapper)));
+//            PrintWriter out = new PrintWriter(new FileWriter(getDataSetFile(wrapper)));
+            PrintWriter out = new PrintWriter(new OutputStreamWriter(new FileOutputStream(getDataSetFile(wrapper)),"utf-8"));
             out.println("<?xml version='1.0' encoding=\"UTF-8\"?>");
             out.println("<?xml-stylesheet href=\""+getRelativeDataSetStyleFile()+"\" type=\"text/xsl\"?>");
             out.println("<"+DATASET+" "+WRAPPEDBY+"=\""+wrapper.getName()+"\">");
@@ -272,62 +275,7 @@ public class BrowserMarshall implements MarshallConstants {
     private void writeWrapperFiles() throws IOException{
         Iterator it = this.repository.getWrappers().iterator();
         while (it.hasNext()) {
-            Wrapper wrapper = (Wrapper)it.next();
-            
-//            Wrapper w2;
-//            Expression exp1 = wrapper.getExpression();
-//            
-//			try {
-//				w2 = Wrapper.load(new File("C:/Users/Admin/Desktop/test1100.xml"));
-//
-//				Expression exp2 = w2.getExpression();
-//				if(exp1.equals(exp2))
-//	            {
-//	            	System.out.println(true);
-//	            }
-//	            else
-//	            {
-//	            	if(exp1.getInvariants().equals(exp2.getInvariants()))
-//	            	{
-//	            		System.out.println("invariants is equal");
-//	            	}
-//	            	else
-//	            	{
-//	            		System.out.println("invariants is not equal");
-//	            	}
-//	            	if(exp1.getRoot().equals(exp2.getRoot()))
-//	            	{
-//	            		System.out.println("root is equal");
-//	            	}
-//	            	else
-//	            	{
-//	            		System.out.println("root is not equal");
-//	            	}
-//	            	ASTAnd r1 = exp1.getRoot();
-//	            	ASTAnd r2 = exp2.getRoot();
-//	            	
-//	            	List chs1 = r1.jjtGetChildren();
-//	            	List chs2 = r2.jjtGetChildren();
-//	            	System.out.println(chs1.size()+"   "+chs2.size());
-//	            	for(int i=0;i<chs1.size();++i)
-//	            	{
-//	            		if(!chs1.get(i).equals(chs2.get(i)))
-//	            		{
-//	            			System.out.println(i);
-//	            		}
-//	            	}
-//	            		
-//	            	
-//	            	System.out.println(false);
-//	            }
-//				
-//				
-//			} catch (SAXException e) {
-//				// TODO Auto-generated catch block
-//				e.printStackTrace();
-//			}
-//            
-//            
+            Wrapper wrapper = (Wrapper)it.next();         
             wrapper.saveAs(getWrapperFile(wrapper));
         }
     }

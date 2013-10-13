@@ -76,17 +76,16 @@ public class Main {
 		// arg2: 输出文件路径，到文件夹
 		converter.convertAll("C:/Users/Admin/Desktop/OceanSoft的相似页面/相似页面3/",
 				"C:/Users/Admin/Desktop/result2/");
-		
-	
-		
+
 		System.out.println("============= END ===============");
 		
 		
 		
-		
-		
-		
-		
+	}
+	
+	public static void main(String [] args)
+	{
+		System.out.println("end");
 	}
 
 }

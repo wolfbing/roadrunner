@@ -82,6 +82,7 @@ public class Wrapper {
     final static private String NAME        = "name";
     
     static private void write(Wrapper wrapper, Writer writer) throws IOException {
+//    	PrintWriter out = new PrintWriter(new OutputStreamWriter(new FileOutputStream(getResultsFile()),"utf-8"));
         PrintWriter out = new PrintWriter(writer);
         Indenter ind = new Indenter(false);
         out.println("<?xml version='1.0' encoding=\"UTF-8\"?>");
@@ -150,7 +151,8 @@ public class Wrapper {
         saveAs(new File(this.getName()+".xml"));
     }
     public void saveAs(File file) throws IOException {
-        write(this, new FileWriter(file));
+    	OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream(file),"utf-8");
+        write(this, writer);
     }
     
     public String toString() {
