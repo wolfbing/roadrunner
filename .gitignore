@@ -4,4 +4,4 @@
 *.jar
 *.war
 *.ear
-!./foruse/roadrunner.jar
+!foruse/roadrunner.jar
