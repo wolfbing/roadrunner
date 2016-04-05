@@ -1,10 +1,10 @@
 #Roadrunner的使用
 ----
 ## 使用方法
-1. 将工程导入workspace
+1. 将工程作为maven工程导入workspace,将java兼容性设置为1.7
 2. 在自己的工程中导入roadrunner.jar
 3. 在将项目foruse/文件夹下的三个文件夹：etc/,stype/,output/放到自己的工程目录下（及eclipse项目的.project文件所在的目录）。
-4. 导入包名`com.wolf_datamining.autoextracting.roadrunner.application`使用接口下面讲解的接口进行开发。
+4. 导入包名`com.wolf_datamining.autoextracting.roadrunner.application`使用下面讲解的接口进行开发。
 
 
 
